@@ -1,0 +1,126 @@
+ql:quickload(list("bibtex-parser", "str", "shasht"), :silent, t)
+
+*print-pretty* = nil
+
+defun keyword-entries-as-org(keyword, entries):
+  declare type(list, entries)
+  with output-to-string(*standard-output*):
+    write-line(":properties:");
+    format(t, ":id: ~A~%", keyword);
+    write-line(":end:");
+    format(t, "#+title: ~A", keyword);
+
+    format(t, "~%~%*References*~%~%")
+    loop :for entry :in entries
+      :do format(
+        t, "- [[id:~A][~A]]~%",
+        bibtex-parser:entry-key(entry),
+        bibtex-parser:entry-field(entry, :title)
+      )
+    end
+  end
+end
+
+defun export-keyword-nodes(table, dirname):
+  let keyword-dirname = merge-pathnames("keywords/", dirname):
+    ensure-directories-exist(keyword-dirname)
+    loop :for keyword :in alexandria:hash-table-keys(table)
+      :do alexandria:write-string-into-file(
+        keyword-entries-as-org(keyword, gethash(keyword, table)),
+        merge-pathnames(uiop:strcat(keyword, ".org"), keyword-dirname),
+        :if-does-not-exist, :create, :if-exists, :supersede
+      )
+    end
+  end
+end
+
+
+defun entry-as-org(entry):
+  with output-to-string(*standard-output*):
+    write-line(":properties:");
+    format(t, ":id: ~A~%", bibtex-parser:entry-key(entry));
+    write-line(":end:");
+    format(t, "#+title: ~A", bibtex-parser:entry-key(entry));
+
+    format(t, "~%~%");
+    let+ (author, year, title, journal, booktitle, volume, issue, url, doi) =
+           mapcar(
+            lm (f): bibtex-parser:entry-field(entry, f),
+            list(:author, :year, :title, :journal, :booktitle, :volume, :issue, :url, :doi)
+           ):
+
+      format(t, "/~A/ (~A).", author, year);
+      format(t, " ~A", title);
+      format(t, " /~A/", journal or booktitle or "");
+      if volume and issue:
+        format(t, " /~A(~A)./", volume, issue);
+      elif volume:
+        format(t, " /~A./", volume);
+      end
+
+      if url: format(t, " ~A", url);
+      elif doi: format(t, " [[https://doi.org/~A][~A]]", doi, doi);
+      end
+    end
+  end
+end
+
+
+defun export-entry-nodes(table, dirname):
+  let entry-dirname = merge-pathnames("entries/", dirname):
+    ensure-directories-exist(entry-dirname);
+    loop :for keyword :in alexandria:hash-table-keys(table)
+      :do loop :for entry :in gethash(keyword, table)
+        :for key := bibtex-parser:entry-key(entry)
+        :do alexandria:write-string-into-file(
+          entry-as-org(entry),
+          merge-pathnames(uiop:strcat(key, ".org"), entry-dirname),
+          :if-does-not-exist, :create, :if-exists, :supersede
+        )
+      end
+    end
+  end
+end
+
+defun export-as-org-roam-directory(table, dirname):
+  dirname = uiop:ensure-directory-pathname(dirname);
+  export-keyword-nodes(table, dirname);
+  export-entry-nodes(table, dirname);
+end
+
+
+defun cluster-references(bib-file, dirname):
+  let table = make-hash-table(:test, $equal),
+    entries = bibtex-parser:from-file(bib-file):
+    loop :for entry :in entries
+      :for keywords := uiop:split-string(
+        bibtex-parser:entry-field(entry, :keywords),
+        :separator, list(',')
+      )
+      :do loop :for keyword :in keywords
+        :when length(keyword) > 0
+        :do push(
+          entry,
+          gethash(string-trim(" ", keyword), table)
+        )
+      end loop
+    end loop
+
+    format(
+      t, "~&Found ~A keywords across ~A entries~%",
+      hash-table-count(table), length(entries)
+    )
+
+    table
+
+    export-as-org-roam-directory(table, dirname);
+
+    # with open-file(out, json-file, :direction, :output,
+    #   :if-exists, :supersede, :if-does-not-exist, :create
+    # ):
+    #   let *print-pretty* = t:
+    #     shasht:write-json(table, out)
+    #   end
+    # end
+  end
+end
