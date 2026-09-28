@@ -1,8 +1,0 @@
-:properties:
-:id: Subitizing
-:end:
-#+title: Subitizing
-
-*References*
-
-- [[id:Pylyshyn2000][Situating Vision in the World]]

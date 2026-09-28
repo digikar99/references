@@ -1,8 +1,0 @@
-:properties:
-:id: Symbolic Computation (cs.SC)
-:end:
-#+title: Symbolic Computation (cs.SC)
-
-*References*
-
-- [[id:Wong2023WordModels][From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought]]

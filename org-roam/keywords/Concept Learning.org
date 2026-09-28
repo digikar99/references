@@ -5,6 +5,10 @@
 
 *References*
 
+- [[id:Carey2011Concept][Concept innateness, concept continuity, and bootstrapping]]
+- [[id:Carey1983Constraints][Constraints on the Meanings of Natural Kind Terms]]
+- [[id:Rehder2001Abstract][Abstract coherent categories.]]
+- [[id:Sloutsky2010Develop][From Perceptual Categories to Concepts: What Develops?]]
 - [[id:Gardenfors2018Learning][From Sensations to Concepts: a Proposal for Two Learning Processes]]
 - [[id:Zhao2023Bootstrapping][A model of conceptual bootstrapping in human cognition]]
 - [[id:Bramley2017Neurath][Formalizing Neurath’s ship: Approximate algorithms for online causal learning.]]

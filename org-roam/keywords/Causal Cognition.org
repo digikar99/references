@@ -63,6 +63,7 @@
 - [[id:Morris2018Judgments][Judgments of actual causation approximate the effectiveness of interventions]]
 - [[id:Kovacevic2024Responsibility][The importance of epistemic intentions in ascription of responsibility]]
 - [[id:Gerstenberg2020Expectations][Expectations affect physical causation judgments.]]
+- [[id:Franken2024Generation][Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models]]
 - [[id:Quillien2020Cause][When do we think that X caused Y?]]
 - [[id:Bonawitz2014WinStay][Win-Stay, Lose-Sample: A simple sequential algorithm for approximating Bayesian inference]]
 - [[id:Gardenfors2024Causal][Agency at a distance: learning causal connections]]

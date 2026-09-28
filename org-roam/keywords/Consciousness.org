@@ -7,4 +7,5 @@
 
 - [[id:Butlin2023Consciousness][Consciousness in Artificial Intelligence: Insights from the Science of Consciousness]]
 - [[id:Moors2017Awareness][Causal events enter awareness faster than non-causal events]]
+- [[id:Wittman2015Modulations][Modulations of the Experience of Self and Time]]
 - [[id:Dennett1975Law][Why the law of effect will not go away.]]

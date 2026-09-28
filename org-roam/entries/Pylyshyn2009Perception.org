@@ -1,0 +1,6 @@
+:properties:
+:id: Pylyshyn2009Perception
+:end:
+#+title: Pylyshyn2009Perception
+
+/Pylyshyn, Zenon W./ (2009). Perception, Representation, and the World: The FINST That Binds /Computation, cognition, and Pylyshyn/

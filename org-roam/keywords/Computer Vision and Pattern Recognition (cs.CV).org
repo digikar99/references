@@ -1,8 +1,0 @@
-:properties:
-:id: Computer Vision and Pattern Recognition (cs.CV)
-:end:
-#+title: Computer Vision and Pattern Recognition (cs.CV)
-
-*References*
-
-- [[id:Dasgupta2021VoE][A Benchmark for Modeling Violation-of-Expectation in Physical Reasoning Across Event Categories]]

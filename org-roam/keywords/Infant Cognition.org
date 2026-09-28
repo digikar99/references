@@ -15,6 +15,7 @@
 - [[id:Cicchino2011Correspondences][Correspondences between what infants see and know about causal and self-propelled motion]]
 - [[id:Csibra2009Natural][Natural pedagogy]]
 - [[id:Csibra2010Communicative][Recognizing Communicative Intentions in Infancy]]
+- [[id:Dasgupta2021VoE][A Benchmark for Modeling Violation-of-Expectation in Physical Reasoning Across Event Categories]]
 - [[id:Deligianni2011Automated][Automated gaze-contingent objects elicit orientation following in 8-month-old infants.]]
 - [[id:Forgcs2018Comprehension][Fourteen-month-old infants track the language comprehension of communicative partners]]
 - [[id:Gergely2003Intentional][Taking the intentional stance at 12 months of age]]

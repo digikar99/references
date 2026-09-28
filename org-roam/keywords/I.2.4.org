@@ -1,8 +1,0 @@
-:properties:
-:id: I.2.4
-:end:
-#+title: I.2.4
-
-*References*
-
-- [[id:Halpern2011Causation][Actual causation and the art of modeling]]

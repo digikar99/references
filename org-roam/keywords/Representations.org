@@ -7,6 +7,10 @@
 
 - [[id:Perner1994Understanding][Understanding the representational mind]]
 - [[id:Piccinini2006Computation][Computation without Representation]]
+- [[id:Pylyshyn2007Book][Things and Places: How the Mind Connects with the World]]
+- [[id:Ramsey2016][Untangling Two Questions about Mental Representation]]
+- [[id:Redshaw2014Metarepresentation][Does metarepresentation make human mental time travel unique?]]
+- [[id:Rescorla2012Representation][How to Integrate Representation into Computational Modeling, and Why We Should]]
 - [[id:Greenberg2023Spectrum][The Iconic-Symbolic Spectrum]]
 - [[id:Carey2022Becoming][Becoming a Cognitive Scientist]]
 - [[id:Clarke2020Cognition][Beyond the icon: Core cognition and the bounds of perception]]

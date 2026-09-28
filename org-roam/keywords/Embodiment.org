@@ -1,8 +1,0 @@
-:properties:
-:id: Embodiment
-:end:
-#+title: Embodiment
-
-*References*
-
-- [[id:wittmann-2015-self-and-time][Modulations of the Experience of Self and Time]]

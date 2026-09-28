@@ -9,3 +9,8 @@
 - [[id:Blaser2000Feature][Tracking an Object through Feature Space]]
 - [[id:Franconeri2010Spacing][Tracking Multiple Objects Is Limited Only by Object Spacing, Not by Speed, Time, or Capacity]]
 - [[id:Franconeri2012Occlusion][A Simple Proximity Heuristic Allows Tracking of Multiple Objects through Occlusion]]
+- [[id:Pylyshyn2000][Situating Vision in the World]]
+- [[id:Pylyshyn2001Situated][Visual Indexes, Preconceptual Objects, and Situated Vision]]
+- [[id:Pylyshyn2004Puzzling][Some Puzzling Findings in Multiple Object Tracking: I. Tracking without Keeping Track of Object Identities]]
+- [[id:Pylyshyn2007Book][Things and Places: How the Mind Connects with the World]]
+- [[id:Pylyshyn2009Perception][Perception, Representation, and the World: The FINST That Binds]]

@@ -1,8 +1,0 @@
-:properties:
-:id: Interoception
-:end:
-#+title: Interoception
-
-*References*
-
-- [[id:wittmann-2015-self-and-time][Modulations of the Experience of Self and Time]]

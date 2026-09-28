@@ -1,8 +1,0 @@
-:properties:
-:id: 2010 - Computational models - a modest role for content.pdf
-:end:
-#+title: 2010 - Computational models - a modest role for content.pdf
-
-*References*
-
-- [[id:Egan2010Individuation][Computational models: a modest role for content]]

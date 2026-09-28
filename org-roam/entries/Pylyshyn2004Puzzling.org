@@ -1,0 +1,6 @@
+:properties:
+:id: Pylyshyn2004Puzzling
+:end:
+#+title: Pylyshyn2004Puzzling
+
+/Pylyshyn, Zenon W./ (2004). Some Puzzling Findings in Multiple Object Tracking: I. Tracking without Keeping Track of Object Identities /Visual Cognition/ /11./ [[https://doi.org/10.1080/13506280344000518][10.1080/13506280344000518]]

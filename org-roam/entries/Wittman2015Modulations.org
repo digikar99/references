@@ -1,0 +1,6 @@
+:properties:
+:id: Wittman2015Modulations
+:end:
+#+title: Wittman2015Modulations
+
+/Wittmann, Marc/ (2015). Modulations of the Experience of Self and Time /Consciousness and Cognition/ /38./ [[https://doi.org/10.1016/j.concog.2015.06.008][10.1016/j.concog.2015.06.008]]

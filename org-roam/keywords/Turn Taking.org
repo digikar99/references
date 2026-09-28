@@ -5,4 +5,5 @@
 
 *References*
 
+- [[id:Ruiter2006][Projecting the End of a Speaker’s Turn: A Cognitive Cornerstone of Conversation]]
 - [[id:Stivers2009][Universals and cultural variation in turn-taking in conversation]]

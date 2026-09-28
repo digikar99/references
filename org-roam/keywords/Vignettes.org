@@ -1,0 +1,8 @@
+:properties:
+:id: Vignettes
+:end:
+#+title: Vignettes
+
+*References*
+
+- [[id:Franken2024Generation][Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models]]

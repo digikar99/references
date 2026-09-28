@@ -1,0 +1,6 @@
+:properties:
+:id: Pylyshyn2001Situated
+:end:
+#+title: Pylyshyn2001Situated
+
+/Pylyshyn, Zenon W./ (2001). Visual Indexes, Preconceptual Objects, and Situated Vision /Cognition/ /80./ [[https://doi.org/10.1016/s0010-0277(00)00156-6][10.1016/s0010-0277(00)00156-6]]

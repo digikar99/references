@@ -1,9 +1,0 @@
-:properties:
-:id: Neurons and Cognition (q-bio.NC)
-:end:
-#+title: Neurons and Cognition (q-bio.NC)
-
-*References*
-
-- [[id:Straub2024Inverse][Inverse decision-making using neural amortized Bayesian actors]]
-- [[id:Bakermans2025Compositional][Compositional meta-learning through probabilistic task inference]]

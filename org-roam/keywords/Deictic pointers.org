@@ -1,8 +1,0 @@
-:properties:
-:id: Deictic pointers
-:end:
-#+title: Deictic pointers
-
-*References*
-
-- [[id:Pylyshyn2000][Situating Vision in the World]]

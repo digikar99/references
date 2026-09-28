@@ -1,8 +1,0 @@
-:properties:
-:id: FINST
-:end:
-#+title: FINST
-
-*References*
-
-- [[id:Pylyshyn2000][Situating Vision in the World]]

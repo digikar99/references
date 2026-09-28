@@ -5,5 +5,6 @@
 
 *References*
 
+- [[id:Howard2008Holcombe][Tracking the Changing Features of Multiple Objects: Progressively Poorer Perceptual Precision and Progressively Greater Perceptual Lag]]
 - [[id:Lupyan2020Language][Effects of Language on Visual Perception]]
 - [[id:Schlottmann1992Distinction][Evidence for a distinction between judged and perceived causality]]

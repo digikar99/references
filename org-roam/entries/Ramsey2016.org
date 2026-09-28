@@ -1,0 +1,6 @@
+:properties:
+:id: Ramsey2016
+:end:
+#+title: Ramsey2016
+
+/Ramsey, William/ (2016). Untangling Two Questions about Mental Representation /New Ideas in Psychology/ /40./ [[https://doi.org/10.1016/j.newideapsych.2015.01.004][10.1016/j.newideapsych.2015.01.004]]

@@ -1,8 +1,0 @@
-:properties:
-:id: Other Computer Science (cs.OH)
-:end:
-#+title: Other Computer Science (cs.OH)
-
-*References*
-
-- [[id:Zhao2021Causal][Building Object-based Causal Programs for Human-like Generalization]]

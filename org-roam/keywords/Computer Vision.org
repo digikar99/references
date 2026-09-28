@@ -5,9 +5,11 @@
 
 *References*
 
+- [[id:Dasgupta2021VoE][A Benchmark for Modeling Violation-of-Expectation in Physical Reasoning Across Event Categories]]
 - [[id:Fire2015Causality][Learning Perceptual Causality from Video]]
 - [[id:Fire2016Causality][Learning and Inferring Perceptual Causality from Video]]
 - [[id:Frink2022Enhanced][Enhanced Deep Template-Based Object Instance Detection]]
 - [[id:Liu2022Visual][Causal Reasoning Meets Visual Representation Learning: A Prospective Study]]
 - [[id:Mercier2019Template][Deep Template-based Object Instance Detection]]
 - [[id:Schott2021Visual][Visual representation learning does not generalize strongly within the same domain]]
+- [[id:Zhao2021Causal][Building Object-based Causal Programs for Human-like Generalization]]

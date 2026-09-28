@@ -1,8 +1,0 @@
-:properties:
-:id: Causal Representation Learning
-:end:
-#+title: Causal Representation Learning
-
-*References*
-
-- [[id:Silva2024Causal][Causal representation learning through higher-level information extraction]]

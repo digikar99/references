@@ -5,4 +5,5 @@
 
 *References*
 
+- [[id:Bakermans2025Compositional][Compositional meta-learning through probabilistic task inference]]
 - [[id:Jones2011Fundamentalism][Bayesian Fundamentalism or Enlightenment? On the explanatory status and theoretical contributions of Bayesian models of cognition]]
