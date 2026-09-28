@@ -1,0 +1,6 @@
+:properties:
+:id: Erikgahner2021Causality
+:end:
+#+title: Erikgahner2021Causality
+
+/Erik Gahner Larsen/ (2021). Causality models: Campbell, Rubin and Pearl \&#x2013; Erik Gahner Larsen --- erikgahner.dk //

@@ -1,0 +1,6 @@
+:properties:
+:id: Kemp2008Discovery
+:end:
+#+title: Kemp2008Discovery
+
+/Kemp, Charles and Tenenbaum, Joshua B./ (2008). The discovery of structural form /Proceedings of the National Academy of Sciences/ /105./ https://doi.org/10.1073/pnas.0802631105

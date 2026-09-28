@@ -1,0 +1,6 @@
+:properties:
+:id: Knobe2019Demographic
+:end:
+#+title: Knobe2019Demographic
+
+/Knobe, Joshua/ (2019). Philosophical Intuitions Are Surprisingly Robust Across Demographic Differences /Epistemology &amp; Philosophy of Science/ /56./ https://dx.doi.org/10.5840/eps201956225

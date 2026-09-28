@@ -1,0 +1,8 @@
+:properties:
+:id: Cultural Learning
+:end:
+#+title: Cultural Learning
+
+*References*
+
+- [[id:Tomasello2016Ontogeny][The ontogeny of cultural learning]]

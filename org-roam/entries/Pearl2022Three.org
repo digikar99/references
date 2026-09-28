@@ -1,0 +1,6 @@
+:properties:
+:id: Pearl2022Three
+:end:
+#+title: Pearl2022Three
+
+/Pearl, Judea/ (2022). Probabilities of Causation: Three Counterfactual Interpretations and Their Identification /Probabilistic and Causal Inference/ https://dx.doi.org/10.1145/3501714.3501735

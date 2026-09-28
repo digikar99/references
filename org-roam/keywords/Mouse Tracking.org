@@ -1,0 +1,9 @@
+:properties:
+:id: Mouse Tracking
+:end:
+#+title: Mouse Tracking
+
+*References*
+
+- [[id:Kieslich2019Mouse][Mouse-tracking: A practical guide to implementation and analysis 1]]
+- [[id:Wulff2025Mouse][Movement tracking of psychological processes: A tutorial using mousetrap]]

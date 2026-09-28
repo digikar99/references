@@ -1,0 +1,6 @@
+:properties:
+:id: Kaiserman2018Degrees
+:end:
+#+title: Kaiserman2018Degrees
+
+/Kaiserman, Alex/ (2018). ‘More of a Cause’: Recent Work on Degrees of Causation and Responsibility /Philosophy Compass/ /13./ https://dx.doi.org/10.1111/phc3.12498

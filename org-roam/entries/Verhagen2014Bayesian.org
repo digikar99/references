@@ -1,0 +1,6 @@
+:properties:
+:id: Verhagen2014Bayesian
+:end:
+#+title: Verhagen2014Bayesian
+
+/Verhagen, Josine and Wagenmakers, Eric-Jan/ (2014). Bayesian tests to quantify the result of a replication attempt. /Journal of Experimental Psychology: General/ /143./ https://dx.doi.org/10.1037/a0036731

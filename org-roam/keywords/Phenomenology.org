@@ -1,0 +1,8 @@
+:properties:
+:id: Phenomenology
+:end:
+#+title: Phenomenology
+
+*References*
+
+- [[id:Ishihara2022Phenomenological][Chapter 6 Different Ways of Attending to Experience: Formalizing the Phenomenological Epoché to Translate Between Science and Philosophy]]

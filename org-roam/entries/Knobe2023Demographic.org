@@ -1,0 +1,6 @@
+:properties:
+:id: Knobe2023Demographic
+:end:
+#+title: Knobe2023Demographic
+
+/Knobe, Joshua/ (2023). Difference and Robustness in the Patterns of Philosophical Intuition Across Demographic Groups /Review of Philosophy and Psychology/ /14./ https://dx.doi.org/10.1007/s13164-023-00683-z

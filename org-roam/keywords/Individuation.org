@@ -1,0 +1,11 @@
+:properties:
+:id: Individuation
+:end:
+#+title: Individuation
+
+*References*
+
+- [[id:Butler1998Individuation][Content, Computation, and Individuation]]
+- [[id:Dewhurst2018Individuation][Individuation without Representation]]
+- [[id:Feldman2006Individuation][Individuation of visual objects over time]]
+- [[id:Egan2012Individualism][Individualism, computation, and perceptual content]]

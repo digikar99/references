@@ -1,0 +1,6 @@
+:properties:
+:id: Schott2021Visual
+:end:
+#+title: Schott2021Visual
+
+/Schott, Lukas and Von K\"ugelgen, Julius and Tr\"auble, Frederik and Gehler, Peter and Russell, Chris and Bethge, Matthias and Sch\"olkopf, Bernhard and Locatello, Francesco and Brendel, Wieland/ (2021). Visual representation learning does not generalize strongly within the same domain /arXiv preprint arXiv:2107.08221/ https://arxiv.org/abs/2107.08221

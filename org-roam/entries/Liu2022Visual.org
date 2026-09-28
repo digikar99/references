@@ -1,0 +1,6 @@
+:properties:
+:id: Liu2022Visual
+:end:
+#+title: Liu2022Visual
+
+/Liu, Yang and Wei, Yu-Shen and Yan, Hong and Li, Guan-Bin and Lin, Liang/ (2022). Causal Reasoning Meets Visual Representation Learning: A Prospective Study /Machine Intelligence Research/ /19./ https://doi.org/10.1007/s11633-022-1362-z

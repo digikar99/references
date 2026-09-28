@@ -1,0 +1,6 @@
+:properties:
+:id: Emberson2013Lower
+:end:
+#+title: Emberson2013Lower
+
+/Emberson, Lauren L. and Liu, Ran and Zevin, Jason D./ (2013). Is statistical learning constrained by lower level perceptual organization? /Cognition/ /128./ https://doi.org/10.1016/j.cognition.2012.12.006

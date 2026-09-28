@@ -1,0 +1,6 @@
+:properties:
+:id: Burkner2017BRMS
+:end:
+#+title: Burkner2017BRMS
+
+/B\"urkner, Paul-Christian/ (2017). brms: An R package for Bayesian multilevel models using Stan /Journal of statistical software/ /80./ https://arxiv.org/pdf/1705.11123

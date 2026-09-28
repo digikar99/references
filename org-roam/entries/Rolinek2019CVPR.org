@@ -1,0 +1,6 @@
+:properties:
+:id: Rolinek2019CVPR
+:end:
+#+title: Rolinek2019CVPR
+
+/Rolinek, Michal and Zietlow, Dominik and Martius, Georg/ (2019). Variational Autoencoders Pursue PCA Directions (by Accident) /Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)/

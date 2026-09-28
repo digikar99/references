@@ -1,0 +1,6 @@
+:properties:
+:id: Batterink2019Neural
+:end:
+#+title: Batterink2019Neural
+
+/Batterink, Laura J. and Paller, Ken A. and Reber, Paul J./ (2019). Understanding the Neural Bases of Implicit and Statistical Learning /Topics in Cognitive Science/ /11./ https://doi.org/10.1111/tops.12420

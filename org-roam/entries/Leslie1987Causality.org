@@ -1,0 +1,6 @@
+:properties:
+:id: Leslie1987Causality
+:end:
+#+title: Leslie1987Causality
+
+/Leslie, Alan M and Keeble, Stephanie/ (1987). Do six-month-old infants perceive causality? /Cognition/ /25./ https://doi.org/10.1016/S0010-0277(87)80006-9

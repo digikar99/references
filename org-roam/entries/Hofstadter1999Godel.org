@@ -1,0 +1,6 @@
+:properties:
+:id: Hofstadter1999Godel
+:end:
+#+title: Hofstadter1999Godel
+
+/Hofstadter, Douglas R/ (1999). Gödel, Escher, Bach: an eternal golden braid //

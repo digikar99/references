@@ -1,0 +1,6 @@
+:properties:
+:id: Dasgupta2021VoE
+:end:
+#+title: Dasgupta2021VoE
+
+/Dasgupta, Arijit and Duan, Jiafei and Ang, Marcelo H. and Lin, Yi and Wang, Su-hua and Baillargeon, Renée and Tan, Cheston/ (2021). A Benchmark for Modeling Violation-of-Expectation in Physical Reasoning Across Event Categories // https://arxiv.org/abs/2111.08826

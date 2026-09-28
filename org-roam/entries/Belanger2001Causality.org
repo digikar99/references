@@ -1,0 +1,6 @@
+:properties:
+:id: Belanger2001Causality
+:end:
+#+title: Belanger2001Causality
+
+/Bélanger, Nancy Daigle and Desrochers, Stéphan/ (2001). Can 6-month-old infants process causality in different types of causal events? /British Journal of Developmental Psychology/ /19./ https://doi.org/10.1348/026151001165930

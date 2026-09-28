@@ -1,0 +1,8 @@
+:properties:
+:id: Teaching
+:end:
+#+title: Teaching
+
+*References*
+
+- [[id:Shafto2008Teaching][Teaching Games: Statistical Sampling Assumptions for Learning in Pedagogical Situations]]

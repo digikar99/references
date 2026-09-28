@@ -1,0 +1,6 @@
+:properties:
+:id: Fiddick2000Representation
+:end:
+#+title: Fiddick2000Representation
+
+/Fiddick, Laurence and Cosmides, Leda and Tooby, John/ (2000). No interpretation without representation: the role of domain-specific representations and inferences in the Wason selection task /Cognition/ /77./ https://dx.doi.org/10.1016/S0010-0277(00)00085-8

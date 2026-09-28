@@ -1,0 +1,6 @@
+:properties:
+:id: Tversky1981Framing
+:end:
+#+title: Tversky1981Framing
+
+/Tversky, Amos and Kahneman, Daniel/ (1981). The framing of decisions and the psychology of choice /science/ /211./

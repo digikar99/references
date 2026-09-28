@@ -1,0 +1,6 @@
+:properties:
+:id: Hafri2021Relations
+:end:
+#+title: Hafri2021Relations
+
+/Hafri, Alon and Firestone, Chaz/ (2021). The perception of relations /Trends in Cognitive Sciences/ /25./

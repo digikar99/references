@@ -1,0 +1,6 @@
+:properties:
+:id: Hommel2019Attention
+:end:
+#+title: Hommel2019Attention
+
+/Hommel, Bernhard and Chapman, Craig S. and Cisek, Paul and Neyedli, Heather F. and Song, Joo-Hyun and Welsh, Timothy N./ (2019). No one knows what attention is /Attention, Perception, &amp; Psychophysics/ /81./ https://doi.org/10.3758/s13414-019-01846-w

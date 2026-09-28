@@ -1,0 +1,11 @@
+:properties:
+:id: Decision Making
+:end:
+#+title: Decision Making
+
+*References*
+
+- [[id:Tversky1981Framing][The framing of decisions and the psychology of choice]]
+- [[id:Quillien2023Guesses][Guesses as compressed probability distributions]]
+- [[id:Fox1999Probability][Strength of Evidence, Judged Probability, and Choice Under Uncertainty]]
+- [[id:Por2016Probability][Eliciting Subjective Probabilities through Pair‐wise Comparisons]]

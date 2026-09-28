@@ -1,0 +1,8 @@
+:properties:
+:id: Sociocultural Cognition
+:end:
+#+title: Sociocultural Cognition
+
+*References*
+
+- [[id:Eskritt2008Gricean][Preschoolers can recognize violations of the Gricean maxims]]

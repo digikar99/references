@@ -1,0 +1,8 @@
+:properties:
+:id: Turn Taking
+:end:
+#+title: Turn Taking
+
+*References*
+
+- [[id:Stivers2009][Universals and cultural variation in turn-taking in conversation]]

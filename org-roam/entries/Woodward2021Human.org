@@ -1,0 +1,6 @@
+:properties:
+:id: Woodward2021Human
+:end:
+#+title: Woodward2021Human
+
+/Woodward, James/ (2021). Causation with a human face //

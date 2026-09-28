@@ -1,0 +1,8 @@
+:properties:
+:id: Evolutionary Psychology
+:end:
+#+title: Evolutionary Psychology
+
+*References*
+
+- [[id:Ketelaar2000Evolutionary][Are Evolutionary Explanations Unfalsifiable? Evolutionary Psychology and the Lakatosian Philosophy of Science]]

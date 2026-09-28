@@ -1,0 +1,6 @@
+:properties:
+:id: Gardenfors1999Tenets
+:end:
+#+title: Gardenfors1999Tenets
+
+/Gärdenfors, Peter/ (1999). Some tenets of cognitive semantics /Cognitive semantics: Meaning and cognition/

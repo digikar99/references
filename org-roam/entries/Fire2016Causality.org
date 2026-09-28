@@ -1,0 +1,6 @@
+:properties:
+:id: Fire2016Causality
+:end:
+#+title: Fire2016Causality
+
+/Amy Sue Fire/ (2016). Learning and Inferring Perceptual Causality from Video // https://escholarship.org/content/qt45m9s7hx/qt45m9s7hx_noSplash_34013495c831ed684f6edb0eb603fe7b.pdf

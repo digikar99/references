@@ -1,0 +1,6 @@
+:properties:
+:id: Hubbard2014Representational
+:end:
+#+title: Hubbard2014Representational
+
+/Hubbard, Timothy L./ (2014). Forms of momentum across space: Representational, operational, and attentional /Psychonomic Bulletin &amp; Review/ /21./ https://dx.doi.org/10.3758/s13423-014-0624-3

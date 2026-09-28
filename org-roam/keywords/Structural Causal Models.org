@@ -1,0 +1,8 @@
+:properties:
+:id: Structural Causal Models
+:end:
+#+title: Structural Causal Models
+
+*References*
+
+- [[id:Yang2021Causalvae][CausalVAE: Disentangled representation learning via neural structural causal models]]

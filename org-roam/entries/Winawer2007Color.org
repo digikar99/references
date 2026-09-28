@@ -1,0 +1,8 @@
+:properties:
+:id: Winawer2007Color
+:end:
+#+title: Winawer2007Color
+
+/Winawer, Jonathan and Witthoft, Nathan and Frank,
+                  Michael C. and Wu, Lisa and Wade, Alex R. and
+                  Boroditsky, Lera/ (2007). Russian blues reveal effects of language on color discrimination /Proceedings of the National Academy of Sciences/ /104./ https://doi.org/10.1073/pnas.0701644104

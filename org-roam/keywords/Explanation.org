@@ -1,0 +1,9 @@
+:properties:
+:id: Explanation
+:end:
+#+title: Explanation
+
+*References*
+
+- [[id:Shtulman2017Unexplainable][The explanatory structure of unexplainable events: Causal constraints on magical reasoning]]
+- [[id:Cleland2011Prediction][Prediction and Explanation in Historical Natural Science]]

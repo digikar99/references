@@ -1,0 +1,6 @@
+:properties:
+:id: Lockwood2020Social
+:end:
+#+title: Lockwood2020Social
+
+/Lockwood, Patricia L. and Apps, Matthew A.J. and Chang, Steve W.C./ (2020). Is There a ‘Social’ Brain? Implementations and Algorithms /Trends in Cognitive Sciences/ /24./ https://doi.org/10.1016/j.tics.2020.06.011

@@ -1,0 +1,6 @@
+:properties:
+:id: Wheeler2008Context
+:end:
+#+title: Wheeler2008Context
+
+/Wheeler, Michael/ (2008). Cognition in Context: Phenomenology, Situated Robotics and the Frame Problem /International Journal of Philosophical Studies/ /16./ https://dx.doi.org/10.1080/09672550802113235

@@ -1,0 +1,6 @@
+:properties:
+:id: Cicchini2024Perception
+:end:
+#+title: Cicchini2024Perception
+
+/Cicchini, Guido Marco and Mikellidou, Kyriaki and Burr, David Charles/ (2024). Serial Dependence in Perception /Annual Review of Psychology/ /75./ https://dx.doi.org/10.1146/annurev-psych-021523-104939

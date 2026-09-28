@@ -1,0 +1,6 @@
+:properties:
+:id: Stivers2009
+:end:
+#+title: Stivers2009
+
+/Stivers, Tanya and Enfield, N. J. and Brown, Penelope and Englert, Christina and Hayashi, Makoto and Heinemann, Trine and Hoymann, Gertie and Rossano, Federico and de Ruiter, Jan Peter and Yoon, Kyung-Eun and Levinson, Stephen C./ (2009). Universals and cultural variation in turn-taking in conversation /Proceedings of the National Academy of Sciences/ /106./ https://doi.org/10.1073/pnas.0903616106

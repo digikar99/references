@@ -1,0 +1,8 @@
+:properties:
+:id: Economics
+:end:
+#+title: Economics
+
+*References*
+
+- [[id:Tversky1981Framing][The framing of decisions and the psychology of choice]]

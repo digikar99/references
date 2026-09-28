@@ -1,0 +1,8 @@
+:properties:
+:id: Object Tracking
+:end:
+#+title: Object Tracking
+
+*References*
+
+- [[id:Balaban2024Mental][The capacity limits of mental simulation]]

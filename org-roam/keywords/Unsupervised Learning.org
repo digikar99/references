@@ -1,0 +1,8 @@
+:properties:
+:id: Unsupervised Learning
+:end:
+#+title: Unsupervised Learning
+
+*References*
+
+- [[id:Locatello2019Challenging][Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations]]

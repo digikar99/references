@@ -1,0 +1,6 @@
+:properties:
+:id: Franken2024Generation
+:end:
+#+title: Franken2024Generation
+
+/Fränken, Jan-Philipp and Gandhi, Kanishk and Qiu, Tori and Khawaja, Ayesha and Goodman, Noah D. and Gerstenberg, Tobias/ (2024). Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models // https://arxiv.org/abs/2404.10975

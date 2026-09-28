@@ -1,0 +1,6 @@
+:properties:
+:id: JohnsonLaird2019Possibilities
+:end:
+#+title: JohnsonLaird2019Possibilities
+
+/Johnson-Laird, P.N. and Ragni, Marco/ (2019). Possibilities as the foundation of reasoning /Cognition/ /193./ https://doi.org/10.1016/j.cognition.2019.04.019

@@ -1,0 +1,6 @@
+:properties:
+:id: Frink2022Enhanced
+:end:
+#+title: Frink2022Enhanced
+
+/Frink, Travis/ (2022). Enhanced Deep Template-Based Object Instance Detection // https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=3211&context=theses

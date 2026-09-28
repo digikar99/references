@@ -1,0 +1,11 @@
+:properties:
+:id: Multiple Object Tracking
+:end:
+#+title: Multiple Object Tracking
+
+*References*
+
+- [[id:Alvarez2007Resource][How Many Objects Can You Track?: Evidence for a Resource-Limited Attentive Tracking Mechanism]]
+- [[id:Blaser2000Feature][Tracking an Object through Feature Space]]
+- [[id:Franconeri2010Spacing][Tracking Multiple Objects Is Limited Only by Object Spacing, Not by Speed, Time, or Capacity]]
+- [[id:Franconeri2012Occlusion][A Simple Proximity Heuristic Allows Tracking of Multiple Objects through Occlusion]]

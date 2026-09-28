@@ -1,0 +1,6 @@
+:properties:
+:id: Franconeri2010Spacing
+:end:
+#+title: Franconeri2010Spacing
+
+/Franconeri, S.L. and Jonathan, S.V. and Scimeca, J.M./ (2010). Tracking Multiple Objects Is Limited Only by Object Spacing, Not by Speed, Time, or Capacity /Psychological Science/ /21./ https://doi.org/10.1177/0956797610373935

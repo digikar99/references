@@ -1,0 +1,16 @@
+:properties:
+:id: Causation
+:end:
+#+title: Causation
+
+*References*
+
+- [[id:Andreas2025Factual][Factual Difference-Making]]
+- [[id:Woodward2021Human][Causation with a human face]]
+- [[id:Halpern2015Graded][Graded Causation and Defaults]]
+- [[id:Kaiserman2018Degrees][‘More of a Cause’: Recent Work on Degrees of Causation and Responsibility]]
+- [[id:Frisch2014Causal][Causal reasoning in physics]]
+- [[id:Halpern2016Actual][Actual Causality]]
+- [[id:Fitelson2011Causality][Probabilistic Measures of Causal Strength]]
+- [[id:Morris2018Judgments][Judgments of actual causation approximate the effectiveness of interventions]]
+- [[id:Lewis1973Causation][Causation]]

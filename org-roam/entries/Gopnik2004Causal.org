@@ -1,0 +1,6 @@
+:properties:
+:id: Gopnik2004Causal
+:end:
+#+title: Gopnik2004Causal
+
+/Gopnik, Alison and Glymour, Clark and Sobel, David M. and Schulz, Laura E. and Kushnir, Tamar and Danks, David/ (2004). A Theory of Causal Learning in Children: Causal Maps and Bayes Nets. /Psychological Review/ /111./ https://doi.org/10.1037/0033-295X.111.1.3

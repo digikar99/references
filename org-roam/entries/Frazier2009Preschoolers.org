@@ -1,0 +1,6 @@
+:properties:
+:id: Frazier2009Preschoolers
+:end:
+#+title: Frazier2009Preschoolers
+
+/Frazier,  Brandy N. and Gelman,  Susan A. and Wellman,  Henry M./ (2009). Preschoolers’ Search for Explanatory Information Within Adult–Child Conversation /Child Development/ /80./ https://doi.org/10.1111/j.1467-8624.2009.01356.x

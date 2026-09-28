@@ -1,0 +1,6 @@
+:properties:
+:id: Fiser2002Temporal
+:end:
+#+title: Fiser2002Temporal
+
+/Fiser, József and Aslin, Richard N./ (2002). Statistical learning of higher-order temporal structure from visual shape sequences. /Journal of Experimental Psychology: Learning, Memory, and Cognition/ /28./ https://doi.org/10.1037/0278-7393.28.3.458

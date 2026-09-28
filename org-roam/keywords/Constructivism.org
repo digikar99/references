@@ -1,0 +1,8 @@
+:properties:
+:id: Constructivism
+:end:
+#+title: Constructivism
+
+*References*
+
+- [[id:Schulz2012New][Finding New Facts; Thinking New Thoughts]]

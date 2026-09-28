@@ -1,0 +1,8 @@
+:properties:
+:id: Goals
+:end:
+#+title: Goals
+
+*References*
+
+- [[id:Woodward1998Goal][Infants selectively encode the goal object of an actor’s reach]]

@@ -1,0 +1,6 @@
+:properties:
+:id: Bareinboim2022Hierarchy
+:end:
+#+title: Bareinboim2022Hierarchy
+
+/Bareinboim, Elias and Correa, Juan D. and Ibeling, Duligur and Icard, Thomas/ (2022). On Pearl’s Hierarchy and the Foundations of Causal Inference /Probabilistic and Causal Inference/ https://doi.org/10.1145/3501714.3501743

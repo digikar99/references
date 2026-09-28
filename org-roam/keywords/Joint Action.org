@@ -1,0 +1,11 @@
+:properties:
+:id: Joint Action
+:end:
+#+title: Joint Action
+
+*References*
+
+- [[id:Eskenazi2013Words][Your words are my words: Effects of acting together on encoding]]
+- [[id:Harris2014Distributed][Couples as socially distributed cognitive systems: Remembering in everyday social and material contexts]]
+- [[id:Maisto2023Interactive][Interactive inference: a multi-agent model of cooperative joint actions]]
+- [[id:Stivers2009][Universals and cultural variation in turn-taking in conversation]]

@@ -1,0 +1,8 @@
+:properties:
+:id: Bayesian Networks
+:end:
+#+title: Bayesian Networks
+
+*References*
+
+- [[id:Gebharter2023Gap][Causal Bayes Nets and Token-Causation: Closing the Gap between Token-Level and Type-Level]]

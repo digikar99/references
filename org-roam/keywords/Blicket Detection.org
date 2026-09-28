@@ -1,0 +1,9 @@
+:properties:
+:id: Blicket Detection
+:end:
+#+title: Blicket Detection
+
+*References*
+
+- [[id:Gopnik2000Blickets][Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction]]
+- [[id:Gopnik2001Causal][Causal learning mechanisms in very young children: Two-, three-, and four-year-olds infer causal relations from patterns of variation and covariation.]]

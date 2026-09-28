@@ -1,0 +1,6 @@
+:properties:
+:id: Alvarez2007Resource
+:end:
+#+title: Alvarez2007Resource
+
+/Alvarez, George A. and Franconeri, Steven L./ (2007). How Many Objects Can You Track?: Evidence for a Resource-Limited Attentive Tracking Mechanism /Journal of Vision/ /7./ [[https://doi.org/10.1167/7.13.14][10.1167/7.13.14]]

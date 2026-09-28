@@ -1,0 +1,8 @@
+:properties:
+:id: Structural Alignment
+:end:
+#+title: Structural Alignment
+
+*References*
+
+- [[id:Goldwater2015Acquisition][On the acquisition of abstract knowledge: Structural alignment and explication in learning causal system categories]]

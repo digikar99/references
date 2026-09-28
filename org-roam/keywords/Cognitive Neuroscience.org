@@ -1,0 +1,8 @@
+:properties:
+:id: Cognitive Neuroscience
+:end:
+#+title: Cognitive Neuroscience
+
+*References*
+
+- [[id:Blumberg2023Protracted][Protracted development of motor cortex constrains rich interpretations of infant cognition]]

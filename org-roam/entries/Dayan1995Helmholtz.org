@@ -1,0 +1,6 @@
+:properties:
+:id: Dayan1995Helmholtz
+:end:
+#+title: Dayan1995Helmholtz
+
+/Dayan, Peter and Hinton, Geoffrey E. and Neal, Radford M. and Zemel, Richard S./ (1995). The Helmholtz Machine /Neural Computation/ /7./ https://dx.doi.org/10.1162/neco.1995.7.5.889

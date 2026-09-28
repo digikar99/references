@@ -1,0 +1,6 @@
+:properties:
+:id: Nedergaard2022Language
+:end:
+#+title: Nedergaard2022Language
+
+/Nedergaard,  Johanne S. K. and Wallentin,  Mikkel and Lupyan,  Gary/ (2022). Verbal interference paradigms: A systematic review investigating the role of language in cognition /Psychonomic Bulletin &amp; Review/ /30./ https://doi.org/10.3758/s13423-022-02144-7

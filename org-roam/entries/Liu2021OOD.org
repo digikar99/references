@@ -1,0 +1,6 @@
+:properties:
+:id: Liu2021OOD
+:end:
+#+title: Liu2021OOD
+
+/Liu, Jiashuo and Shen, Zheyan and He, Yue and Zhang, Xingxuan and Xu, Renzhe and Yu, Han and Cui, Peng/ (2021). Towards Out-Of-Distribution Generalization: A Survey // https://arxiv.org/abs/2108.13624

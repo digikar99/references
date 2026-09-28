@@ -1,0 +1,6 @@
+:properties:
+:id: Moffett2021Ant
+:end:
+#+title: Moffett2021Ant
+
+/Moffett, Mark W. and Garnier, Simon and Eisenhardt, Kathleen M. and Furr, Nathan R. and Warglien, Massimo and Sartoris, Costanza and Ocasio, William and Knudsen, Thorbjørn and Bach, Lars A. and Offenberg, Joachim/ (2021). Ant colonies: building complex organizations with minuscule brains and no leaders /Journal of Organization Design/ /10./ https://doi.org/10.1007/s41469-021-00093-4

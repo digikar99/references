@@ -1,0 +1,8 @@
+:properties:
+:id: Social Ontology
+:end:
+#+title: Social Ontology
+
+*References*
+
+- [[id:Rehder2001Abstract][Abstract coherent categories.]]

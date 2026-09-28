@@ -1,0 +1,9 @@
+:properties:
+:id: Probability Judgments
+:end:
+#+title: Probability Judgments
+
+*References*
+
+- [[id:Fox1999Probability][Strength of Evidence, Judged Probability, and Choice Under Uncertainty]]
+- [[id:Por2016Probability][Eliciting Subjective Probabilities through Pair‐wise Comparisons]]

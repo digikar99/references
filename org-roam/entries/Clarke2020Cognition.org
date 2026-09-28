@@ -1,0 +1,6 @@
+:properties:
+:id: Clarke2020Cognition
+:end:
+#+title: Clarke2020Cognition
+
+/Clarke, Sam/ (2020). Beyond the icon: Core cognition and the bounds of perception /Mind \& Language/ /37./ https://dx.doi.org/10.1111/mila.12315

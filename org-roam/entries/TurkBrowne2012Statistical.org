@@ -1,0 +1,6 @@
+:properties:
+:id: TurkBrowne2012Statistical
+:end:
+#+title: TurkBrowne2012Statistical
+
+/Turk-Browne, Nicholas B./ (2012). Statistical Learning and Its Consequences /The Influence of Attention, Learning, and Motivation on Visual Search/ https://dx.doi.org/10.1007/978-1-4614-4794-8_6

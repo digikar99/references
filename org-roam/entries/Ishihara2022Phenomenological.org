@@ -1,0 +1,6 @@
+:properties:
+:id: Ishihara2022Phenomenological
+:end:
+#+title: Ishihara2022Phenomenological
+
+/Ishihara, Yuko and Witkowski, Olaf/ (2022). Chapter 6 Different Ways of Attending to Experience: Formalizing the Phenomenological Epoché to Translate Between Science and Philosophy /Access and Mediation/ https://doi.org/10.1515/9783110647242-007

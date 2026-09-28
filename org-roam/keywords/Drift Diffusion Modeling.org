@@ -1,0 +1,11 @@
+:properties:
+:id: Drift Diffusion Modeling
+:end:
+#+title: Drift Diffusion Modeling
+
+*References*
+
+- [[id:Henrich2023Diffusion][The Seven-parameter Diffusion Model: an Implementation in Stan for Bayesian Analyses]]
+- [[id:Ratcliff1998TwoChoice][Modeling Response Times for Two-Choice Decisions]]
+- [[id:Vandekerckhove2007Diffusion][Fitting the ratcliff diffusion model to experimental data]]
+- [[id:Vandekerckhove2011Diffusion][Hierarchical diffusion models for two-choice response times.]]

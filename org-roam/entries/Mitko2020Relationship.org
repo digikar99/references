@@ -1,0 +1,6 @@
+:properties:
+:id: Mitko2020Relationship
+:end:
+#+title: Mitko2020Relationship
+
+/Mitko, Alex and Fischer, Jason/ (2020). When it all falls down: the relationship between intuitive physics and spatial cognition /Cognitive Research: Principles and Implications/ /5./ https://dx.doi.org/10.1186/s41235-020-00224-7

@@ -1,0 +1,8 @@
+:properties:
+:id: Computaional Modeling
+:end:
+#+title: Computaional Modeling
+
+*References*
+
+- [[id:Daw2005Uncertainty][Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control]]

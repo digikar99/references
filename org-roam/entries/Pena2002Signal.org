@@ -1,0 +1,6 @@
+:properties:
+:id: Pena2002Signal
+:end:
+#+title: Pena2002Signal
+
+/Peña, Marcela and Bonatti, Luca L. and Nespor, Marina and Mehler, Jacques/ (2002). Signal-Driven Computations in Speech Processing /Science/ /298./ https://dx.doi.org/10.1126/science.1072901

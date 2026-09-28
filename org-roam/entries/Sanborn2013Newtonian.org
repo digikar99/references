@@ -1,0 +1,6 @@
+:properties:
+:id: Sanborn2013Newtonian
+:end:
+#+title: Sanborn2013Newtonian
+
+/Sanborn, Adam N. and Mansinghka, Vikash K. and Griffiths, Thomas L./ (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. /Psychological Review/ /120./ https://dx.doi.org/10.1037/a0031912

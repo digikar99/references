@@ -1,0 +1,6 @@
+:properties:
+:id: Kominsky2015Superseding
+:end:
+#+title: Kominsky2015Superseding
+
+/Kominsky, Jonathan F. and Phillips, Jonathan and Gerstenberg, Tobias and Lagnado, David and Knobe, Joshua/ (2015). Causal superseding /Cognition/ /137./ https://doi.org/10.1016/j.cognition.2015.01.013

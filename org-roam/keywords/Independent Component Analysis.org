@@ -1,0 +1,8 @@
+:properties:
+:id: Independent Component Analysis
+:end:
+#+title: Independent Component Analysis
+
+*References*
+
+- [[id:Hyvarinen1999Uniqueness][Nonlinear independent component analysis: Existence and uniqueness results]]

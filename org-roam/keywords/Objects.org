@@ -1,0 +1,8 @@
+:properties:
+:id: Objects
+:end:
+#+title: Objects
+
+*References*
+
+- [[id:Lengyel2021Object][Statistically defined visual chunks engage object-based attention]]

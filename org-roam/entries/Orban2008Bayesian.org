@@ -1,0 +1,6 @@
+:properties:
+:id: Orban2008Bayesian
+:end:
+#+title: Orban2008Bayesian
+
+/Orbán, Gergő and Fiser, József and Aslin, Richard N. and Lengyel, Máté/ (2008). Bayesian learning of visual chunks by human observers /Proceedings of the National Academy of Sciences/ /105./ https://doi.org/10.1073/pnas.0708424105

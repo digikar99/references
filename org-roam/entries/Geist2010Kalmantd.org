@@ -1,0 +1,6 @@
+:properties:
+:id: Geist2010Kalmantd
+:end:
+#+title: Geist2010Kalmantd
+
+/Geist, Matthieu and Pietquin, Olivier/ (2014). Kalman Temporal Differences // [[https://doi.org/10.48550/ARXIV.1406.3270][10.48550/ARXIV.1406.3270]]

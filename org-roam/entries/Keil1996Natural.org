@@ -1,0 +1,6 @@
+:properties:
+:id: Keil1996Natural
+:end:
+#+title: Keil1996Natural
+
+/Keil, Frank C./ (1996). The growth of causal understandings of natural kinds /Causal Cognition/ https://doi.org/10.1093/acprof:oso/9780198524021.003.0009

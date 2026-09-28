@@ -1,0 +1,6 @@
+:properties:
+:id: Aitchison2015Doubly
+:end:
+#+title: Aitchison2015Doubly
+
+/Aitchison, Laurence and Bang, Dan and Bahrami, Bahador and Latham, Peter E./ (2015). Doubly Bayesian Analysis of Confidence in Perceptual Decision-Making /PLOS Computational Biology/ /11./ https://dx.doi.org/10.1371/journal.pcbi.1004519

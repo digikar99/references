@@ -1,0 +1,6 @@
+:properties:
+:id: Woodward2006Sensitive
+:end:
+#+title: Woodward2006Sensitive
+
+/James Woodward/ (2006). Sensitive and Insensitive Causation /The Philosophical Review/ /115./ https://www.jstor.org/stable/20446880

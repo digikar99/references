@@ -1,0 +1,6 @@
+:properties:
+:id: Bonawitz2014WinStay
+:end:
+#+title: Bonawitz2014WinStay
+
+/Bonawitz, Elizabeth and Denison, Stephanie and Gopnik, Alison and Griffiths, Thomas L./ (2014). Win-Stay, Lose-Sample: A simple sequential algorithm for approximating Bayesian inference /Cognitive Psychology/ /74./ https://dx.doi.org/10.1016/j.cogpsych.2014.06.003

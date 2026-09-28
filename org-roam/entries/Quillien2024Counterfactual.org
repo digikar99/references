@@ -1,0 +1,6 @@
+:properties:
+:id: Quillien2024Counterfactual
+:end:
+#+title: Quillien2024Counterfactual
+
+/Quillien, Tadeg and O'Neill, Kevin and Henne, Paul/ (2024). A counterfactual explanation for recency effects in double prevention scenarios: commentary on Thanawala & Erb (2024) // /./ https://doi.org/10.31234/osf.io/uv6en

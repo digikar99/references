@@ -1,0 +1,6 @@
+:properties:
+:id: Brady2009Compression
+:end:
+#+title: Brady2009Compression
+
+/Brady, Timothy F. and Konkle, Talia and Alvarez, George A./ (2009). Compression in visual working memory: Using statistical regularities to form more efficient memory representations. /Journal of Experimental Psychology: General/ /138./ https://dx.doi.org/10.1037/a0016797

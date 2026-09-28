@@ -1,0 +1,6 @@
+:properties:
+:id: Wright2024Lapse
+:end:
+#+title: Wright2024Lapse
+
+/Wright, Beverly A. and Ning, Ruijing/ (2024). A transient memory lapse in humans 1–3 h after training /npj Science of Learning/ /9./ https://dx.doi.org/10.1038/s41539-024-00272-4

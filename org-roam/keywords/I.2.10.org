@@ -1,0 +1,8 @@
+:properties:
+:id: I.2.10
+:end:
+#+title: I.2.10
+
+*References*
+
+- [[id:Dasgupta2021VoE][A Benchmark for Modeling Violation-of-Expectation in Physical Reasoning Across Event Categories]]

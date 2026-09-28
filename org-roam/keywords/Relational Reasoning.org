@@ -1,0 +1,10 @@
+:properties:
+:id: Relational Reasoning
+:end:
+#+title: Relational Reasoning
+
+*References*
+
+- [[id:Goddu2020Analogy][Transformations and Transfer: Preschool Children Understand Abstract Relations and Reason Analogically in a Causal Task]]
+- [[id:Goddu2025Relational][Causal relational problem solving in toddlers]]
+- [[id:Goldwater2015Acquisition][On the acquisition of abstract knowledge: Structural alignment and explication in learning causal system categories]]

@@ -1,0 +1,6 @@
+:properties:
+:id: Mooij2013ODEtoSCM
+:end:
+#+title: Mooij2013ODEtoSCM
+
+/Mooij, Joris M. and Janzing, Dominik and Schölkopf, Bernhard/ (2013). From Ordinary Differential Equations to Structural Causal Models: the deterministic case // https://arxiv.org/abs/1304.7920

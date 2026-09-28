@@ -1,0 +1,6 @@
+:properties:
+:id: Daw2005Uncertainty
+:end:
+#+title: Daw2005Uncertainty
+
+/Daw, Nathaniel D and Niv, Yael and Dayan, Peter/ (2005). Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control /Nature Neuroscience/ /8./ https://dx.doi.org/10.1038/nn1560

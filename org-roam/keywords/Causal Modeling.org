@@ -1,0 +1,8 @@
+:properties:
+:id: Causal Modeling
+:end:
+#+title: Causal Modeling
+
+*References*
+
+- [[id:Mcdonald2022Relativity][Apt Causal Models and The Relativity of Actual Causation]]

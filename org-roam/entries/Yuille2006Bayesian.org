@@ -1,0 +1,6 @@
+:properties:
+:id: Yuille2006Bayesian
+:end:
+#+title: Yuille2006Bayesian
+
+/Yuille, Alan and Kersten, Daniel/ (2006). Vision as Bayesian inference: analysis by synthesis? /Trends in Cognitive Sciences/ /10./ https://doi.org/10.1016/j.tics.2006.05.002

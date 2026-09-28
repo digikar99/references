@@ -1,0 +1,8 @@
+:properties:
+:id: Douven2018Explanations
+:end:
+#+title: Douven2018Explanations
+
+/Douven, Igor and Mirabile, Patricia/ (2018). Best, second-best, and good-enough explanations: How they
+                  matter to reasoning. /Journal of Experimental Psychology: Learning, Memory, and
+                  Cognition/ /44./ https://doi.org/10.1037/xlm0000545

@@ -1,0 +1,6 @@
+:properties:
+:id: Firestone2015Topdown
+:end:
+#+title: Firestone2015Topdown
+
+/Firestone, Chaz and Scholl, Brian J./ (2015). Cognition does not affect perception: Evaluating the evidence for “top-down” effects /Behavioral and Brain Sciences/ /39./ https://dx.doi.org/10.1017/S0140525X15000965

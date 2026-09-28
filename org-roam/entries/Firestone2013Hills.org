@@ -1,0 +1,6 @@
+:properties:
+:id: Firestone2013Hills
+:end:
+#+title: Firestone2013Hills
+
+/Firestone, Chaz/ (2013). How “Paternalistic” Is Spatial Perception? Why Wearing a Heavy Backpack Doesn’t—and Couldn’t—Make Hills Look Steeper /Perspectives on Psychological Science/ /8./ https://dx.doi.org/10.1177/1745691613489835

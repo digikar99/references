@@ -1,0 +1,6 @@
+:properties:
+:id: Hu2025Inconceivability
+:end:
+#+title: Hu2025Inconceivability
+
+/Hu, Jennifer and Sosa, Felix and Ullman, Tomer/ (2025). Shades of zero: Distinguishing impossibility from inconceivability /Journal of Memory and Language/ /143./ https://dx.doi.org/10.1016/j.jml.2025.104640

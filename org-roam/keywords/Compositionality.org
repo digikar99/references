@@ -1,0 +1,8 @@
+:properties:
+:id: Compositionality
+:end:
+#+title: Compositionality
+
+*References*
+
+- [[id:Dautriche2022Compositionality][Evidence for compositionality in baboons (Papio papio) through the test case of negation]]

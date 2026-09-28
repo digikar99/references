@@ -1,0 +1,6 @@
+:properties:
+:id: Jensen2011Blindness
+:end:
+#+title: Jensen2011Blindness
+
+/Jensen, Melinda S. and Yao, Richard and Street, Whitney N. and Simons, Daniel J./ (2011). Change blindness and inattentional blindness /WIREs Cognitive Science/ /2./ https://doi.org/10.1002/wcs.130

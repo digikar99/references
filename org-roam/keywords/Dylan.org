@@ -1,0 +1,8 @@
+:properties:
+:id: Dylan
+:end:
+#+title: Dylan
+
+*References*
+
+- [[id:Bachrach1999Dexpressions][D-expressions: Lisp power, Dylan style]]

@@ -1,0 +1,45 @@
+:properties:
+:id: Cognitive Development
+:end:
+#+title: Cognitive Development
+
+*References*
+
+- [[id:Atzil2018Social][Growing a social brain]]
+- [[id:Bonawitz2024Bayesian][Bayesian models of cognitive development]]
+- [[id:Carey2011Origin][Précis of The Origin of Concepts]]
+- [[id:De2022Searching][Searching for information, from infancy to adolescence]]
+- [[id:DeLoache1995Symbols][Early Understanding and Use of Symbols: The Model Model]]
+- [[id:DeLoache2004Symbol][Becoming symbol-minded]]
+- [[id:Frazier2016Explanations][Young Children Prefer and Remember Satisfying Explanations]]
+- [[id:Goddu2020Learning][Learning what to change: Young children use “difference-making” to identify causally relevant variables.]]
+- [[id:Goddu2024Development][The development of human causal learning and reasoning]]
+- [[id:Eskritt2008Gricean][Preschoolers can recognize violations of the Gricean maxims]]
+- [[id:Gopnik2022Causal][Causal Models and Cognitive Development]]
+- [[id:Keil2007Domain][Biology and Beyond: Domain Specificity in a Broader Developmental Context]]
+- [[id:Kominsky2021Trajectory][The trajectory of counterfactual simulation in development.]]
+- [[id:Lockwood2020Social][Is There a ‘Social’ Brain? Implementations and Algorithms]]
+- [[id:Liebal2012Common][Young children’s understanding of cultural common ground]]
+- [[id:Burdett2018Interaction][The interaction of social and perceivable causal factors in shaping ‘over-imitation’]]
+- [[id:Ruggeri2022Introduction][An Introduction to Ecological Active Learning]]
+- [[id:Spelke2022Babies][What Babies Know: Core Knowledge and Composition Volume 1]]
+- [[id:Spelke2023Precis][Précis of What Babies Know]]
+- [[id:Ullman2012Innate][From simple innate biases to complex visual concepts]]
+- [[id:Ullman2020Bayesian][Bayesian Models of Conceptual Development: Learning as Building Models of the World]]
+- [[id:Wellman2011Explanations][Reinvigorating Explanations for the Study of Early Cognitive
+                  Development: Explanations]]
+- [[id:WinklerRhoades2013Children][Two‐year‐old children interpret abstract, purely geometric maps]]
+- [[id:Xu2007Bayesian][Word learning as Bayesian inference.]]
+- [[id:Carey2011Concept][Concept innateness, concept continuity, and bootstrapping]]
+- [[id:Barrett2004Children][Children’s Understanding of Society]]
+- [[id:Webley2004Economics][Children’s Understanding of Economics]]
+- [[id:LaviRotbain2022Learnability][The learnability consequences of Zipfian distributions in language]]
+- [[id:Buchanan2011Children][Children posit hidden causes to explain causal variability]]
+- [[id:Shin2023Abstraction][Learning what matters: Causal abstraction in human inference]]
+- [[id:Blair2007Pedagogical][Pedagogical agents for learning by teaching: Teachable agents]]
+- [[id:Deibl2024Myths][Overcoming the Myths: Interactive Learning Environments as Myth Busters in Teaching and Learning]]
+- [[id:Carey2022Becoming][Becoming a Cognitive Scientist]]
+- [[id:Schulz2012New][Finding New Facts; Thinking New Thoughts]]
+- [[id:Bonawitz2012Balance][Children balance theories and evidence in exploration, explanation, and learning]]
+- [[id:Lorch2024Challenging][Challenging the control-of-variables strategy: How confounded comparisons can support children's science learning]]
+- [[id:Wilkening2010Intuitive][Children's Intuitive Physics]]

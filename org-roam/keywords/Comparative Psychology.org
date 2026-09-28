@@ -1,0 +1,13 @@
+:properties:
+:id: Comparative Psychology
+:end:
+#+title: Comparative Psychology
+
+*References*
+
+- [[id:Berthet2022Animal][Animal linguistics: a primer]]
+- [[id:Carpenter2013Joint][How Joint Is the Joint Attention of Apes and Human Infants?]]
+- [[id:Dautriche2022Compositionality][Evidence for compositionality in baboons (Papio papio) through the test case of negation]]
+- [[id:Hobaiter2022Ape][Are ape gestures like words? Outstanding issues in detecting similarities and differences between human language and ape gesture]]
+- [[id:Martin2016Primate][What Cognitive Representations Support Primate Theory of Mind?]]
+- [[id:Moffett2021Ant][Ant colonies: building complex organizations with minuscule brains and no leaders]]

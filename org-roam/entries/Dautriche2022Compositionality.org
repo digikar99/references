@@ -1,0 +1,6 @@
+:properties:
+:id: Dautriche2022Compositionality
+:end:
+#+title: Dautriche2022Compositionality
+
+/Dautriche,  Isabelle and Buccola,  Brian and Berthet,  Melissa and Fagot,  Joel and Chemla,  Emmanuel/ (2022). Evidence for compositionality in baboons (Papio papio) through the test case of negation /Scientific Reports/ /12./ https://doi.org/10.1038/s41598-022-21143-1

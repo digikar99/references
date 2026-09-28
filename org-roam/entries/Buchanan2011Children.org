@@ -1,0 +1,6 @@
+:properties:
+:id: Buchanan2011Children
+:end:
+#+title: Buchanan2011Children
+
+/Buchanan, David and Sobel, David/ (2011). Children posit hidden causes to explain causal variability /Proceedings of the Annual Meeting of the Cognitive Science Society/ /33./

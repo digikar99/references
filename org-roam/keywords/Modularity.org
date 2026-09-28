@@ -1,0 +1,11 @@
+:properties:
+:id: Modularity
+:end:
+#+title: Modularity
+
+*References*
+
+- [[id:Boroditsky2011Language][How Language Shapes Thought]]
+- [[id:Fodor1985Modularity][Précis of The Modularity of Mind]]
+- [[id:Lupyan2020Language][Effects of Language on Visual Perception]]
+- [[id:Nedergaard2022Language][Verbal interference paradigms: A systematic review investigating the role of language in cognition]]

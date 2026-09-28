@@ -1,0 +1,8 @@
+:properties:
+:id: Other Statistics (stat.OT)
+:end:
+#+title: Other Statistics (stat.OT)
+
+*References*
+
+- [[id:Mooij2013ODEtoSCM][From Ordinary Differential Equations to Structural Causal Models: the deterministic case]]

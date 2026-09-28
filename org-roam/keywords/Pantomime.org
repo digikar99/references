@@ -1,0 +1,9 @@
+:properties:
+:id: Pantomime
+:end:
+#+title: Pantomime
+
+*References*
+
+- [[id:Grdenfors2022Teaching][Teaching as evolutionary precursor to language]]
+- [[id:Gardenfors2017Pantomime][Demonstration and Pantomime in the Evolution of Teaching]]

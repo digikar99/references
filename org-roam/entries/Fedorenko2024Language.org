@@ -1,0 +1,6 @@
+:properties:
+:id: Fedorenko2024Language
+:end:
+#+title: Fedorenko2024Language
+
+/Fedorenko, Evelina and Piantadosi, Steven T. and Gibson, Edward A. F./ (2024). Language is primarily a tool for communication rather than thought /Nature/ /630./ https://dx.doi.org/10.1038/s41586-024-07522-w

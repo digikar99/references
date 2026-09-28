@@ -1,0 +1,6 @@
+:properties:
+:id: Woodward2016Variable
+:end:
+#+title: Woodward2016Variable
+
+/Woodward, James/ (2016). The problem of variable choice /Synthese/ /193./ https://doi.org/10.1007/s11229-015-0810-5

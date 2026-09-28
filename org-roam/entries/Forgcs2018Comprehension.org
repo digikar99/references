@@ -1,0 +1,6 @@
+:properties:
+:id: Forgcs2018Comprehension
+:end:
+#+title: Forgcs2018Comprehension
+
+/Forgács,  Bálint and Parise,  Eugenio and Csibra,  Gergely and Gergely,  Gy\"orgy and Jacquey,  Lisa and Gervain,  Judit/ (2018). Fourteen-month-old infants track the language comprehension of communicative partners /Developmental Science/ /22./ https://doi.org/10.1111/desc.12751

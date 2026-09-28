@@ -1,0 +1,6 @@
+:properties:
+:id: Sobel2007Interactions
+:end:
+#+title: Sobel2007Interactions
+
+/Griffiths, Thomas L and Tenenbaum, Joshua B/ (2007). Interactions Between Causal and Statistical Learning /Causal learning: Psychology, philosophy, and computation/

@@ -1,0 +1,6 @@
+:properties:
+:id: Mercier2011Humans
+:end:
+#+title: Mercier2011Humans
+
+/Mercier, Hugo and Sperber, Dan/ (2011). Why do humans reason? Arguments for an argumentative theory /Behavioral and brain sciences/ /34./

@@ -1,0 +1,6 @@
+:properties:
+:id: Gerstenberg2017Intuitive
+:end:
+#+title: Gerstenberg2017Intuitive
+
+/Gerstenberg, Tobias and Tenenbaum, Joshua B./ (2017). Intuitive Theories /Oxford Handbooks Online/ https://doi.org/10.1093/oxfordhb/9780199399550.013.28

@@ -1,0 +1,8 @@
+:properties:
+:id: Auditory Cognition
+:end:
+#+title: Auditory Cognition
+
+*References*
+
+- [[id:Heilbron2018Predictive][Great Expectations: Is there Evidence for Predictive Coding in Auditory Cortex?]]

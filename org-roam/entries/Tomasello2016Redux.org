@@ -1,0 +1,6 @@
+:properties:
+:id: Tomasello2016Redux
+:end:
+#+title: Tomasello2016Redux
+
+/Tomasello, Michael/ (2016). Cultural Learning Redux /Child Development/ /87./ https://dx.doi.org/10.1111/cdev.12499

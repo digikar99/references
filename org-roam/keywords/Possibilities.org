@@ -1,0 +1,8 @@
+:properties:
+:id: Possibilities
+:end:
+#+title: Possibilities
+
+*References*
+
+- [[id:JohnsonLaird2019Possibilities][Possibilities as the foundation of reasoning]]

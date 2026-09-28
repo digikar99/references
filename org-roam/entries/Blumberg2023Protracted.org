@@ -1,0 +1,6 @@
+:properties:
+:id: Blumberg2023Protracted
+:end:
+#+title: Blumberg2023Protracted
+
+/Blumberg, Mark S. and Adolph, Karen E./ (2023). Protracted development of motor cortex constrains rich interpretations of infant cognition /Trends in Cognitive Sciences/ /27./ https://doi.org/10.1016/j.tics.2022.12.014

@@ -1,0 +1,6 @@
+:properties:
+:id: Wang2019Everyday
+:end:
+#+title: Wang2019Everyday
+
+/Wang, Pei/ (2019). Toward a Logic of Everyday Reasoning /Blended Cognition/ https://doi.org/10.1007/978-3-030-03104-6_11

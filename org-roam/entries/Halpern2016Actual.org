@@ -1,0 +1,6 @@
+:properties:
+:id: Halpern2016Actual
+:end:
+#+title: Halpern2016Actual
+
+/Halpern, Joseph Y./ (2016). Actual Causality // https://dx.doi.org/10.7551/mitpress/10809.001.0001

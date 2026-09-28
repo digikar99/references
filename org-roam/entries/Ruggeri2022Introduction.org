@@ -1,0 +1,6 @@
+:properties:
+:id: Ruggeri2022Introduction
+:end:
+#+title: Ruggeri2022Introduction
+
+/Ruggeri, Azzurra/ (2022). An Introduction to Ecological Active Learning /Current Directions in Psychological Science/ /31./ https://doi.org/10.1177/09637214221112114

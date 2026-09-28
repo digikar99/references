@@ -1,0 +1,8 @@
+:properties:
+:id: Motion Perception
+:end:
+#+title: Motion Perception
+
+*References*
+
+- [[id:Trauble2011Infants][Infants’ reasoning about ambiguous motion events: The role of spatiotemporal and dispositional status information]]

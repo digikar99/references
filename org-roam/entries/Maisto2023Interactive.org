@@ -1,0 +1,6 @@
+:properties:
+:id: Maisto2023Interactive
+:end:
+#+title: Maisto2023Interactive
+
+/Maisto, Domenico and Donnarumma, Francesco and Pezzulo, Giovanni/ (2023). Interactive inference: a multi-agent model of cooperative joint actions /IEEE Transactions on Systems, Man, and Cybernetics: Systems/

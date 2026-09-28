@@ -1,0 +1,12 @@
+:properties:
+:id: Counterfactuals
+:end:
+#+title: Counterfactuals
+
+*References*
+
+- [[id:Gerstenberg2021Omission][A counterfactual simulation model of causation by omission]]
+- [[id:Gerstenberg2021Physical][A counterfactual simulation model of causal judgments for physical events.]]
+- [[id:Kominsky2021Trajectory][The trajectory of counterfactual simulation in development.]]
+- [[id:Quillien2024Counterfactual][A counterfactual explanation for recency effects in double prevention scenarios: commentary on Thanawala & Erb (2024)]]
+- [[id:Romoli2022Counterfactuals][Alternatives in Counterfactuals: What Is Right and What Is Not]]

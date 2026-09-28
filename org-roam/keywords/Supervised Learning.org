@@ -1,0 +1,8 @@
+:properties:
+:id: Supervised Learning
+:end:
+#+title: Supervised Learning
+
+*References*
+
+- [[id:Brehmer2022Weakly][Weakly supervised causal representation learning]]

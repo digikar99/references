@@ -1,0 +1,6 @@
+:properties:
+:id: Pearl2013Structural
+:end:
+#+title: Pearl2013Structural
+
+/Pearl, Judea/ (2013). Structural Counterfactuals: A Brief Introduction /Cognitive Science/ /37./ https://dx.doi.org/10.1111/cogs.12065

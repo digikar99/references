@@ -1,0 +1,6 @@
+:properties:
+:id: Beller2020Causation
+:end:
+#+title: Beller2020Causation
+
+/Beller, Ari and Bennett, Erin and Gerstenberg, Tobias/ (2020). The language of causation /CogSci/ /1./

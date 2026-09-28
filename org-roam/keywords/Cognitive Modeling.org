@@ -1,0 +1,8 @@
+:properties:
+:id: Cognitive Modeling
+:end:
+#+title: Cognitive Modeling
+
+*References*
+
+- [[id:Lieto2019Description][A description logic framework for commonsense conceptual combination integrating typicality, probabilities and cognitive heuristics]]

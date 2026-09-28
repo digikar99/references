@@ -1,0 +1,6 @@
+:properties:
+:id: Mercier2019Template
+:end:
+#+title: Mercier2019Template
+
+/Mercier, Jean-Philippe and Garon, Mathieu and Giguère, Philippe and Lalonde, Jean-François/ (2019). Deep Template-based Object Instance Detection // https://arxiv.org/abs/1911.11822

@@ -1,0 +1,8 @@
+:properties:
+:id: and Why We Should.pdf
+:end:
+#+title: and Why We Should.pdf
+
+*References*
+
+- [[id:Rescorla2012Representation][How to Integrate Representation into Computational Modeling, and Why We Should]]

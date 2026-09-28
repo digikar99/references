@@ -1,0 +1,14 @@
+:properties:
+:id: Methods
+:end:
+#+title: Methods
+
+*References*
+
+- [[id:kominsky2022simplicity][Simplicity and validity in infant research]]
+- [[id:Hoijtink2019Bayes][A tutorial on testing hypotheses using the Bayes factor.]]
+- [[id:VanLissa2020Bayes][Teacher’s Corner: Evaluating Informative Hypotheses Using the Bayes Factor in Structural Equation Models]]
+- [[id:Heck2023Bayes][A review of applications of the Bayes factor in psychological research.]]
+- [[id:Douven2017Likert][A Bayesian perspective on Likert scales and central tendency]]
+- [[id:Verhagen2014Bayesian][Bayesian tests to quantify the result of a replication attempt.]]
+- [[id:Schmidt2011Priming][Dos and don’ts in response priming research]]

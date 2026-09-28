@@ -1,0 +1,9 @@
+:properties:
+:id: Joint Attention
+:end:
+#+title: Joint Attention
+
+*References*
+
+- [[id:Carpenter2013Joint][How Joint Is the Joint Attention of Apes and Human Infants?]]
+- [[id:Thiele2023Modulate][Direct and Observed Joint Attention Modulate 9-Month-Old Infants’ Object Encoding]]

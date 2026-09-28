@@ -1,0 +1,6 @@
+:properties:
+:id: Steyvers2012Memory
+:end:
+#+title: Steyvers2012Memory
+
+/Steyvers, Mark and Hemmer, Pernille/ (2012). Reconstruction from Memory in Naturalistic Environments /Psychology of Learning and Motivation/ https://dx.doi.org/10.1016/B978-0-12-394393-4.00004-2

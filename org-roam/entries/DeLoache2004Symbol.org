@@ -1,0 +1,6 @@
+:properties:
+:id: DeLoache2004Symbol
+:end:
+#+title: DeLoache2004Symbol
+
+/DeLoache, Judy S./ (2004). Becoming symbol-minded /Trends in Cognitive Sciences/ /8./ https://doi.org/10.1016/j.tics.2003.12.004

@@ -1,0 +1,6 @@
+:properties:
+:id: Lorch2024Challenging
+:end:
+#+title: Lorch2024Challenging
+
+/L\"orch, Lucas and Bonawitz, Elizabeth and Brod, Garvin/ (2024). Challenging the control-of-variables strategy: How confounded comparisons can support children's science learning /Proceedings of the Annual Meeting of the Cognitive Science Society/ /46./

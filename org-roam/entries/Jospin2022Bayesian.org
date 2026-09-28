@@ -1,0 +1,6 @@
+:properties:
+:id: Jospin2022Bayesian
+:end:
+#+title: Jospin2022Bayesian
+
+/Jospin, Laurent Valentin and Laga, Hamid and Boussaid, Farid and Buntine, Wray and Bennamoun, Mohammed/ (2022). Hands-On Bayesian Neural Networks—A Tutorial for Deep Learning Users /IEEE Computational Intelligence Magazine/ /17./ https://doi.org/10.1109/MCI.2022.3155327

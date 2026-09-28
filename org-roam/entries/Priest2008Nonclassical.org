@@ -1,0 +1,6 @@
+:properties:
+:id: Priest2008Nonclassical
+:end:
+#+title: Priest2008Nonclassical
+
+/Priest, Graham/ (2008). An introduction to non-classical logic: From if to is //

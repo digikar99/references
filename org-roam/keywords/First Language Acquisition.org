@@ -1,0 +1,8 @@
+:properties:
+:id: First Language Acquisition
+:end:
+#+title: First Language Acquisition
+
+*References*
+
+- [[id:Naigles1993First][First Contact in Verb Acquisition: Defining a Role for Syntax]]

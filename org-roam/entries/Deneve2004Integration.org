@@ -1,0 +1,6 @@
+:properties:
+:id: Deneve2004Integration
+:end:
+#+title: Deneve2004Integration
+
+/Deneve, Sophie and Pouget, Alexandre/ (2004). Bayesian multisensory integration and cross-modal spatial links /Journal of Physiology-Paris/ /98./ https://dx.doi.org/10.1016/j.jphysparis.2004.03.011

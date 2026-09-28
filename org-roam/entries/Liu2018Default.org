@@ -1,0 +1,6 @@
+:properties:
+:id: Liu2018Default
+:end:
+#+title: Liu2018Default
+
+/Liu, Mingnan and Conrad, Frederick G./ (2018). Where Should I Start? On Default Values for Slider Questions in Web Surveys /Social Science Computer Review/ /37./ https://dx.doi.org/10.1177/0894439318755336

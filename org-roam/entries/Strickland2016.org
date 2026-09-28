@@ -1,0 +1,6 @@
+:properties:
+:id: Strickland2016
+:end:
+#+title: Strickland2016
+
+/Strickland, Brent and Silver, Ike and Keil, Frank C./ (2016). The texture of causal construals: Domain-specific biases shape causal inferences from discourse /Memory &amp; Cognition/ /45./ https://doi.org/10.3758/s13421-016-0668-x

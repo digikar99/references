@@ -1,0 +1,6 @@
+:properties:
+:id: Kominsky2021Trajectory
+:end:
+#+title: Kominsky2021Trajectory
+
+/Kominsky, Jonathan F. and Gerstenberg, Tobias and Pelz, Madeline and Sheskin, Mark and Singmann, Henrik and Schulz, Laura and Keil, Frank C./ (2021). The trajectory of counterfactual simulation in development. /Developmental Psychology/ /57./ https://doi.org/10.1037/dev0001140

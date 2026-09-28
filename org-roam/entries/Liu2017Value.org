@@ -1,0 +1,6 @@
+:properties:
+:id: Liu2017Value
+:end:
+#+title: Liu2017Value
+
+/Liu, Shari and Ullman, Tomer D. and Tenenbaum, Joshua B. and Spelke, Elizabeth S./ (2017). Ten-month-old infants infer the value of goals from the costs of actions /Science/ /358./ https://doi.org/10.1126/science.aag2132

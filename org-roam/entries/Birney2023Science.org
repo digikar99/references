@@ -1,0 +1,6 @@
+:properties:
+:id: Birney2023Science
+:end:
+#+title: Birney2023Science
+
+/Birney, Megan E and Reicher, Stephen D and Haslam, S Alexander and Steffens, Niklas K and Neville, Fergus G/ (2023). Engaged followership and toxic science: Exploring the effect of prototypicality on willingness to follow harmful experimental instructions /British Journal of Social Psychology/ /62./

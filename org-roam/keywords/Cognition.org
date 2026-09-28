@@ -1,0 +1,30 @@
+:properties:
+:id: Cognition
+:end:
+#+title: Cognition
+
+*References*
+
+- [[id:Xu2009Constructivism][Induction, overhypotheses, and the shape bias: Some arguments and evidence for rational constructivism]]
+- [[id:Binz2023Meta][Meta-learned models of cognition]]
+- [[id:Davis2016Limits][The scope and limits of simulation in automated reasoning]]
+- [[id:JohnsonLaird2019Possibilities][Possibilities as the foundation of reasoning]]
+- [[id:Ong2024Probabilistic][Probabilistic programming versus meta-learning as models of cognition]]
+- [[id:Hofstadter1999Godel][Gödel, Escher, Bach: an eternal golden braid]]
+- [[id:Gardenfors1999Tenets][Some tenets of cognitive semantics]]
+- [[id:Adams2009Conceptual][Conceptual Space Markup Language (CSML): Towards the Cognitive Semantic Web]]
+- [[id:Gardenfors2014Geometry][The Geometry of Meaning: Semantics Based on Conceptual Spaces]]
+- [[id:Gardenfors2017Meaning][Cognitively Oriented Theories of Meaning]]
+- [[id:Gardenfors2024Meaning][The Geometry and Dynamics of Meaning]]
+- [[id:TurkBrowne2012Statistical][Statistical Learning and Its Consequences]]
+- [[id:Wolff2015Forces][Causal reasoning with forces]]
+- [[id:Wolff2007Causation][Representing Causation]]
+- [[id:White2012Causal][Visual Impressions of Pushing and Pulling: The object perceived as causal is not always the one that moves first]]
+- [[id:Pouncy2021Model][What Is the Model in Model‐Based Planning?]]
+- [[id:Dayan1995Helmholtz][The Helmholtz Machine]]
+- [[id:Hinton1993Autoencoders][Autoencoders, Minimum Description Length and Helmholtz Free Energy]]
+- [[id:Mitko2020Relationship][When it all falls down: the relationship between intuitive physics and spatial cognition]]
+- [[id:Deneve2004Integration][Bayesian multisensory integration and cross-modal spatial links]]
+- [[id:Holden2013Real][Location memory in the real world: Category adjustment effects in 3-dimensional space]]
+- [[id:Hubbard2014Representational][Forms of momentum across space: Representational, operational, and attentional]]
+- [[id:Jiang2021Visuospatial][Errors in visuospatial working memory across space and time]]

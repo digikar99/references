@@ -1,0 +1,13 @@
+:properties:
+:id: Modeling
+:end:
+#+title: Modeling
+
+*References*
+
+- [[id:Binz2023Meta][Meta-learned models of cognition]]
+- [[id:Davis2016Limits][The scope and limits of simulation in automated reasoning]]
+- [[id:Friston2021Model][World model learning and inference]]
+- [[id:Gerstenberg2021Omission][A counterfactual simulation model of causation by omission]]
+- [[id:Ong2024Probabilistic][Probabilistic programming versus meta-learning as models of cognition]]
+- [[id:Shafto2008Teaching][Teaching Games: Statistical Sampling Assumptions for Learning in Pedagogical Situations]]

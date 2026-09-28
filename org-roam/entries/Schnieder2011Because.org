@@ -1,0 +1,6 @@
+:properties:
+:id: Schnieder2011Because
+:end:
+#+title: Schnieder2011Because
+
+/SCHNIEDER, BENJAMIN/ (2011). A logic for ‘because’ /The Review of Symbolic Logic/ /4./ https://dx.doi.org/10.1017/S1755020311000104

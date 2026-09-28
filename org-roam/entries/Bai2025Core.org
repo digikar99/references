@@ -1,0 +1,6 @@
+:properties:
+:id: Bai2025Core
+:end:
+#+title: Bai2025Core
+
+/Bai, Dawei and Hafri, Alon and Izard, Véronique and Firestone, Chaz and Strickland, Brent/ (2025). “Core Perception”: Re-imagining Precocious Reasoning as Sophisticated Perceiving /Behavioral and Brain Sciences/ https://dx.doi.org/10.1017/S0140525X25102756

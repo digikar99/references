@@ -1,0 +1,6 @@
+:properties:
+:id: Krosnick1991Satisficing
+:end:
+#+title: Krosnick1991Satisficing
+
+/Krosnick, Jon A./ (1991). Response strategies for coping with the cognitive demands of attitude measures in surveys /Applied Cognitive Psychology/ /5./ https://dx.doi.org/10.1002/acp.2350050305

@@ -1,0 +1,6 @@
+:properties:
+:id: Schulz2007Conditional
+:end:
+#+title: Schulz2007Conditional
+
+/Schulz, Laura E. and Gopnik, Alison and Glymour, Clark/ (2007). Preschool children learn about causal structure from conditional interventions /Developmental Science/ /10./ https://doi.org/10.1111/j.1467-7687.2007.00587.x

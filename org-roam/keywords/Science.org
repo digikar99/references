@@ -1,0 +1,8 @@
+:properties:
+:id: Science
+:end:
+#+title: Science
+
+*References*
+
+- [[id:Earman1978Einstein][Lost in the tensors: Einstein's struggles with covariance principles 1912--1916]]

@@ -1,0 +1,6 @@
+:properties:
+:id: Arehalli2021Filler
+:end:
+#+title: Arehalli2021Filler
+
+/Arehalli, Suhas and Wittenberg, Eva/ (2021). Experimental filler design influences error correction rates in a word restoration paradigm /Linguistics Vanguard/ /7./ https://dx.doi.org/10.1515/lingvan-2020-0052

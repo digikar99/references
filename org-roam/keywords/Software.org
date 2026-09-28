@@ -1,0 +1,8 @@
+:properties:
+:id: Software
+:end:
+#+title: Software
+
+*References*
+
+- [[id:Adams2009Conceptual][Conceptual Space Markup Language (CSML): Towards the Cognitive Semantic Web]]

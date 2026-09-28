@@ -1,0 +1,6 @@
+:properties:
+:id: Kovacs2021Attributed
+:end:
+#+title: Kovacs2021Attributed
+
+/Kovács, Ágnes Melinda and Téglás, Ernő and Csibra, Gergely/ (2021). Can infants adopt underspecified contents into attributed beliefs? Representational prerequisites of theory of mind /Cognition/ /213./ https://doi.org/10.1016/j.cognition.2021.104640

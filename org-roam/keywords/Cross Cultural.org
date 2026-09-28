@@ -1,0 +1,8 @@
+:properties:
+:id: Cross Cultural
+:end:
+#+title: Cross Cultural
+
+*References*
+
+- [[id:Wente2017Cultures][Causal Learning Across Culture and Socioeconomic Status]]

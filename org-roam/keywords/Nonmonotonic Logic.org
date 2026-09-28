@@ -1,0 +1,8 @@
+:properties:
+:id: Nonmonotonic Logic
+:end:
+#+title: Nonmonotonic Logic
+
+*References*
+
+- [[id:OstaVelez2021Expectation][Nonmonotonic Reasoning, Expectations Orderings, and Conceptual Spaces]]

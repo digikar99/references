@@ -1,0 +1,6 @@
+:properties:
+:id: Suppes1970Probabilistic
+:end:
+#+title: Suppes1970Probabilistic
+
+/Suppes, Patrick/ (1970). A probabilistic theory of causality //

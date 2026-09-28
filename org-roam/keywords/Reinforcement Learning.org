@@ -1,0 +1,11 @@
+:properties:
+:id: Reinforcement Learning
+:end:
+#+title: Reinforcement Learning
+
+*References*
+
+- [[id:Schulte2024Causal][Why Online Reinforcement Learning is Causal]]
+- [[id:Daw2011Model][Model-Based Influences on Humans’ Choices and Striatal Prediction Errors]]
+- [[id:Glascher2010Model][States versus Rewards: Dissociable Neural Prediction Error Signals Underlying Model-Based and Model-Free Reinforcement Learning]]
+- [[id:Pouncy2021Model][What Is the Model in Model‐Based Planning?]]

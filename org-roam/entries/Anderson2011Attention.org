@@ -1,0 +1,6 @@
+:properties:
+:id: Anderson2011Attention
+:end:
+#+title: Anderson2011Attention
+
+/Anderson, Britt/ (2011). There is no Such Thing as Attention /Frontiers in Psychology/ /2./ https://doi.org/10.3389/fpsyg.2011.00246

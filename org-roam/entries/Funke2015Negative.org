@@ -1,0 +1,6 @@
+:properties:
+:id: Funke2015Negative
+:end:
+#+title: Funke2015Negative
+
+/Funke, Frederik/ (2015). A Web Experiment Showing Negative Effects of Slider Scales Compared to Visual Analogue Scales and Radio Button Scales /Social Science Computer Review/ /34./ https://dx.doi.org/10.1177/0894439315575477

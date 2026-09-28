@@ -1,0 +1,6 @@
+:properties:
+:id: Kemp2010Learning
+:end:
+#+title: Kemp2010Learning
+
+/Kemp, Charles and Goodman, Noah D. and Tenenbaum, Joshua B./ (2010). Learning to Learn Causal Models /Cognitive Science/ /34./ https://doi.org/10.1111/j.1551-6709.2010.01128.x

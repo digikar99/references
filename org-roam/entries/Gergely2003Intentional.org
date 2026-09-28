@@ -1,0 +1,6 @@
+:properties:
+:id: Gergely2003Intentional
+:end:
+#+title: Gergely2003Intentional
+
+/Gergely, György and Nádasdy, Zoltán and Csibra, Gergely and Bíró, Szilvia/ (2003). Taking the intentional stance at 12 months of age /Cognition/ /56./ https://doi.org/10.1016/0010-0277(95)00661-h

@@ -1,0 +1,12 @@
+:properties:
+:id: Machine Learning (cs.LG)
+:end:
+#+title: Machine Learning (cs.LG)
+
+*References*
+
+- [[id:Geist2010Kalmantd][Kalman Temporal Differences]]
+- [[id:Pruthi2020Structure][Structure Mapping for Transferability of Causal Models]]
+- [[id:Straub2024Inverse][Inverse decision-making using neural amortized Bayesian actors]]
+- [[id:Duan2022Physics][A Survey on Machine Learning Approaches for Modelling Intuitive Physics]]
+- [[id:Bakermans2025Compositional][Compositional meta-learning through probabilistic task inference]]

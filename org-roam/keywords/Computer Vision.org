@@ -1,0 +1,13 @@
+:properties:
+:id: Computer Vision
+:end:
+#+title: Computer Vision
+
+*References*
+
+- [[id:Fire2015Causality][Learning Perceptual Causality from Video]]
+- [[id:Fire2016Causality][Learning and Inferring Perceptual Causality from Video]]
+- [[id:Frink2022Enhanced][Enhanced Deep Template-Based Object Instance Detection]]
+- [[id:Liu2022Visual][Causal Reasoning Meets Visual Representation Learning: A Prospective Study]]
+- [[id:Mercier2019Template][Deep Template-based Object Instance Detection]]
+- [[id:Schott2021Visual][Visual representation learning does not generalize strongly within the same domain]]

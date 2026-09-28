@@ -1,0 +1,6 @@
+:properties:
+:id: Waldmann2017Reasoning
+:end:
+#+title: Waldmann2017Reasoning
+
+/Waldmann, Michael/ (2017). The Oxford Handbook of Causal Reasoning //

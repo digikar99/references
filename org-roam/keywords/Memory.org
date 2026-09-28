@@ -1,0 +1,16 @@
+:properties:
+:id: Memory
+:end:
+#+title: Memory
+
+*References*
+
+- [[id:Bauml2002Semantic][Semantic Generation Can Cause Episodic Forgetting]]
+- [[id:Alberini2017Astrocyte][Astrocyte Glycogen and Lactate: New Insights into Learning and Memory Mechanisms]]
+- [[id:Mahr2017Remember][Why do we remember? The communicative function of episodic memory]]
+- [[id:swann1987causal][Causal chunking: Memory and inference in ongoing interaction.]]
+- [[id:Sargent2013Segmentation][Event segmentation ability uniquely predicts event memory]]
+- [[id:Steyvers2012Memory][Reconstruction from Memory in Naturalistic Environments]]
+- [[id:Wright2024Lapse][A transient memory lapse in humans 1–3 h after training]]
+- [[id:Herzog2025Stable][Evidence for rule versus exemplar learning strategies as stable individual differences independent from working memory]]
+- [[id:Huttenlocher1991Estimating][Categories and particulars: Prototype effects in estimating spatial location.]]

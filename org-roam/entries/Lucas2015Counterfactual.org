@@ -1,0 +1,6 @@
+:properties:
+:id: Lucas2015Counterfactual
+:end:
+#+title: Lucas2015Counterfactual
+
+/Lucas, Christopher G. and Kemp, Charles/ (2015). An improved probabilistic account of counterfactual reasoning. /Psychological Review/ /122./ https://dx.doi.org/10.1037/a0039655

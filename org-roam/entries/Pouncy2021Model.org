@@ -1,0 +1,6 @@
+:properties:
+:id: Pouncy2021Model
+:end:
+#+title: Pouncy2021Model
+
+/Pouncy, Thomas and Tsividis, Pedro and Gershman, Samuel J./ (2021). What Is the Model in Model‐Based Planning? /Cognitive Science/ /45./ https://dx.doi.org/10.1111/cogs.12928

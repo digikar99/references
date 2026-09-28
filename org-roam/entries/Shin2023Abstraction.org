@@ -1,0 +1,6 @@
+:properties:
+:id: Shin2023Abstraction
+:end:
+#+title: Shin2023Abstraction
+
+/Shin, Steven M and Gerstenberg, Tobias/ (2023). Learning what matters: Causal abstraction in human inference /Proceedings of the Annual Meeting of the Cognitive Science Society/ /45./

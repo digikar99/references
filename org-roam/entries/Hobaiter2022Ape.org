@@ -1,0 +1,6 @@
+:properties:
+:id: Hobaiter2022Ape
+:end:
+#+title: Hobaiter2022Ape
+
+/Hobaiter, Catherine and Graham, Kirsty E. and Byrne, Richard W./ (2022). Are ape gestures like words? Outstanding issues in detecting similarities and differences between human language and ape gesture /Philosophical Transactions of the Royal Society B: Biological Sciences/ /377./ https://doi.org/10.1098/rstb.2021.0301

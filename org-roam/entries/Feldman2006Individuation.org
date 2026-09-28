@@ -1,0 +1,6 @@
+:properties:
+:id: Feldman2006Individuation
+:end:
+#+title: Feldman2006Individuation
+
+/FELDMAN, J and TREMOULET, P/ (2006). Individuation of visual objects over time /Cognition/ /99./ https://doi.org/10.1016/j.cognition.2004.12.008

@@ -1,0 +1,6 @@
+:properties:
+:id: DeChiara2019NAFLD
+:end:
+#+title: DeChiara2019NAFLD
+
+/De Chiara, Francesco and Ureta Checcllo, Cynthia and Ramón Azcón, Javier/ (2019). High Protein Diet and Metabolic Plasticity in Non-Alcoholic Fatty Liver Disease: Myths and Truths /Nutrients/ /11./ https://dx.doi.org/10.3390/nu11122985

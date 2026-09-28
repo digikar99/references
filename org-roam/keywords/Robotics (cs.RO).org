@@ -1,0 +1,8 @@
+:properties:
+:id: Robotics (cs.RO)
+:end:
+#+title: Robotics (cs.RO)
+
+*References*
+
+- [[id:Xia2025Kicking][From Kicking to Causality: Simulating Infant Agency Detection with a Robust Intrinsic Reward]]

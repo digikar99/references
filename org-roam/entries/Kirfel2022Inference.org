@@ -1,0 +1,6 @@
+:properties:
+:id: Kirfel2022Inference
+:end:
+#+title: Kirfel2022Inference
+
+/Kirfel, Lara and Icard, Thomas and Gerstenberg, Tobias/ (2022). Inference from explanation. /Journal of Experimental Psychology: General/ /151./ https://dx.doi.org/10.1037/xge0001151

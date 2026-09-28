@@ -1,0 +1,6 @@
+:properties:
+:id: Jones2011Fundamentalism
+:end:
+#+title: Jones2011Fundamentalism
+
+/Jones, Matt and Love, Bradley C./ (2011). Bayesian Fundamentalism or Enlightenment? On the explanatory status and theoretical contributions of Bayesian models of cognition /Behavioral and Brain Sciences/ /34./ https://dx.doi.org/10.1017/S0140525X10003134

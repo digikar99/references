@@ -1,0 +1,6 @@
+:properties:
+:id: Lucas2012Counterfactual
+:end:
+#+title: Lucas2012Counterfactual
+
+/Christopher G. Lucas and Charles Kemp/ (2012). A unified theory of counterfactual reasoning /Proceedings of the Annual Meeting of the Cognitive Science Society/ /34./

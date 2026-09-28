@@ -1,0 +1,6 @@
+:properties:
+:id: Mcdonald2022Relativity
+:end:
+#+title: Mcdonald2022Relativity
+
+/Jennifer McDonald/ (2022). Apt Causal Models and The Relativity of Actual Causation // https://philsci-archive.pitt.edu/21407/

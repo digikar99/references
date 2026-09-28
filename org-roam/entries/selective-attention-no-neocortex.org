@@ -1,0 +1,6 @@
+:properties:
+:id: selective-attention-no-neocortex
+:end:
+#+title: selective-attention-no-neocortex
+
+/Krauzlis, Richard J. and Bogadhi, Amarender R. and Herman, James P. and Bollimunta, Anil/ (2018). Selective Attention without a Neocortex /Cortex; a journal devoted to the study of the nervous system and behavior/ /102./ [[https://doi.org/10.1016/j.cortex.2017.08.026][10.1016/j.cortex.2017.08.026]]

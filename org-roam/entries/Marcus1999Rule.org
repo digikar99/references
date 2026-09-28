@@ -1,0 +1,6 @@
+:properties:
+:id: Marcus1999Rule
+:end:
+#+title: Marcus1999Rule
+
+/Marcus, G. F. and Vijayan, S. and Bandi Rao, S. and Vishton, P. M./ (1999). Rule Learning by Seven-Month-Old Infants /Science/ /283./ https://dx.doi.org/10.1126/science.283.5398.77

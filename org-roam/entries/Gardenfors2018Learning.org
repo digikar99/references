@@ -1,0 +1,6 @@
+:properties:
+:id: Gardenfors2018Learning
+:end:
+#+title: Gardenfors2018Learning
+
+/Gärdenfors, Peter/ (2018). From Sensations to Concepts: a Proposal for Two Learning Processes /Review of Philosophy and Psychology/ /10./ https://dx.doi.org/10.1007/s13164-017-0379-7

@@ -1,0 +1,6 @@
+:properties:
+:id: Ketelaar2000Evolutionary
+:end:
+#+title: Ketelaar2000Evolutionary
+
+/Ketelaar, Timothy and Ellis, Bruce J./ (2000). Are Evolutionary Explanations Unfalsifiable? Evolutionary Psychology and the Lakatosian Philosophy of Science /Psychological Inquiry/ /11./ https://dx.doi.org/10.1207/S15327965PLI1101_01

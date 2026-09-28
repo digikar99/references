@@ -1,0 +1,11 @@
+:properties:
+:id: Animal Cognition
+:end:
+#+title: Animal Cognition
+
+*References*
+
+- [[id:Berthet2022Animal][Animal linguistics: a primer]]
+- [[id:Dautriche2022Compositionality][Evidence for compositionality in baboons (Papio papio) through the test case of negation]]
+- [[id:Starzak2021Causal][Towards ending the animal cognition war: a three-dimensional model of causal cognition]]
+- [[id:LaviRotbain2022Learnability][The learnability consequences of Zipfian distributions in language]]

@@ -1,0 +1,9 @@
+:properties:
+:id: Method Bias
+:end:
+#+title: Method Bias
+
+*References*
+
+- [[id:Krosnick1991Satisficing][Response strategies for coping with the cognitive demands of attitude measures in surveys]]
+- [[id:Podsakoff2024][Common Method Bias: It’s Bad, It’s Complex, It’s Widespread, and It’s Not Easy to Fix]]

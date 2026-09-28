@@ -1,0 +1,23 @@
+:properties:
+:id: Concepts
+:end:
+#+title: Concepts
+
+*References*
+
+- [[id:Carey2011Concept][Concept innateness, concept continuity, and bootstrapping]]
+- [[id:Carey1983Constraints][Constraints on the Meanings of Natural Kind Terms]]
+- [[id:Rehder2001Abstract][Abstract coherent categories.]]
+- [[id:Sloutsky2010Develop][From Perceptual Categories to Concepts: What Develops?]]
+- [[id:Gardenfors1999Tenets][Some tenets of cognitive semantics]]
+- [[id:Adams2009Conceptual][Conceptual Space Markup Language (CSML): Towards the Cognitive Semantic Web]]
+- [[id:Gardenfors2014Geometry][The Geometry of Meaning: Semantics Based on Conceptual Spaces]]
+- [[id:Gardenfors2017Meaning][Cognitively Oriented Theories of Meaning]]
+- [[id:Gardenfors2024Meaning][The Geometry and Dynamics of Meaning]]
+- [[id:Gardenforsa2024Event][Event structure, force dynamics and verb semantics]]
+- [[id:Gardenfors2004Conceptual][Conceptual spaces: The geometry of thought]]
+- [[id:Carey2022Becoming][Becoming a Cognitive Scientist]]
+- [[id:Clarke2020Cognition][Beyond the icon: Core cognition and the bounds of perception]]
+- [[id:OstaVelez2021Expectation][Nonmonotonic Reasoning, Expectations Orderings, and Conceptual Spaces]]
+- [[id:Gardenfors2012Empirical][Theory change as dimensional change: conceptual spaces applied to the dynamics of empirical theories]]
+- [[id:Gardenfors2018Learning][From Sensations to Concepts: a Proposal for Two Learning Processes]]

@@ -1,0 +1,30 @@
+:properties:
+:id: Explanations
+:end:
+#+title: Explanations
+
+*References*
+
+- [[id:Douven2018Explanations][Best, second-best, and good-enough explanations: How they
+                  matter to reasoning.]]
+- [[id:Frazier2009Preschoolers][Preschoolers’ Search for Explanatory Information Within Adult–Child Conversation]]
+- [[id:Frazier2016Explanations][Young Children Prefer and Remember Satisfying Explanations]]
+- [[id:Horne2019Explanation][Explanation as a Cognitive Process]]
+- [[id:Johnston2017Explanation][Preferences for Explanation Generality Develop Early in Biology But Not Physics]]
+- [[id:Keil2006Explanation][Explanation and Understanding]]
+- [[id:Keil2024Explanations][Causal Explanations and the Growth of Understanding]]
+- [[id:Lipton1990Contrastive][Contrastive Explanation]]
+- [[id:Lombrozo2010Explanations][Causal-explanatory pluralism: How intentions, functions, and mechanisms influence causal ascriptions.]]
+- [[id:Lombrozo2011Explanations][The Instrumental Value of Explanations]]
+- [[id:Perez2022Expectation][Violations of expectation trigger infants to search for explanations]]
+- [[id:Ronfard2018Question][Question-asking in childhood: A review of the literature and a framework for understanding its development]]
+- [[id:Ruggeri2020Hypothesis][How the hypothesis space is represented. Evidence from young children’s active search and predictions in a multiple-cue inference task]]
+- [[id:Schulz2007Fun][Serious fun: Preschoolers engage in more exploratory play when evidence is confounded.]]
+- [[id:Thagard2006Explanations][Evaluating Explanations in Law, Science, and Everyday Life]]
+- [[id:Vasil2022Explanations][When and how children use explanations to guide generalizations]]
+- [[id:Wellman2011Explanations][Reinvigorating Explanations for the Study of Early Cognitive
+                  Development: Explanations]]
+- [[id:Lipton2017][Inference to the Best Explanation]]
+- [[id:Gijsbers2017Reconciling][Reconciling Contrastive and Non-contrastive Explanation]]
+- [[id:Kirfel2022Inference][Inference from explanation.]]
+- [[id:Besch2026][Inferring Why Someone Asked 'Why': Foil Inference in Human and LLM Question Interpretation]]

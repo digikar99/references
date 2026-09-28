@@ -1,0 +1,8 @@
+:properties:
+:id: Linguisitics
+:end:
+#+title: Linguisitics
+
+*References*
+
+- [[id:Hartshorne2013Implicit][What is implicit causality?]]

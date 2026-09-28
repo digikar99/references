@@ -1,0 +1,6 @@
+:properties:
+:id: Gerstenberg2021Physical
+:end:
+#+title: Gerstenberg2021Physical
+
+/Gerstenberg, Tobias and Goodman, Noah D. and Lagnado, David A. and Tenenbaum, Joshua B./ (2021). A counterfactual simulation model of causal judgments for physical events. /Psychological Review/ /128./ https://doi.org/10.1037/rev0000281

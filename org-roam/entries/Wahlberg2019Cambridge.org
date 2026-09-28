@@ -1,0 +1,6 @@
+:properties:
+:id: Wahlberg2019Cambridge
+:end:
+#+title: Wahlberg2019Cambridge
+
+/Hansson Wahlberg, Tobias/ (2019). The creation of institutional reality, special theory of relativity, and mere Cambridge change /Synthese/ /198./ https://dx.doi.org/10.1007/s11229-019-02435-y

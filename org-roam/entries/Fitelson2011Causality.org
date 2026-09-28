@@ -1,0 +1,6 @@
+:properties:
+:id: Fitelson2011Causality
+:end:
+#+title: Fitelson2011Causality
+
+/Branden Fitelson and Christopher Hitchcock/ (2011). Probabilistic Measures of Causal Strength /Causality in the Sciences/

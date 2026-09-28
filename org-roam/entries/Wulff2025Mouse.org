@@ -1,0 +1,6 @@
+:properties:
+:id: Wulff2025Mouse
+:end:
+#+title: Wulff2025Mouse
+
+/Wulff, Dirk U. and Kieslich, Pascal J. and Henninger, Felix and Haslbeck, Jonas M. B. and Schulte-Mecklenbeck, Michael/ (2025). Movement tracking of psychological processes: A tutorial using mousetrap /Behavior Research Methods/ /57./ https://dx.doi.org/10.3758/s13428-025-02695-2

@@ -1,0 +1,8 @@
+:properties:
+:id: Altered states of consciousness
+:end:
+#+title: Altered states of consciousness
+
+*References*
+
+- [[id:wittmann-2015-self-and-time][Modulations of the Experience of Self and Time]]

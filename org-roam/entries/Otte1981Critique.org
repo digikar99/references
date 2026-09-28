@@ -1,0 +1,6 @@
+:properties:
+:id: Otte1981Critique
+:end:
+#+title: Otte1981Critique
+
+/Richard Otte/ (1981). A Critique of Suppes' Theory of Probabilistic Causality /Synthese/ /48./ http://www.jstor.org/stable/20115656

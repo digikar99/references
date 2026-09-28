@@ -1,0 +1,6 @@
+:properties:
+:id: Glymour2009Soup
+:end:
+#+title: Glymour2009Soup
+
+/Glymour, Clark and Danks, David and Glymour, Bruce and Eberhardt, Frederick and Ramsey, Joseph and Scheines, Richard and Spirtes, Peter and Teng, Choh Man and Zhang, Jiji/ (2010). Actual causation: a stone soup essay /Synthese/ /175./ https://dx.doi.org/10.1007/s11229-009-9497-9

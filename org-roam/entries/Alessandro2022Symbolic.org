@@ -1,0 +1,7 @@
+:properties:
+:id: Alessandro2022Symbolic
+:end:
+#+title: Alessandro2022Symbolic
+
+/Daniele, Alessandro and Campari, Tommaso and Malhotra, Sagar
+  and Serafini, Luciano/ (2022). Deep Symbolic Learning: Discovering Symbols and Rules from Perceptions // https://arxiv.org/abs/2208.11561

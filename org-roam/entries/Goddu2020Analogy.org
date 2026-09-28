@@ -1,0 +1,6 @@
+:properties:
+:id: Goddu2020Analogy
+:end:
+#+title: Goddu2020Analogy
+
+/Goddu, Mariel K. and Lombrozo, Tania and Gopnik, Alison/ (2020). Transformations and Transfer: Preschool Children Understand Abstract Relations and Reason Analogically in a Causal Task /Child Development/ /91./ https://doi.org/10.1111/cdev.13412

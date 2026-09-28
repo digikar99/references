@@ -1,0 +1,6 @@
+:properties:
+:id: Huttenlocher1991Estimating
+:end:
+#+title: Huttenlocher1991Estimating
+
+/Huttenlocher, Janellen and Hedges, Larry V. and Duncan, Susan/ (1991). Categories and particulars: Prototype effects in estimating spatial location. /Psychological Review/ /98./ https://dx.doi.org/10.1037/0033-295X.98.3.352

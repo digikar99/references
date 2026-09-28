@@ -1,0 +1,8 @@
+:properties:
+:id: Spatial Cognition
+:end:
+#+title: Spatial Cognition
+
+*References*
+
+- [[id:Kessler2024Navigation][Human navigation strategies and their errors result from dynamic interactions of spatial uncertainties]]

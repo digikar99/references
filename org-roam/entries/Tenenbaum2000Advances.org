@@ -1,0 +1,6 @@
+:properties:
+:id: Tenenbaum2000Advances
+:end:
+#+title: Tenenbaum2000Advances
+
+/Tenenbaum, Joshua and Griffiths, Thomas/ (2000). Structure Learning in Human Causal Induction /Advances in Neural Information Processing Systems/ /13./ https://proceedings.neurips.cc/paper_files/paper/2000/file/59bcda7c438bad7d2afffe9e2fed00be-Paper.pdf

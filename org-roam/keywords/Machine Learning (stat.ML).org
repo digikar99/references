@@ -1,0 +1,9 @@
+:properties:
+:id: Machine Learning (stat.ML)
+:end:
+#+title: Machine Learning (stat.ML)
+
+*References*
+
+- [[id:Pruthi2020Structure][Structure Mapping for Transferability of Causal Models]]
+- [[id:Straub2024Inverse][Inverse decision-making using neural amortized Bayesian actors]]

@@ -1,0 +1,6 @@
+:properties:
+:id: Saffran2018Statistical
+:end:
+#+title: Saffran2018Statistical
+
+/Saffran, Jenny R. and Kirkham, Natasha Z./ (2018). Infant Statistical Learning /Annual Review of Psychology/ /69./ https://doi.org/10.1146/annurev-psych-122216-011805

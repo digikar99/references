@@ -1,0 +1,6 @@
+:properties:
+:id: Garber2024Transfer
+:end:
+#+title: Garber2024Transfer
+
+/Garber, Dominik and Fiser, József/ (2024). Structure transfer and consolidation in visual implicit learning // https://doi.org/10.1101/2024.06.20.599904

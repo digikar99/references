@@ -1,0 +1,8 @@
+:properties:
+:id: Turn-taking
+:end:
+#+title: Turn-taking
+
+*References*
+
+- [[id:Ruiter2006][Projecting the End of a Speaker’s Turn: A Cognitive Cornerstone of Conversation]]

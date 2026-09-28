@@ -1,0 +1,8 @@
+:properties:
+:id: EEG
+:end:
+#+title: EEG
+
+*References*
+
+- [[id:Begus2024Theta][Infants evaluate informativeness of evidence and predict causal events as revealed in theta oscillations and predictive looking]]

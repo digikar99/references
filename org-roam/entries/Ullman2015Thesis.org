@@ -1,0 +1,6 @@
+:properties:
+:id: Ullman2015Thesis
+:end:
+#+title: Ullman2015Thesis
+
+/Ullman, Tomer David/ (2015). On the nature and origin of intuitive theories: learning, physics and psychology //

@@ -1,0 +1,8 @@
+:properties:
+:id: F.2.2
+:end:
+#+title: F.2.2
+
+*References*
+
+- [[id:Xia2025Kicking][From Kicking to Causality: Simulating Infant Agency Detection with a Robust Intrinsic Reward]]

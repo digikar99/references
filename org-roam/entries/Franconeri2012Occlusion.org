@@ -1,0 +1,6 @@
+:properties:
+:id: Franconeri2012Occlusion
+:end:
+#+title: Franconeri2012Occlusion
+
+/Franconeri, Steven L. and Pylyshyn, Zenon W. and Scholl, Brian J./ (2012). A Simple Proximity Heuristic Allows Tracking of Multiple Objects through Occlusion /Attention, Perception, \& Psychophysics/ /74./ https://doi.org/10.3758/s13414-011-0265-9

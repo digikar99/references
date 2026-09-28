@@ -1,0 +1,9 @@
+:properties:
+:id: Probabilistic Cognition
+:end:
+#+title: Probabilistic Cognition
+
+*References*
+
+- [[id:Leahy2025Calculating][Calculating probabilities from imagined possibilities: Limitations in 4-year-olds]]
+- [[id:Gerstenberg2021Reconstructing][What happened? Reconstructing the past through vision and sound]]

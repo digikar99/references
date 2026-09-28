@@ -1,0 +1,6 @@
+:properties:
+:id: Vandekerckhove2011Diffusion
+:end:
+#+title: Vandekerckhove2011Diffusion
+
+/Vandekerckhove, Joachim and Tuerlinckx, Francis and Lee, Michael D./ (2011). Hierarchical diffusion models for two-choice response times. /Psychological Methods/ /16./ https://dx.doi.org/10.1037/a0021765

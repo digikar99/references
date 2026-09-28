@@ -1,0 +1,6 @@
+:properties:
+:id: Sperber2000Evolutionary
+:end:
+#+title: Sperber2000Evolutionary
+
+/Sperber, Dan/ (2000). Metarepresentations in an evolutionary perspective /Metarepresentations: A multidisciplinary perspective/

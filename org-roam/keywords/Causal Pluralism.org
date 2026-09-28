@@ -1,0 +1,8 @@
+:properties:
+:id: Causal Pluralism
+:end:
+#+title: Causal Pluralism
+
+*References*
+
+- [[id:Thanawala2024Pluralism][Revisiting causal pluralism: Intention, process, and dependency in cases of double prevention]]

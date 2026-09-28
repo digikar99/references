@@ -1,0 +1,6 @@
+:properties:
+:id: Jiang2021Visuospatial
+:end:
+#+title: Jiang2021Visuospatial
+
+/Jiang, Linjing and Leung, Hoi-Chung/ (2021). Errors in visuospatial working memory across space and time /Scientific Reports/ /11./ https://dx.doi.org/10.1038/s41598-021-93858-6

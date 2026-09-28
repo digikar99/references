@@ -1,0 +1,6 @@
+:properties:
+:id: Dehaene2025Origins
+:end:
+#+title: Dehaene2025Origins
+
+/Dehaene, Stanislas and Sablé-Meyer, Mathias and Ciccione, Lorenzo/ (2025). Origins of numbers: a shared language-of-thought for arithmetic and geometry? /Trends in Cognitive Sciences/ /29./ https://dx.doi.org/10.1016/j.tics.2025.03.001

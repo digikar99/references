@@ -1,0 +1,6 @@
+:properties:
+:id: Weiss2002Motion
+:end:
+#+title: Weiss2002Motion
+
+/Weiss, Yair and Simoncelli, Eero P. and Adelson, Edward H./ (2002). Motion illusions as optimal percepts /Nature Neuroscience/ /5./ https://dx.doi.org/10.1038/nn0602-858

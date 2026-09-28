@@ -1,0 +1,8 @@
+:properties:
+:id: Cross-cultural
+:end:
+#+title: Cross-cultural
+
+*References*
+
+- [[id:Stivers2009][Universals and cultural variation in turn-taking in conversation]]

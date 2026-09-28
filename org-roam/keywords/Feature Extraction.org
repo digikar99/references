@@ -1,0 +1,8 @@
+:properties:
+:id: Feature Extraction
+:end:
+#+title: Feature Extraction
+
+*References*
+
+- [[id:Hyvarinen1999Uniqueness][Nonlinear independent component analysis: Existence and uniqueness results]]

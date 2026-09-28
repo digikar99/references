@@ -1,0 +1,6 @@
+:properties:
+:id: swann1987causal
+:end:
+#+title: swann1987causal
+
+/Swann Jr, William B and Pelham, Brett W and Roberts, David C/ (1987). Causal chunking: Memory and inference in ongoing interaction. /Journal of Personality and Social Psychology/ /53./

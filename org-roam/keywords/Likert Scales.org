@@ -1,0 +1,11 @@
+:properties:
+:id: Likert Scales
+:end:
+#+title: Likert Scales
+
+*References*
+
+- [[id:Toepoel2018Formats][Sliders, visual analogue scales, or buttons: Influence of formats and scales in mobile and desktop surveys]]
+- [[id:Funke2015Negative][A Web Experiment Showing Negative Effects of Slider Scales Compared to Visual Analogue Scales and Radio Button Scales]]
+- [[id:Kuhlmann2017Measurement][Investigating measurement equivalence of visual analogue scales and Likert-type scales in Internet-based personality questionnaires]]
+- [[id:Gullickson1997Survey][Review of Thinking About Answers: The Application of Cognitive Processes to Survey Methodology.]]

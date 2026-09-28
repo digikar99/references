@@ -1,0 +1,6 @@
+:properties:
+:id: WinklerRhoades2013Children
+:end:
+#+title: WinklerRhoades2013Children
+
+/Winkler‐Rhoades, Nathan and Carey, Susan C. and Spelke, Elizabeth S./ (2013). Two‐year‐old children interpret abstract, purely geometric maps /Developmental Science/ /16./ https://doi.org/10.1111/desc.12038

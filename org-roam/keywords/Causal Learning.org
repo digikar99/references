@@ -1,0 +1,8 @@
+:properties:
+:id: Causal Learning
+:end:
+#+title: Causal Learning
+
+*References*
+
+- [[id:Gong2026Time][Rational causal induction from events in time.]]

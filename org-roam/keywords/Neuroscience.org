@@ -1,0 +1,14 @@
+:properties:
+:id: Neuroscience
+:end:
+#+title: Neuroscience
+
+*References*
+
+- [[id:Batterink2019Neural][Understanding the Neural Bases of Implicit and Statistical Learning]]
+- [[id:Blumberg2023Protracted][Protracted development of motor cortex constrains rich interpretations of infant cognition]]
+- [[id:Lindsay2020Attention][Attention in Psychology, Neuroscience, and Machine Learning]]
+- [[id:Nadasdy2010Asynchrony][Binding by asynchrony: the neuronal phase code]]
+- [[id:Daw2005Uncertainty][Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control]]
+- [[id:Daw2011Model][Model-Based Influences on Humans’ Choices and Striatal Prediction Errors]]
+- [[id:Glascher2010Model][States versus Rewards: Dissociable Neural Prediction Error Signals Underlying Model-Based and Model-Free Reinforcement Learning]]

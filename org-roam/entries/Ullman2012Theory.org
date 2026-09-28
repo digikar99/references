@@ -1,0 +1,6 @@
+:properties:
+:id: Ullman2012Theory
+:end:
+#+title: Ullman2012Theory
+
+/Ullman, Tomer D. and Goodman, Noah D. and Tenenbaum, Joshua B./ (2012). Theory learning as stochastic search in the language of thought /Cognitive Development/ /27./ https://doi.org/10.1016/j.cogdev.2012.07.005

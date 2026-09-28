@@ -1,0 +1,10 @@
+:properties:
+:id: Frame Problem
+:end:
+#+title: Frame Problem
+
+*References*
+
+- [[id:SEP2016Frame][The Frame Problem]]
+- [[id:Rietveld2012Context][Context-switching and responsiveness to real relevance]]
+- [[id:Wheeler2008Context][Cognition in Context: Phenomenology, Situated Robotics and the Frame Problem]]

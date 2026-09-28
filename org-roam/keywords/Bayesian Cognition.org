@@ -1,0 +1,8 @@
+:properties:
+:id: Bayesian Cognition
+:end:
+#+title: Bayesian Cognition
+
+*References*
+
+- [[id:Jones2011Fundamentalism][Bayesian Fundamentalism or Enlightenment? On the explanatory status and theoretical contributions of Bayesian models of cognition]]

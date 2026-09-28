@@ -1,0 +1,10 @@
+:properties:
+:id: Culture
+:end:
+#+title: Culture
+
+*References*
+
+- [[id:Knobe2023Demographic][Difference and Robustness in the Patterns of Philosophical Intuition Across Demographic Groups]]
+- [[id:Stich2022Demographic][Demographic Differences in Philosophical Intuition: a Reply to Joshua Knobe]]
+- [[id:Knobe2019Demographic][Philosophical Intuitions Are Surprisingly Robust Across Demographic Differences]]

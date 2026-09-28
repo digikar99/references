@@ -1,0 +1,6 @@
+:properties:
+:id: LudwinPeery2021Simulation
+:end:
+#+title: LudwinPeery2021Simulation
+
+/Ludwin-Peery, Ethan and Bramley, Neil R. and Davis, Ernest and Gureckis, Todd M./ (2021). Limits on simulation approaches in intuitive physics /Cognitive Psychology/ /127./ https://doi.org/10.1016/j.cogpsych.2021.101396

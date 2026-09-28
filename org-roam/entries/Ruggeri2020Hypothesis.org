@@ -1,0 +1,6 @@
+:properties:
+:id: Ruggeri2020Hypothesis
+:end:
+#+title: Ruggeri2020Hypothesis
+
+/Ruggeri, Azzurra and Jones, Angela and Pachur, Thorsten and gopnik, alison and Markant, Douglas Benjamin/ (2020). How the hypothesis space is represented. Evidence from young children’s active search and predictions in a multiple-cue inference task // https://doi.org/10.31219/osf.io/wh2pr

@@ -1,0 +1,6 @@
+:properties:
+:id: Gardenfors2024Causal
+:end:
+#+title: Gardenfors2024Causal
+
+/Gärdenfors, Peter and Lombard, Marlize/ (2024). Agency at a distance: learning causal connections /Phenomenology and the Cognitive Sciences/ /24./ https://dx.doi.org/10.1007/s11097-024-09992-9

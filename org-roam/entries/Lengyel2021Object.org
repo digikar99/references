@@ -1,0 +1,6 @@
+:properties:
+:id: Lengyel2021Object
+:end:
+#+title: Lengyel2021Object
+
+/Lengyel, Gábor and Nagy, Márton and Fiser, József/ (2021). Statistically defined visual chunks engage object-based attention /Nature Communications/ /12./ https://doi.org/10.1038/s41467-020-20589-z

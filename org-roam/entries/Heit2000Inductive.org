@@ -1,0 +1,6 @@
+:properties:
+:id: Heit2000Inductive
+:end:
+#+title: Heit2000Inductive
+
+/Heit, Evan/ (2000). Properties of inductive reasoning /Psychonomic Bulletin &amp; Review/ /7./ https://doi.org/10.3758/BF03212996

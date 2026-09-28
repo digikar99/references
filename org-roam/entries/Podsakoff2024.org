@@ -1,0 +1,6 @@
+:properties:
+:id: Podsakoff2024
+:end:
+#+title: Podsakoff2024
+
+/Podsakoff, Philip M. and Podsakoff, Nathan P. and Williams, Larry J. and Huang, Chengquan and Yang, Junhui/ (2024). Common Method Bias: It’s Bad, It’s Complex, It’s Widespread, and It’s Not Easy to Fix /Annual Review of Organizational Psychology and Organizational Behavior/ /11./ https://dx.doi.org/10.1146/annurev-orgpsych-110721-040030

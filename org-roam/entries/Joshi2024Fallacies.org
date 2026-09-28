@@ -1,0 +1,6 @@
+:properties:
+:id: Joshi2024Fallacies
+:end:
+#+title: Joshi2024Fallacies
+
+/Joshi, Nitish and Saparov, Abulhair and Wang, Yixin and He, He/ (2024). LLMs Are Prone to Fallacies in Causal Inference // https://arxiv.org/abs/2406.12158

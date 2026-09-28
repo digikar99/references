@@ -1,0 +1,6 @@
+:properties:
+:id: Cleland2011Prediction
+:end:
+#+title: Cleland2011Prediction
+
+/Carol E. Cleland/ (2011). Prediction and Explanation in Historical Natural Science /The British Journal for the Philosophy of Science/ /62./ http://www.jstor.org/stable/41241902

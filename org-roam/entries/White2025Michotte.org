@@ -1,0 +1,6 @@
+:properties:
+:id: White2025Michotte
+:end:
+#+title: White2025Michotte
+
+/White, Peter/ (2025). Michotte’s research on perceptual impressions of causality: a registered replication study /Royal Society Open Science/ /12./ https://dx.doi.org/10.1098/rsos.250244

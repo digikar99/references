@@ -1,0 +1,31 @@
+:properties:
+:id: Machine Learning
+:end:
+#+title: Machine Learning
+
+*References*
+
+- [[id:Beckers2019Causal][Abstracting Causal Models]]
+- [[id:Bibal2022][Is Attention Explanation? An Introduction to the Debate]]
+- [[id:Butlin2023Consciousness][Consciousness in Artificial Intelligence: Insights from the Science of Consciousness]]
+- [[id:Fire2015Causality][Learning Perceptual Causality from Video]]
+- [[id:Fire2016Causality][Learning and Inferring Perceptual Causality from Video]]
+- [[id:Frink2022Enhanced][Enhanced Deep Template-Based Object Instance Detection]]
+- [[id:Gendron2024Counterfactual][Counterfactual Causal Inference in Natural Language with Large Language Models]]
+- [[id:Jospin2022Bayesian][Hands-On Bayesian Neural Networks—A Tutorial for Deep Learning Users]]
+- [[id:Kemp2003Semisupervised][Semi-Supervised Learning with Trees]]
+- [[id:Kononenko1989Bayesian][Bayesian neural networks]]
+- [[id:Li2024Survey][A survey of deep causal models and their industrial applications]]
+- [[id:Lindsay2020Attention][Attention in Psychology, Neuroscience, and Machine Learning]]
+- [[id:Locatello2019Challenging][Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations]]
+- [[id:Mercier2019Template][Deep Template-based Object Instance Detection]]
+- [[id:Rolinek2019CVPR][Variational Autoencoders Pursue PCA Directions (by Accident)]]
+- [[id:Scholkopf2021Causal][Toward Causal Representation Learning]]
+- [[id:Schulte2024Causal][Why Online Reinforcement Learning is Causal]]
+- [[id:Yang2021Causalvae][CausalVAE: Disentangled representation learning via neural structural causal models]]
+- [[id:Richens2024Robust][Robust agents learn causal world models]]
+- [[id:Liu2021OOD][Towards Out-Of-Distribution Generalization: A Survey]]
+- [[id:Buhlmann2020Invariance][Invariance, Causality and Robustness]]
+- [[id:Bengio2013Representation][Representation Learning: A Review and New Perspectives]]
+- [[id:Hinton1993Autoencoders][Autoencoders, Minimum Description Length and Helmholtz Free Energy]]
+- [[id:Xu2021Bayesian][A bayesian-symbolic approach to reasoning and learning in intuitive physics]]

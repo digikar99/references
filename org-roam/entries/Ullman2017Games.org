@@ -1,0 +1,6 @@
+:properties:
+:id: Ullman2017Games
+:end:
+#+title: Ullman2017Games
+
+/Ullman, Tomer D. and Spelke, Elizabeth and Battaglia, Peter and Tenenbaum, Joshua B./ (2017). Mind Games: Game Engines as an Architecture for Intuitive Physics /Trends in Cognitive Sciences/ /21./ https://doi.org/10.1016/j.tics.2017.05.012

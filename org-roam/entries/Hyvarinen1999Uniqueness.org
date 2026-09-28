@@ -1,0 +1,6 @@
+:properties:
+:id: Hyvarinen1999Uniqueness
+:end:
+#+title: Hyvarinen1999Uniqueness
+
+/Hyvärinen, Aapo and Pajunen, Petteri/ (1999). Nonlinear independent component analysis: Existence and uniqueness results /Neural Networks/ /12./ https://doi.org/10.1016/S0893-6080(98)00140-3

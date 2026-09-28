@@ -1,0 +1,6 @@
+:properties:
+:id: Lieto2019Description
+:end:
+#+title: Lieto2019Description
+
+/Lieto, Antonio and Pozzato, Gian Luca/ (2019). A description logic framework for commonsense conceptual combination integrating typicality, probabilities and cognitive heuristics /Journal of Experimental &amp; Theoretical Artificial Intelligence/ /32./ https://dx.doi.org/10.1080/0952813X.2019.1672799

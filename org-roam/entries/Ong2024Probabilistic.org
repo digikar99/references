@@ -1,0 +1,6 @@
+:properties:
+:id: Ong2024Probabilistic
+:end:
+#+title: Ong2024Probabilistic
+
+/Ong, Desmond C and Zhi-Xuan, Tan and Tenenbaum, Joshua B and Goodman, Noah D/ (2024). Probabilistic programming versus meta-learning as models of cognition /The Behavioral and brain sciences/ /47./

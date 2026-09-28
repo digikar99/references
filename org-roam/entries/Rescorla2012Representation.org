@@ -1,0 +1,6 @@
+:properties:
+:id: Rescorla2012Representation
+:end:
+#+title: Rescorla2012Representation
+
+/Michael Rescorla/ (2012). How to Integrate Representation into Computational Modeling, and Why We Should /Journal of Cognitive Science/ /13./ https://oak.go.kr/repository/journal/18601/NRF009_2012_v13n1_1.pdf

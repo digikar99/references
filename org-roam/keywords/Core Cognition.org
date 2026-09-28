@@ -1,0 +1,12 @@
+:properties:
+:id: Core Cognition
+:end:
+#+title: Core Cognition
+
+*References*
+
+- [[id:Carey2011Origin][Précis of The Origin of Concepts]]
+- [[id:Kamps2017Dissciating][Dissociating intuitive physics from intuitive psychology: Evidence from Williams syndrome]]
+- [[id:Setoh2013Infants][Young infants have biological expectations about animals]]
+- [[id:Ullman2017Games][Mind Games: Game Engines as an Architecture for Intuitive Physics]]
+- [[id:Bai2025Core][“Core Perception”: Re-imagining Precocious Reasoning as Sophisticated Perceiving]]

@@ -1,0 +1,6 @@
+:properties:
+:id: Xu2009Constructivism
+:end:
+#+title: Xu2009Constructivism
+
+/Xu, Fei and Dewar, Kathryn and Perfors, Amy/ (2009). Induction, overhypotheses, and the shape bias: Some arguments and evidence for rational constructivism /The Origins of Object Knowledge/ https://doi.org/10.1093/acprof:oso/9780199216895.003.0011

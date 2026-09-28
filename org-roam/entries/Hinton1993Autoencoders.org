@@ -1,0 +1,6 @@
+:properties:
+:id: Hinton1993Autoencoders
+:end:
+#+title: Hinton1993Autoencoders
+
+/Hinton, Geoffrey E and Zemel, Richard/ (1993). Autoencoders, Minimum Description Length and Helmholtz Free Energy /Advances in Neural Information Processing Systems/ /6./ https://proceedings.neurips.cc/paper_files/paper/1993/file/9e3cfc48eccf81a0d57663e129aef3cb-Paper.pdf

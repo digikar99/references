@@ -1,0 +1,9 @@
+:properties:
+:id: Contingency Perception
+:end:
+#+title: Contingency Perception
+
+*References*
+
+- [[id:Deligianni2011Automated][Automated gaze-contingent objects elicit orientation following in 8-month-old infants.]]
+- [[id:Tauzin2019Variability][Variability of signal sequences in turn-taking exchanges induces agency attribution in 10.5-mo-olds]]

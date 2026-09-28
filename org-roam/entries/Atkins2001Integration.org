@@ -1,0 +1,6 @@
+:properties:
+:id: Atkins2001Integration
+:end:
+#+title: Atkins2001Integration
+
+/Atkins, Joseph E. and Fiser, József and Jacobs, Robert A./ (2001). Experience-dependent visual cue integration based on consistencies between visual and haptic percepts /Vision Research/ /41./ https://dx.doi.org/10.1016/S0042-6989(00)00254-6

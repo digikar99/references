@@ -1,0 +1,6 @@
+:properties:
+:id: Dreyfus2007Heidegger
+:end:
+#+title: Dreyfus2007Heidegger
+
+/Dreyfus, Hubert L./ (2007). Why Heideggerian AI Failed and How Fixing It Would Require Making It More Heideggerian /Philosophical Psychology/ /20./ [[https://doi.org/10.1080/09515080701239510][10.1080/09515080701239510]]

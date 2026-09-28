@@ -1,0 +1,6 @@
+:properties:
+:id: Halpern2005Causes
+:end:
+#+title: Halpern2005Causes
+
+/Halpern, Joseph Y. and Pearl, Judea/ (2005). Causes and Explanations: A Structural-Model Approach. Part I: Causes /The British Journal for the Philosophy of Science/ /56./ https://doi.org/10.1093/bjps/axi147

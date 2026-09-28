@@ -1,0 +1,9 @@
+:properties:
+:id: Searching
+:end:
+#+title: Searching
+
+*References*
+
+- [[id:De2022Searching][Searching for information, from infancy to adolescence]]
+- [[id:Ruggeri2022Introduction][An Introduction to Ecological Active Learning]]

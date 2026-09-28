@@ -1,0 +1,6 @@
+:properties:
+:id: Frazier2016Explanations
+:end:
+#+title: Frazier2016Explanations
+
+/Frazier, Brandy N. and Gelman, Susan A. and Wellman, Henry M./ (2016). Young Children Prefer and Remember Satisfying Explanations /Journal of Cognition and Development/ /17./ https://doi.org/10.1080/15248372.2015.1098649

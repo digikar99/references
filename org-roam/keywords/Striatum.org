@@ -1,0 +1,8 @@
+:properties:
+:id: Striatum
+:end:
+#+title: Striatum
+
+*References*
+
+- [[id:selective-attention-no-neocortex][Selective Attention without a Neocortex]]

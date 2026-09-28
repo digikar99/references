@@ -1,0 +1,6 @@
+:properties:
+:id: Kessler2024Navigation
+:end:
+#+title: Kessler2024Navigation
+
+/Kessler, Fabian and Frankenstein, Julia and Rothkopf, Constantin A./ (2024). Human navigation strategies and their errors result from dynamic interactions of spatial uncertainties /Nature Communications/ /15./ https://dx.doi.org/10.1038/s41467-024-49722-y

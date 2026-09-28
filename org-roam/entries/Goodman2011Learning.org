@@ -1,0 +1,6 @@
+:properties:
+:id: Goodman2011Learning
+:end:
+#+title: Goodman2011Learning
+
+/Goodman, Noah D. and Ullman, Tomer D. and Tenenbaum, Joshua B./ (2011). Learning a theory of causality. /Psychological Review/ /118./ https://doi.org/10.1037/a0021336

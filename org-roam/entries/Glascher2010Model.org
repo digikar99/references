@@ -1,0 +1,6 @@
+:properties:
+:id: Glascher2010Model
+:end:
+#+title: Glascher2010Model
+
+/Gläscher, Jan and Daw, Nathaniel and Dayan, Peter and O’Doherty, John P./ (2010). States versus Rewards: Dissociable Neural Prediction Error Signals Underlying Model-Based and Model-Free Reinforcement Learning /Neuron/ /66./ https://dx.doi.org/10.1016/j.neuron.2010.04.016

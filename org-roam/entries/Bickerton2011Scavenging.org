@@ -1,0 +1,6 @@
+:properties:
+:id: Bickerton2011Scavenging
+:end:
+#+title: Bickerton2011Scavenging
+
+/Bickerton, Derek and Szathmáry, Eörs/ (2011). Confrontational scavenging as a possible source for language and cooperation /BMC Evolutionary Biology/ /11./ https://dx.doi.org/10.1186/1471-2148-11-261

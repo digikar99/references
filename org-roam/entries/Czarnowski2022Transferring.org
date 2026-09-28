@@ -1,0 +1,6 @@
+:properties:
+:id: Czarnowski2022Transferring
+:end:
+#+title: Czarnowski2022Transferring
+
+/Czarnowski, Daniel W and Marsh, Jessecae K./ (2022). Transferring Novel Causal Knowledge /Proceedings of the Annual Meeting of the Cognitive Science Society/ /44./ https://escholarship.org/uc/item/3rx6r915

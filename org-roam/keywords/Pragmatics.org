@@ -1,0 +1,8 @@
+:properties:
+:id: Pragmatics
+:end:
+#+title: Pragmatics
+
+*References*
+
+- [[id:Mercier2011Humans][Why do humans reason? Arguments for an argumentative theory]]

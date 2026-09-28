@@ -1,0 +1,9 @@
+:properties:
+:id: FOS: Physical sciences
+:end:
+#+title: FOS: Physical sciences
+
+*References*
+
+- [[id:Li2025Dual][A simulation-heuristics dual-process model for intuitive physics]]
+- [[id:Li2025Dual][A simulation-heuristics dual-process model for intuitive physics]]

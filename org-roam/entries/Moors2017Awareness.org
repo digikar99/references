@@ -1,0 +1,6 @@
+:properties:
+:id: Moors2017Awareness
+:end:
+#+title: Moors2017Awareness
+
+/Moors, Pieter and Wagemans, Johan and de-Wit, Lee/ (2017). Causal events enter awareness faster than non-causal events /PeerJ/ /5./ https://doi.org/10.7717/peerj.2932

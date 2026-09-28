@@ -1,0 +1,9 @@
+:properties:
+:id: Wason Selection
+:end:
+#+title: Wason Selection
+
+*References*
+
+- [[id:Fiddick2000Representation][No interpretation without representation: the role of domain-specific representations and inferences in the Wason selection task]]
+- [[id:Sperber1995Selection][Relevance theory explains the selection task]]

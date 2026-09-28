@@ -1,0 +1,6 @@
+:properties:
+:id: Blair2007Pedagogical
+:end:
+#+title: Blair2007Pedagogical
+
+/Blair, Kristen and Schwartz, Daniel L and Biswas, Gautam and Leelawong, Krittaya/ (2007). Pedagogical agents for learning by teaching: Teachable agents /Educational technology/

@@ -1,0 +1,11 @@
+:properties:
+:id: Neural Networks
+:end:
+#+title: Neural Networks
+
+*References*
+
+- [[id:Friston2021Model][World model learning and inference]]
+- [[id:Jospin2022Bayesian][Hands-On Bayesian Neural Networks—A Tutorial for Deep Learning Users]]
+- [[id:Kononenko1989Bayesian][Bayesian neural networks]]
+- [[id:Yang2021Causalvae][CausalVAE: Disentangled representation learning via neural structural causal models]]

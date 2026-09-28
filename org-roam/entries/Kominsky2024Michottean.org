@@ -1,0 +1,6 @@
+:properties:
+:id: Kominsky2024Michottean
+:end:
+#+title: Kominsky2024Michottean
+
+/Kominsky,  Jonathan F. and Carey,  Susan/ (2024). Infants’ representations of michottean triggering events /Cognition/ /250./ https://doi.org/10.1016/j.cognition.2024.105844

@@ -1,0 +1,6 @@
+:properties:
+:id: Ting2021Inference
+:end:
+#+title: Ting2021Inference
+
+/Ting, Fransisca and He, Zijing and Baillargeon, Renée/ (2021). Five-month-old infants attribute inferences based on general knowledge to agents /Journal of Experimental Child Psychology/ /208./ https://doi.org/10.1016/j.jecp.2021.105126

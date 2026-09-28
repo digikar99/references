@@ -1,0 +1,6 @@
+:properties:
+:id: Sargent2013Segmentation
+:end:
+#+title: Sargent2013Segmentation
+
+/Sargent, Jesse Q. and Zacks, Jeffrey M. and Hambrick, David Z. and Zacks, Rose T. and Kurby, Christopher A. and Bailey, Heather R. and Eisenberg, Michelle L. and Beck, Taylor M./ (2013). Event segmentation ability uniquely predicts event memory /Cognition/ /129./ https://dx.doi.org/10.1016/j.cognition.2013.07.002

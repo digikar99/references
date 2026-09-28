@@ -1,0 +1,6 @@
+:properties:
+:id: Xu2021Bayesian
+:end:
+#+title: Xu2021Bayesian
+
+/Xu, Kai and Srivastava, Akash and Gutfreund, Dan and Sosa, Felix and Ullman, Tomer and Tenenbaum, Josh and Sutton, Charles/ (2021). A bayesian-symbolic approach to reasoning and learning in intuitive physics /Advances in neural information processing systems/ /34./

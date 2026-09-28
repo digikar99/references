@@ -1,0 +1,14 @@
+:properties:
+:id: Deep Learning
+:end:
+#+title: Deep Learning
+
+*References*
+
+- [[id:Alessandro2022Symbolic][Deep Symbolic Learning: Discovering Symbols and Rules from Perceptions]]
+- [[id:Frink2022Enhanced][Enhanced Deep Template-Based Object Instance Detection]]
+- [[id:Jospin2022Bayesian][Hands-On Bayesian Neural Networks—A Tutorial for Deep Learning Users]]
+- [[id:Li2024Survey][A survey of deep causal models and their industrial applications]]
+- [[id:Locatello2019Challenging][Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations]]
+- [[id:Mercier2019Template][Deep Template-based Object Instance Detection]]
+- [[id:Rolinek2019CVPR][Variational Autoencoders Pursue PCA Directions (by Accident)]]

@@ -1,0 +1,6 @@
+:properties:
+:id: Butlin2023Consciousness
+:end:
+#+title: Butlin2023Consciousness
+
+/Butlin, Patrick and Long, Robert and Elmoznino, Eric and Bengio, Yoshua and Birch, Jonathan and Constant, Axel and Deane, George and Fleming, Stephen M. and Frith, Chris and Ji, Xu and Kanai, Ryota and Klein, Colin and Lindsay, Grace and Michel, Matthias and Mudrik, Liad and Peters, Megan A. K. and Schwitzgebel, Eric and Simon, Jonathan and VanRullen, Rufin/ (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness // https://arxiv.org/abs/2308.08708

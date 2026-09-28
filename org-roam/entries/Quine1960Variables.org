@@ -1,0 +1,6 @@
+:properties:
+:id: Quine1960Variables
+:end:
+#+title: Quine1960Variables
+
+/Willard V. Quine/ (1960). Variables Explained Away /Proceedings of the American Philosophical Society/ /104./ https://www.jstor.org/stable/985250

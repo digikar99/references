@@ -1,0 +1,6 @@
+:properties:
+:id: Gebharter2023Gap
+:end:
+#+title: Gebharter2023Gap
+
+/Gebharter, Alexander and Hüttemann, Andreas/ (2023). Causal Bayes Nets and Token-Causation: Closing the Gap between Token-Level and Type-Level /Erkenntnis/ https://doi.org/10.1007/s10670-023-00684-5

@@ -1,0 +1,10 @@
+:properties:
+:id: Computation and Language (cs.CL)
+:end:
+#+title: Computation and Language (cs.CL)
+
+*References*
+
+- [[id:Joshi2024Fallacies][LLMs Are Prone to Fallacies in Causal Inference]]
+- [[id:Franken2024Generation][Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models]]
+- [[id:Wong2023WordModels][From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought]]

@@ -1,0 +1,8 @@
+:properties:
+:id: Multiple Agents
+:end:
+#+title: Multiple Agents
+
+*References*
+
+- [[id:Maisto2023Interactive][Interactive inference: a multi-agent model of cooperative joint actions]]

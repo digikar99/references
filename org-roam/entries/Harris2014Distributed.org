@@ -1,0 +1,6 @@
+:properties:
+:id: Harris2014Distributed
+:end:
+#+title: Harris2014Distributed
+
+/Harris,  Celia B and Barnier,  Amanda J and Sutton,  John and Keil,  Paul G/ (2014). Couples as socially distributed cognitive systems: Remembering in everyday social and material contexts /Memory Studies/ /7./ https://doi.org/10.1177/1750698014530619

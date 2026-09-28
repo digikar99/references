@@ -1,0 +1,6 @@
+:properties:
+:id: Duan2022Physics
+:end:
+#+title: Duan2022Physics
+
+/Duan, Jiafei and Dasgupta, Arijit and Fischer, Jason and Tan, Cheston/ (2022). A Survey on Machine Learning Approaches for Modelling Intuitive Physics // https://arxiv.org/abs/2202.06481

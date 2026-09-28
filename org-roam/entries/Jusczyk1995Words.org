@@ -1,0 +1,6 @@
+:properties:
+:id: Jusczyk1995Words
+:end:
+#+title: Jusczyk1995Words
+
+/Jusczyk, P.W. and Aslin, R.N./ (1995). Infants′ Detection of the Sound Patterns of Words in Fluent Speech /Cognitive Psychology/ /29./ https://doi.org/10.1006/cogp.1995.1010

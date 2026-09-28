@@ -1,0 +1,11 @@
+:properties:
+:id: Theory of Mind
+:end:
+#+title: Theory of Mind
+
+*References*
+
+- [[id:Forgcs2018Comprehension][Fourteen-month-old infants track the language comprehension of communicative partners]]
+- [[id:Kiraly2023Attributed][Can 18-Month-Olds Revise Attributed Beliefs?]]
+- [[id:Kovacs2021Attributed][Can infants adopt underspecified contents into attributed beliefs? Representational prerequisites of theory of mind]]
+- [[id:Southgate2020Altercentric][Are infants altercentric? The other and the self in early social cognition.]]

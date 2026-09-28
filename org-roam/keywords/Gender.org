@@ -1,0 +1,8 @@
+:properties:
+:id: Gender
+:end:
+#+title: Gender
+
+*References*
+
+- [[id:Vriesendorp2024Genders][Minority genders in quantitative survey research: a data-driven approach to clear, inclusive, and accurate gender questions]]

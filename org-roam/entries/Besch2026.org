@@ -1,0 +1,6 @@
+:properties:
+:id: Besch2026
+:end:
+#+title: Besch2026
+
+/Besch, Britt and Gerstenberg, Tobias/ (2026). Inferring Why Someone Asked 'Why': Foil Inference in Human and LLM Question Interpretation /Proceedings of the Annual Meeting of the Cognitive Science Society/ /48./ https://escholarship.org/uc/item/2733v7rp

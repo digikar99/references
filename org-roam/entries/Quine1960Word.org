@@ -1,0 +1,6 @@
+:properties:
+:id: Quine1960Word
+:end:
+#+title: Quine1960Word
+
+/Van Orman Quine, Willard/ (1960). Word and Object //

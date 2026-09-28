@@ -1,0 +1,6 @@
+:properties:
+:id: Blum2013Approximate
+:end:
+#+title: Blum2013Approximate
+
+/Blum, M. G. B. and Nunes, M. A. and Prangle, D. and Sisson, S. A./ (2013). A Comparative Review of Dimension Reduction Methods in Approximate Bayesian Computation /Statistical Science/ /28./ https://dx.doi.org/10.1214/12-STS406

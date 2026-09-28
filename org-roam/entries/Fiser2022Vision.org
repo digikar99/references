@@ -1,0 +1,6 @@
+:properties:
+:id: Fiser2022Vision
+:end:
+#+title: Fiser2022Vision
+
+/Fiser, József and Lengyel, Gábor/ (2022). Statistical Learning in Vision /Annual Review of Vision Science/ /8./ https://doi.org/10.1146/annurev-vision-100720-103343

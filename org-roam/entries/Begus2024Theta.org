@@ -1,0 +1,6 @@
+:properties:
+:id: Begus2024Theta
+:end:
+#+title: Begus2024Theta
+
+/Begus, Katarina and Bonawitz, Elizabeth/ (2024). Infants evaluate informativeness of evidence and predict causal events as revealed in theta oscillations and predictive looking /Communications Psychology/ /2./ https://doi.org/10.1038/s44271-024-00131-3

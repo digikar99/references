@@ -1,0 +1,6 @@
+:properties:
+:id: Saigusa2008Amoebae
+:end:
+#+title: Saigusa2008Amoebae
+
+/Saigusa, Tetsu and Tero, Atsushi and Nakagaki, Toshiyuki and Kuramoto, Yoshiki/ (2008). Amoebae Anticipate Periodic Events /Physical Review Letters/ /100./ https://dx.doi.org/10.1103/PhysRevLett.100.018101

@@ -1,0 +1,6 @@
+:properties:
+:id: Haward2021Kind
+:end:
+#+title: Haward2021Kind
+
+/Haward, Paul and Carey, Susan and Prasada, Sandeep/ (2021). The Formal Structure of Kind Representations /Cognitive Science/ /45./ https://dx.doi.org/10.1111/cogs.13040

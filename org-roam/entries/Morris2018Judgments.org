@@ -1,0 +1,6 @@
+:properties:
+:id: Morris2018Judgments
+:end:
+#+title: Morris2018Judgments
+
+/Morris, Adam and Phillips, Jonathan and Icard, Thomas and Knobe, Joshua and Gerstenberg, Tobias and Cushman, Fiery/ (2018). Judgments of actual causation approximate the effectiveness of interventions //

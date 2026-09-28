@@ -1,0 +1,15 @@
+:properties:
+:id: Representations
+:end:
+#+title: Representations
+
+*References*
+
+- [[id:Perner1994Understanding][Understanding the representational mind]]
+- [[id:Piccinini2006Computation][Computation without Representation]]
+- [[id:Greenberg2023Spectrum][The Iconic-Symbolic Spectrum]]
+- [[id:Carey2022Becoming][Becoming a Cognitive Scientist]]
+- [[id:Clarke2020Cognition][Beyond the icon: Core cognition and the bounds of perception]]
+- [[id:Haward2021Kind][The Formal Structure of Kind Representations]]
+- [[id:QuiltyDunn2022LOT][The best game in town: The reemergence of the language-of-thought hypothesis across the cognitive sciences]]
+- [[id:Chen2023just]["Just In Time" Representations for Mental Simulation in Intuitive Physics]]

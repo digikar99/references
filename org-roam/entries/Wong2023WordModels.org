@@ -1,0 +1,6 @@
+:properties:
+:id: Wong2023WordModels
+:end:
+#+title: Wong2023WordModels
+
+/Wong, Lionel and Grand, Gabriel and Lew, Alexander K. and Goodman, Noah D. and Mansinghka, Vikash K. and Andreas, Jacob and Tenenbaum, Joshua B./ (2023). From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought // https://arxiv.org/abs/2306.12672

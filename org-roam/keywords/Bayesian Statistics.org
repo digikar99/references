@@ -1,0 +1,13 @@
+:properties:
+:id: Bayesian Statistics
+:end:
+#+title: Bayesian Statistics
+
+*References*
+
+- [[id:Hoijtink2019Bayes][A tutorial on testing hypotheses using the Bayes factor.]]
+- [[id:VanLissa2020Bayes][Teacher’s Corner: Evaluating Informative Hypotheses Using the Bayes Factor in Structural Equation Models]]
+- [[id:Heck2023Bayes][A review of applications of the Bayes factor in psychological research.]]
+- [[id:Douven2017Likert][A Bayesian perspective on Likert scales and central tendency]]
+- [[id:Verhagen2014Bayesian][Bayesian tests to quantify the result of a replication attempt.]]
+- [[id:Burkner2017BRMS][brms: An R package for Bayesian multilevel models using Stan]]

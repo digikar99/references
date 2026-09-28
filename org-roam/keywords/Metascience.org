@@ -1,0 +1,18 @@
+:properties:
+:id: Metascience
+:end:
+#+title: Metascience
+
+*References*
+
+- [[id:Birney2023Science][Engaged followership and toxic science: Exploring the effect of prototypicality on willingness to follow harmful experimental instructions]]
+- [[id:Shadish2012Causation][Theories of causation in psychological science]]
+- [[id:kominsky2022simplicity][Simplicity and validity in infant research]]
+- [[id:Hoijtink2019Bayes][A tutorial on testing hypotheses using the Bayes factor.]]
+- [[id:VanLissa2020Bayes][Teacher’s Corner: Evaluating Informative Hypotheses Using the Bayes Factor in Structural Equation Models]]
+- [[id:Heck2023Bayes][A review of applications of the Bayes factor in psychological research.]]
+- [[id:Douven2017Likert][A Bayesian perspective on Likert scales and central tendency]]
+- [[id:Verhagen2014Bayesian][Bayesian tests to quantify the result of a replication attempt.]]
+- [[id:Vriesendorp2024Genders][Minority genders in quantitative survey research: a data-driven approach to clear, inclusive, and accurate gender questions]]
+- [[id:Sperber2011Naturalistic][A naturalistic ontology for mechanistic explanations in the social sciences]]
+- [[id:Frisch2014Causal][Causal reasoning in physics]]

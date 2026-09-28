@@ -1,0 +1,6 @@
+:properties:
+:id: Casasola2000Infants
+:end:
+#+title: Casasola2000Infants
+
+/Casasola, Marianella and Cohen, Leslie B/ (2000). Infants' association of linguistic labels with causal actions. /Developmental Psychology/ /36./ https://psycnet.apa.org/doi/10.1037/0012-1649.36.2.155

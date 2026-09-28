@@ -1,0 +1,6 @@
+:properties:
+:id: Goddu2020Learning
+:end:
+#+title: Goddu2020Learning
+
+/Goddu, Mariel K and Gopnik, Alison/ (2020). Learning what to change: Young children use “difference-making” to identify causally relevant variables. /Developmental psychology/ /56./ https://doi.org/10.1037/dev0000872

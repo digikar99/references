@@ -1,0 +1,6 @@
+:properties:
+:id: Kominsky2019Relevance
+:end:
+#+title: Kominsky2019Relevance
+
+/Kominsky, Jonathan F. and Phillips, Jonathan/ (2019). Immoral Professors and Malfunctioning Tools: Counterfactual Relevance Accounts Explain the Effect of Norm Violations on Causal Selection /Cognitive Science/ /43./ https://doi.org/10.1111/cogs.12792

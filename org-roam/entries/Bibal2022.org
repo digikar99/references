@@ -1,0 +1,6 @@
+:properties:
+:id: Bibal2022
+:end:
+#+title: Bibal2022
+
+/Bibal, Adrien and Cardon, Rémi and Alfter, David and Wilkens, Rodrigo and Wang, Xiaoou and Fran\ccois, Thomas and Watrin, Patrick/ (2022). Is Attention Explanation? An Introduction to the Debate /Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)/ https://doi.org/10.18653/v1/2022.acl-long.269

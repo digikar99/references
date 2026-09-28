@@ -1,0 +1,8 @@
+:properties:
+:id: Processing
+:end:
+#+title: Processing
+
+*References*
+
+- [[id:Howard2008Holcombe][Tracking the Changing Features of Multiple Objects: Progressively Poorer Perceptual Precision and Progressively Greater Perceptual Lag]]

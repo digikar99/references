@@ -1,0 +1,10 @@
+:properties:
+:id: Interesting
+:end:
+#+title: Interesting
+
+*References*
+
+- [[id:White2025Michotte][Michotte’s research on perceptual impressions of causality: a registered replication study]]
+- [[id:Firestone2015Topdown][Cognition does not affect perception: Evaluating the evidence for “top-down” effects]]
+- [[id:Firestone2013Hills][How “Paternalistic” Is Spatial Perception? Why Wearing a Heavy Backpack Doesn’t—and Couldn’t—Make Hills Look Steeper]]

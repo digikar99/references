@@ -1,0 +1,8 @@
+:properties:
+:id: Thalamus
+:end:
+#+title: Thalamus
+
+*References*
+
+- [[id:selective-attention-no-neocortex][Selective Attention without a Neocortex]]

@@ -1,0 +1,6 @@
+:properties:
+:id: Shafto2008Teaching
+:end:
+#+title: Shafto2008Teaching
+
+/Shafto, Patrick and Goodman, Noah/ (2008). Teaching Games: Statistical Sampling Assumptions for Learning in Pedagogical Situations /Proceedings of the Annual Meeting of the Cognitive Science Society/ /30./

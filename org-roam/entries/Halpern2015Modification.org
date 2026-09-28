@@ -1,0 +1,6 @@
+:properties:
+:id: Halpern2015Modification
+:end:
+#+title: Halpern2015Modification
+
+/Halpern, Joseph Y./ (2015). A modification of the Halpern-Pearl definition of causality /Proceedings of the 24th International Conference on Artificial Intelligence/ https://dl.acm.org/doi/abs/10.5555/2832581.2832671

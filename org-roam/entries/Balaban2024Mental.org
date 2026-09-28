@@ -1,0 +1,6 @@
+:properties:
+:id: Balaban2024Mental
+:end:
+#+title: Balaban2024Mental
+
+/Balaban, Halely and Ullman, Tomer David/ (2024). The capacity limits of mental simulation // https://dx.doi.org/10.31234/osf.io/xzcmb_v1

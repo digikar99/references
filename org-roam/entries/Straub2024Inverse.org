@@ -1,0 +1,6 @@
+:properties:
+:id: Straub2024Inverse
+:end:
+#+title: Straub2024Inverse
+
+/Straub, Dominik and Niehues, Tobias F. and Peters, Jan and Rothkopf, Constantin A./ (2024). Inverse decision-making using neural amortized Bayesian actors // https://arxiv.org/abs/2409.03710

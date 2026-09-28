@@ -1,0 +1,6 @@
+:properties:
+:id: SEP2016Frame
+:end:
+#+title: SEP2016Frame
+
+/Shanahan, Murray/ (2016). The Frame Problem /The Stanford Encyclopedia of Philosophy/

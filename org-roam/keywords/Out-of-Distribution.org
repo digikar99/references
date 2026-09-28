@@ -1,0 +1,8 @@
+:properties:
+:id: Out-of-Distribution
+:end:
+#+title: Out-of-Distribution
+
+*References*
+
+- [[id:Wang2022Causal][Causal Representation Learning for Out-of-Distribution Recommendation]]

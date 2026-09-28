@@ -1,0 +1,6 @@
+:properties:
+:id: Gopnik2007Causal
+:end:
+#+title: Gopnik2007Causal
+
+/Gopnik, Alison and Schulz, Laura and Schulz, Laura Elizabeth/ (2007). Causal learning: Psychology, philosophy, and computation //

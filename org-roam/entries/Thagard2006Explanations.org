@@ -1,0 +1,6 @@
+:properties:
+:id: Thagard2006Explanations
+:end:
+#+title: Thagard2006Explanations
+
+/Thagard, Paul/ (2006). Evaluating Explanations in Law, Science, and Everyday Life /Current Directions in Psychological Science/ /15./ https://doi.org/10.1111/j.0963-7214.2006.00424.x

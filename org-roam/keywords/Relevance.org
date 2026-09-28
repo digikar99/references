@@ -1,0 +1,8 @@
+:properties:
+:id: Relevance
+:end:
+#+title: Relevance
+
+*References*
+
+- [[id:Chen2023just]["Just In Time" Representations for Mental Simulation in Intuitive Physics]]

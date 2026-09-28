@@ -1,0 +1,6 @@
+:properties:
+:id: Greenberg2023Spectrum
+:end:
+#+title: Greenberg2023Spectrum
+
+/Greenberg, Gabriel/ (2023). The Iconic-Symbolic Spectrum /Philosophical Review/ /132./ https://dx.doi.org/10.1215/00318108-10697558

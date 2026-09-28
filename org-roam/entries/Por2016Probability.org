@@ -1,0 +1,6 @@
+:properties:
+:id: Por2016Probability
+:end:
+#+title: Por2016Probability
+
+/Por, Han‐Hui and Budescu, David V./ (2016). Eliciting Subjective Probabilities through Pair‐wise Comparisons /Journal of Behavioral Decision Making/ /30./ https://dx.doi.org/10.1002/bdm.1929

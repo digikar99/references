@@ -1,0 +1,13 @@
+:properties:
+:id: Child Cognition
+:end:
+#+title: Child Cognition
+
+*References*
+
+- [[id:De2022Searching][Searching for information, from infancy to adolescence]]
+- [[id:Frazier2016Explanations][Young Children Prefer and Remember Satisfying Explanations]]
+- [[id:Johnston2017Explanation][Preferences for Explanation Generality Develop Early in Biology But Not Physics]]
+- [[id:Ruggeri2022Introduction][An Introduction to Ecological Active Learning]]
+- [[id:Wellman2011Explanations][Reinvigorating Explanations for the Study of Early Cognitive
+                  Development: Explanations]]

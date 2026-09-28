@@ -1,0 +1,6 @@
+:properties:
+:id: Bengio2013Representation
+:end:
+#+title: Bengio2013Representation
+
+/Bengio, Y. and Courville, A. and Vincent, P./ (2013). Representation Learning: A Review and New Perspectives /IEEE Transactions on Pattern Analysis and Machine Intelligence/ /35./ https://dx.doi.org/10.1109/TPAMI.2013.50

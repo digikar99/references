@@ -1,0 +1,8 @@
+:properties:
+:id: Time
+:end:
+#+title: Time
+
+*References*
+
+- [[id:Reichenbach1956Time][The Direction of Time]]

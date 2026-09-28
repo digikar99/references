@@ -1,0 +1,9 @@
+:properties:
+:id: Gaze Perception
+:end:
+#+title: Gaze Perception
+
+*References*
+
+- [[id:Stephenson2021Shared][From Gaze Perception to Social Cognition: The Shared-Attention System
+]]

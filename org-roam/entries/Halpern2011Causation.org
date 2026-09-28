@@ -1,0 +1,6 @@
+:properties:
+:id: Halpern2011Causation
+:end:
+#+title: Halpern2011Causation
+
+/Halpern, Joseph Y. and Hitchcock, Christopher/ (2011). Actual causation and the art of modeling // https://arxiv.org/abs/1106.2652

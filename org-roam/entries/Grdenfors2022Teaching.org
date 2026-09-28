@@ -1,0 +1,6 @@
+:properties:
+:id: Grdenfors2022Teaching
+:end:
+#+title: Grdenfors2022Teaching
+
+/Gärdenfors, Peter/ (2022). Teaching as evolutionary precursor to language /Frontiers in Communication/ /7./ https://dx.doi.org/10.3389/fcomm.2022.970069

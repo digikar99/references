@@ -1,0 +1,6 @@
+:properties:
+:id: Farrell2010Computational
+:end:
+#+title: Farrell2010Computational
+
+/Farrell, Simon and Lewandowsky, Stephan/ (2010). Computational Models as Aids to Better Reasoning in Psychology /Current Directions in Psychological Science/ /19./ https://doi.org/10.1177/0963721410386677

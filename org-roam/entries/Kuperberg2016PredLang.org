@@ -1,0 +1,6 @@
+:properties:
+:id: Kuperberg2016PredLang
+:end:
+#+title: Kuperberg2016PredLang
+
+/Kuperberg, Gina R and Jaeger, T Florian/ (2016). What do we mean by prediction in language comprehension? /Language, cognition and neuroscience/ /31./

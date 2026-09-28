@@ -1,0 +1,6 @@
+:properties:
+:id: Andreas2026Book
+:end:
+#+title: Andreas2026Book
+
+/Andreas, Holger and Günther, Mario/ (2026). From Reasons to Causes: A Theory of Causation //

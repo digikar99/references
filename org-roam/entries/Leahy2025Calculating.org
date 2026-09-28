@@ -1,0 +1,6 @@
+:properties:
+:id: Leahy2025Calculating
+:end:
+#+title: Leahy2025Calculating
+
+/Leahy, Brian and Vivanco, Vicente and Cheyette, Samuel J and Smith, Kevin A and White, Lucy J and Feiman, Roman and Schulz, Laura and Tenenbaum, Joshua B/ (2025). Calculating probabilities from imagined possibilities: Limitations in 4-year-olds /Proceedings of the Annual Meeting of the Cognitive Science Society/ /47./

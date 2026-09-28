@@ -1,0 +1,6 @@
+:properties:
+:id: Barlow2001Redundancy
+:end:
+#+title: Barlow2001Redundancy
+
+/Barlow, Horace/ (2001). Redundancy reduction revisited /Network: computation in neural systems/ /12./

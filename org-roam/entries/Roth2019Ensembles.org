@@ -1,0 +1,6 @@
+:properties:
+:id: Roth2019Ensembles
+:end:
+#+title: Roth2019Ensembles
+
+/Hansmann-Roth, Sabrina and Chetverikov, Andrey and Kristjánsson, Árni/ (2019). Representing color and orientation ensembles: Can observers learn multiple feature distributions? /Journal of Vision/ /19./ https://doi.org/10.1167/19.9.2

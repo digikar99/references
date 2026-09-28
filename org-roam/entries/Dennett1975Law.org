@@ -1,0 +1,6 @@
+:properties:
+:id: Dennett1975Law
+:end:
+#+title: Dennett1975Law
+
+/Dennett, Daniel C/ (1975). Why the law of effect will not go away. /Journal for the Theory of Social Behaviour/

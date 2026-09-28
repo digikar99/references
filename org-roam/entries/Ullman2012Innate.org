@@ -1,0 +1,6 @@
+:properties:
+:id: Ullman2012Innate
+:end:
+#+title: Ullman2012Innate
+
+/Ullman, Shimon and Harari, Daniel and Dorfman, Nimrod/ (2012). From simple innate biases to complex visual concepts /Proceedings of the National Academy of Sciences/ /109./ [[https://doi.org/https://doi.org/10.1073/pnas.1207690109][https://doi.org/10.1073/pnas.1207690109]]

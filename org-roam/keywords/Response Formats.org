@@ -1,0 +1,15 @@
+:properties:
+:id: Response Formats
+:end:
+#+title: Response Formats
+
+*References*
+
+- [[id:Toepoel2018Formats][Sliders, visual analogue scales, or buttons: Influence of formats and scales in mobile and desktop surveys]]
+- [[id:Funke2015Negative][A Web Experiment Showing Negative Effects of Slider Scales Compared to Visual Analogue Scales and Radio Button Scales]]
+- [[id:Kuhlmann2017Measurement][Investigating measurement equivalence of visual analogue scales and Likert-type scales in Internet-based personality questionnaires]]
+- [[id:Gullickson1997Survey][Review of Thinking About Answers: The Application of Cognitive Processes to Survey Methodology.]]
+- [[id:Liu2018Default][Where Should I Start? On Default Values for Slider Questions in Web Surveys]]
+- [[id:Maineri2019Slider][Slider Bars in Multi-Device Web Surveys]]
+- [[id:Krosnick1991Satisficing][Response strategies for coping with the cognitive demands of attitude measures in surveys]]
+- [[id:Podsakoff2024][Common Method Bias: It’s Bad, It’s Complex, It’s Widespread, and It’s Not Easy to Fix]]

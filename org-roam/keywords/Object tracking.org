@@ -1,0 +1,8 @@
+:properties:
+:id: Object tracking
+:end:
+#+title: Object tracking
+
+*References*
+
+- [[id:Pylyshyn2000][Situating Vision in the World]]

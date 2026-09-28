@@ -1,0 +1,6 @@
+:properties:
+:id: Bramley2017Neurath
+:end:
+#+title: Bramley2017Neurath
+
+/Bramley, Neil R. and Dayan, Peter and Griffiths, Thomas L. and Lagnado, David A./ (2017). Formalizing Neurath’s ship: Approximate algorithms for online causal learning. /Psychological Review/ /124./ https://dx.doi.org/10.1037/rev0000061

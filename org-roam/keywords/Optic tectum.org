@@ -1,0 +1,8 @@
+:properties:
+:id: Optic tectum
+:end:
+#+title: Optic tectum
+
+*References*
+
+- [[id:selective-attention-no-neocortex][Selective Attention without a Neocortex]]

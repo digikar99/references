@@ -1,0 +1,6 @@
+:properties:
+:id: Griffiths2007Causal
+:end:
+#+title: Griffiths2007Causal
+
+/Griffiths, Thomas L and Tenenbaum, Joshua B/ (2007). Two Proposals for Causal Grammars /Causal learning: Psychology, philosophy, and computation/

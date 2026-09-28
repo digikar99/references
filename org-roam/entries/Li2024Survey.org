@@ -1,0 +1,6 @@
+:properties:
+:id: Li2024Survey
+:end:
+#+title: Li2024Survey
+
+/Li, Zongyu and Guo, Xiaobo and Qiang, Siwei/ (2024). A survey of deep causal models and their industrial applications /Artificial Intelligence Review/ /57./ https://doi.org/10.1007/s10462-024-10886-0

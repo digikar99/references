@@ -1,0 +1,6 @@
+:properties:
+:id: Sperber1995Selection
+:end:
+#+title: Sperber1995Selection
+
+/Sperber, Dan and Cara, Francesco and Girotto, Vittorio/ (1995). Relevance theory explains the selection task /Cognition/ /57./ https://dx.doi.org/10.1016/0010-0277(95)00666-M

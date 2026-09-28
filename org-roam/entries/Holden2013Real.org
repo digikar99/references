@@ -1,0 +1,6 @@
+:properties:
+:id: Holden2013Real
+:end:
+#+title: Holden2013Real
+
+/Holden, Mark P. and Newcombe, Nora S. and Shipley, Thomas F./ (2013). Location memory in the real world: Category adjustment effects in 3-dimensional space /Cognition/ /128./ https://dx.doi.org/10.1016/j.cognition.2013.02.016

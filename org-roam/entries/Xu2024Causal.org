@@ -1,0 +1,6 @@
+:properties:
+:id: Xu2024Causal
+:end:
+#+title: Xu2024Causal
+
+/Xu, Bowen and Wang, Pei/ (2024). Causal Inference in NARS /Artificial General Intelligence/ https://doi.org/10.1007/978-3-031-65572-2_22

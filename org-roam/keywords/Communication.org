@@ -1,0 +1,12 @@
+:properties:
+:id: Communication
+:end:
+#+title: Communication
+
+*References*
+
+- [[id:Csibra2010Communicative][Recognizing Communicative Intentions in Infancy]]
+- [[id:DeLoache1995Symbols][Early Understanding and Use of Symbols: The Model Model]]
+- [[id:Revencu2024Shapes][Fifteen-month-olds accept arbitrary shapes as symbols of familiar kind tokens]]
+- [[id:Ruiter2006][Projecting the End of a Speaker’s Turn: A Cognitive Cornerstone of Conversation]]
+- [[id:Stivers2009][Universals and cultural variation in turn-taking in conversation]]

@@ -1,0 +1,6 @@
+:properties:
+:id: Pearl2009Causality
+:end:
+#+title: Pearl2009Causality
+
+/Pearl, Judea/ (2009). Causality: Models, Reasoning, and Inference // [[https://doi.org/10.1017/cbo9780511803161][10.1017/cbo9780511803161]]

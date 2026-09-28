@@ -1,0 +1,14 @@
+:properties:
+:id: Metarepresentations
+:end:
+#+title: Metarepresentations
+
+*References*
+
+- [[id:Csibra2010Communicative][Recognizing Communicative Intentions in Infancy]]
+- [[id:Mahr2017Remember][Why do we remember? The communicative function of episodic memory]]
+- [[id:Mussavifard2023Metarepresenting][Metarepresenting in communication]]
+- [[id:Pylyshyn1978Beliefs][When is attribution of beliefs justified? [P&amp;W]]]
+- [[id:Redshaw2014Metarepresentation][Does metarepresentation make human mental time travel unique?]]
+- [[id:Sperber2000Evolutionary][Metarepresentations in an evolutionary perspective]]
+- [[id:Wilson2012Meaning][Meaning and Relevance]]

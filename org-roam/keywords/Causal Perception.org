@@ -1,0 +1,9 @@
+:properties:
+:id: Causal Perception
+:end:
+#+title: Causal Perception
+
+*References*
+
+- [[id:Leslie1987Causality][Do six-month-old infants perceive causality?]]
+- [[id:Schlottmann1992Distinction][Evidence for a distinction between judged and perceived causality]]

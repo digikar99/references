@@ -1,0 +1,6 @@
+:properties:
+:id: Tenenbaum2007Intuitive
+:end:
+#+title: Tenenbaum2007Intuitive
+
+/Tenenbaum, Joshua B and Griffiths, Thomas L and Niyogi, Sourabh/ (2007). Intuitive theories as grammars for causal inference /Causal learning: Psychology, philosophy, and computation/

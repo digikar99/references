@@ -1,0 +1,6 @@
+:properties:
+:id: Gijsbers2017Reconciling
+:end:
+#+title: Gijsbers2017Reconciling
+
+/Gijsbers, Victor/ (2017). Reconciling Contrastive and Non-contrastive Explanation /Erkenntnis/ /83./ https://dx.doi.org/10.1007/s10670-017-9937-8

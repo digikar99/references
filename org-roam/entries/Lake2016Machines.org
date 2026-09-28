@@ -1,0 +1,6 @@
+:properties:
+:id: Lake2016Machines
+:end:
+#+title: Lake2016Machines
+
+/Lake, Brenden M. and Ullman, Tomer D. and Tenenbaum, Joshua B. and Gershman, Samuel J./ (2016). Building machines that learn and think like people /Behavioral and Brain Sciences/ /40./ https://dx.doi.org/10.1017/S0140525X16001837

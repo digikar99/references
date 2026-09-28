@@ -1,0 +1,6 @@
+:properties:
+:id: Smith2013Uncertainty
+:end:
+#+title: Smith2013Uncertainty
+
+/Smith, Kevin A. and Vul, Edward/ (2013). Sources of Uncertainty in Intuitive Physics /Topics in Cognitive Science/ /5./ https://dx.doi.org/10.1111/tops.12009

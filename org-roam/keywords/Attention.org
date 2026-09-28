@@ -1,0 +1,17 @@
+:properties:
+:id: Attention
+:end:
+#+title: Attention
+
+*References*
+
+- [[id:Alvarez2007Resource][How Many Objects Can You Track?: Evidence for a Resource-Limited Attentive Tracking Mechanism]]
+- [[id:Anderson2011Attention][There is no Such Thing as Attention]]
+- [[id:Bibal2022][Is Attention Explanation? An Introduction to the Debate]]
+- [[id:Brown2007Shifting][Shifting Attention into and out of Objects: Evaluating the Processes Underlying the Object Advantage]]
+- [[id:Hommel2019Attention][No one knows what attention is]]
+- [[id:Howard2008Holcombe][Tracking the Changing Features of Multiple Objects: Progressively Poorer Perceptual Precision and Progressively Greater Perceptual Lag]]
+- [[id:Lengyel2021Object][Statistically defined visual chunks engage object-based attention]]
+- [[id:Lindsay2020Attention][Attention in Psychology, Neuroscience, and Machine Learning]]
+- [[id:Jensen2011Blindness][Change blindness and inattentional blindness]]
+- [[id:selective-attention-no-neocortex][Selective Attention without a Neocortex]]

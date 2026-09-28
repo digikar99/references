@@ -1,0 +1,6 @@
+:properties:
+:id: Gopnik2000Blickets
+:end:
+#+title: Gopnik2000Blickets
+
+/Gopnik, Alison and Sobel, David M./ (2000). Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction /Child Development/ /71./ https://doi.org/10.1111/1467-8624.00224

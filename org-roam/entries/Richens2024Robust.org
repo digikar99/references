@@ -1,0 +1,6 @@
+:properties:
+:id: Richens2024Robust
+:end:
+#+title: Richens2024Robust
+
+/Jonathan Richens and Tom Everitt/ (2024). Robust agents learn causal world models /The Twelfth International Conference on Learning Representations/ https://openreview.net/forum?id=pOoKI3ouv1

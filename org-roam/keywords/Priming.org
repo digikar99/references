@@ -1,0 +1,9 @@
+:properties:
+:id: Priming
+:end:
+#+title: Priming
+
+*References*
+
+- [[id:Wentura2014Priming][Priming is not Priming is not Priming]]
+- [[id:Schmidt2011Priming][Dos and don’ts in response priming research]]

@@ -1,0 +1,6 @@
+:properties:
+:id: Jaswal2010Trust
+:end:
+#+title: Jaswal2010Trust
+
+/Jaswal, Vikram K. and Croft, A. Carrington and Setia, Alison R. and Cole, Caitlin A./ (2010). Young Children Have a Specific, Highly Robust Bias to Trust Testimony /Psychological Science/ /21./ https://dx.doi.org/10.1177/0956797610383438

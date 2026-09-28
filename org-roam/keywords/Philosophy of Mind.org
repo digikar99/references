@@ -1,0 +1,8 @@
+:properties:
+:id: Philosophy of Mind
+:end:
+#+title: Philosophy of Mind
+
+*References*
+
+- [[id:Pylyshyn1978Beliefs][When is attribution of beliefs justified? [P&amp;W]]]

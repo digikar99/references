@@ -1,0 +1,6 @@
+:properties:
+:id: Earman1978Einstein
+:end:
+#+title: Earman1978Einstein
+
+/Earman, John and Glymour, Clark/ (1978). Lost in the tensors: Einstein's struggles with covariance principles 1912--1916 /Studies In History and Philosophy of Science Part A/ /9./

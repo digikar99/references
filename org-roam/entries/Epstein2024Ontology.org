@@ -1,0 +1,6 @@
+:properties:
+:id: Epstein2024Ontology
+:end:
+#+title: Epstein2024Ontology
+
+/Epstein, Brian/ (2024). Social Ontology /The Stanford Encyclopedia of Philosophy/

@@ -1,0 +1,6 @@
+:properties:
+:id: Lengyel2019Statistical
+:end:
+#+title: Lengyel2019Statistical
+
+/Lengyel, Gábor and Žalalytė, Goda and Pantelides, Alexandros and Ingram, James N and Fiser, József and Lengyel, Máté and Wolpert, Daniel M/ (2019). Unimodal statistical learning produces multimodal object-like representations /eLife/ /8./ https://doi.org/10.7554/eLife.43942

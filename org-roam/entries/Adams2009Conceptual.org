@@ -1,0 +1,6 @@
+:properties:
+:id: Adams2009Conceptual
+:end:
+#+title: Adams2009Conceptual
+
+/Adams, Benjamin and Raubal, Martin/ (2009). Conceptual Space Markup Language (CSML): Towards the Cognitive Semantic Web /2009 IEEE International Conference on Semantic Computing/ https://dx.doi.org/10.1109/ICSC.2009.58

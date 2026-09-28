@@ -1,0 +1,8 @@
+:properties:
+:id: Implicit Learning
+:end:
+#+title: Implicit Learning
+
+*References*
+
+- [[id:Batterink2019Neural][Understanding the Neural Bases of Implicit and Statistical Learning]]

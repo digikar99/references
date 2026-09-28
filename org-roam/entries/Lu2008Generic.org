@@ -1,0 +1,6 @@
+:properties:
+:id: Lu2008Generic
+:end:
+#+title: Lu2008Generic
+
+/Lu, Hongjing and Yuille, Alan L. and Liljeholm, Mimi and Cheng, Patricia W. and Holyoak, Keith J./ (2008). Bayesian generic priors for causal learning. /Psychological Review/ /115./ https://doi.org/10.1037/a0013256

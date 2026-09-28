@@ -1,0 +1,6 @@
+:properties:
+:id: Nadasdy2010Asynchrony
+:end:
+#+title: Nadasdy2010Asynchrony
+
+/Nadasdy, Zoltan/ (2010). Binding by asynchrony: the neuronal phase code /Frontiers in Neuroscience/ /4./ https://doi.org/10.3389/fnins.2010.00051

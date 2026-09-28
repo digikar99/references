@@ -1,0 +1,6 @@
+:properties:
+:id: Hoijtink2019Bayes
+:end:
+#+title: Hoijtink2019Bayes
+
+/Hoijtink, Herbert and Mulder, Joris and van Lissa, Caspar and Gu, Xin/ (2019). A tutorial on testing hypotheses using the Bayes factor. /Psychological Methods/ /24./ https://dx.doi.org/10.1037/met0000201

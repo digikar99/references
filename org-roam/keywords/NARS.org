@@ -1,0 +1,9 @@
+:properties:
+:id: NARS
+:end:
+#+title: NARS
+
+*References*
+
+- [[id:Wang2019Everyday][Toward a Logic of Everyday Reasoning]]
+- [[id:Xu2024Causal][Causal Inference in NARS]]

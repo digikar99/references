@@ -1,0 +1,6 @@
+:properties:
+:id: VanLissa2020Bayes
+:end:
+#+title: VanLissa2020Bayes
+
+/Van Lissa, Caspar J. and Gu, Xin and Mulder, Joris and Rosseel, Yves and Van Zundert, Camiel and Hoijtink, Herbert/ (2020). Teacher’s Corner: Evaluating Informative Hypotheses Using the Bayes Factor in Structural Equation Models /Structural Equation Modeling: A Multidisciplinary Journal/ /28./ https://dx.doi.org/10.1080/10705511.2020.1745644

@@ -1,0 +1,6 @@
+:properties:
+:id: Toepoel2018Formats
+:end:
+#+title: Toepoel2018Formats
+
+/Toepoel, Vera and Funke, Frederik/ (2018). Sliders, visual analogue scales, or buttons: Influence of formats and scales in mobile and desktop surveys /Mathematical Population Studies/ /25./ https://dx.doi.org/10.1080/08898480.2018.1439245

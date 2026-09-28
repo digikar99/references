@@ -1,0 +1,6 @@
+:properties:
+:id: Pearl1995Diagrams
+:end:
+#+title: Pearl1995Diagrams
+
+/Pearl, Judea/ (1995). Causal diagrams for empirical research /Biometrika/ /82./ https://doi.org/10.1093/biomet/82.4.669

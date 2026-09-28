@@ -1,0 +1,6 @@
+:properties:
+:id: Binz2023Meta
+:end:
+#+title: Binz2023Meta
+
+/Binz, Marcel and Dasgupta, Ishita and Jagadish, Akshay K. and Botvinick, Matthew and Wang, Jane X. and Schulz, Eric/ (2023). Meta-learned models of cognition /Behavioral and Brain Sciences/ /47./ https://doi.org/10.1017/S0140525X23003266

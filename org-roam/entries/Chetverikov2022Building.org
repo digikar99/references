@@ -1,0 +1,6 @@
+:properties:
+:id: Chetverikov2022Building
+:end:
+#+title: Chetverikov2022Building
+
+/Chetverikov, Andrey and Kristjansson, Arni/ (2022). Probabilistic representations as building blocks for higher-level vision /Neurons, Behavior, Data analysis, and Theory/ /1./ https://doi.org/10.51628/001c.24910

@@ -1,0 +1,8 @@
+:properties:
+:id: Relations
+:end:
+#+title: Relations
+
+*References*
+
+- [[id:Hafri2021Relations][The perception of relations]]

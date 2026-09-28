@@ -1,0 +1,6 @@
+:properties:
+:id: Shadish2012Causation
+:end:
+#+title: Shadish2012Causation
+
+/Shadish, William R. and Sullivan, Kristynn J./ (2012). Theories of causation in psychological science /APA handbook of research methods in psychology, Vol 1: Foundations, planning, measures, and psychometrics./ https://doi.org/10.1037/13619-003

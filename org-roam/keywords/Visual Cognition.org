@@ -1,0 +1,13 @@
+:properties:
+:id: Visual Cognition
+:end:
+#+title: Visual Cognition
+
+*References*
+
+- [[id:Cicchini2024Perception][Serial Dependence in Perception]]
+- [[id:Ullman2012Innate][From simple innate biases to complex visual concepts]]
+- [[id:Barlow2001Redundancy][Redundancy reduction revisited]]
+- [[id:Simoncelli2001Natural][Natural Image Statistics and Neural Representation]]
+- [[id:Olshausen1996Natural][Emergence of simple-cell receptive field properties by learning a sparse code for natural images]]
+- [[id:Brady2009Compression][Compression in visual working memory: Using statistical regularities to form more efficient memory representations.]]

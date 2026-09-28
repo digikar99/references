@@ -1,0 +1,6 @@
+:properties:
+:id: Zhao2023Bootstrapping
+:end:
+#+title: Zhao2023Bootstrapping
+
+/Zhao, Bonan and Lucas, Christopher G. and Bramley, Neil R./ (2023). A model of conceptual bootstrapping in human cognition /Nature Human Behaviour/ /8./ https://dx.doi.org/10.1038/s41562-023-01719-1

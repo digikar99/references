@@ -1,0 +1,8 @@
+:properties:
+:id: Nutrition
+:end:
+#+title: Nutrition
+
+*References*
+
+- [[id:DeChiara2019NAFLD][High Protein Diet and Metabolic Plasticity in Non-Alcoholic Fatty Liver Disease: Myths and Truths]]

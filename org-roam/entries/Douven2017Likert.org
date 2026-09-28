@@ -1,0 +1,6 @@
+:properties:
+:id: Douven2017Likert
+:end:
+#+title: Douven2017Likert
+
+/Douven, Igor/ (2017). A Bayesian perspective on Likert scales and central tendency /Psychonomic Bulletin &amp; Review/ /25./ https://dx.doi.org/10.3758/s13423-017-1344-2

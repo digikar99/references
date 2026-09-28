@@ -1,0 +1,6 @@
+:properties:
+:id: Brown2007Shifting
+:end:
+#+title: Brown2007Shifting
+
+/Brown, James M. and Denney, Hope I./ (2007). Shifting Attention into and out of Objects: Evaluating the Processes Underlying the Object Advantage /Perception \& Psychophysics/ /69./ [[https://doi.org/10.3758/bf03193918][10.3758/bf03193918]]

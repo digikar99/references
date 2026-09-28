@@ -1,0 +1,6 @@
+:properties:
+:id: LaviRotbain2022Learnability
+:end:
+#+title: LaviRotbain2022Learnability
+
+/Lavi-Rotbain, Ori and Arnon, Inbal/ (2022). The learnability consequences of Zipfian distributions in language /Cognition/ /223./ https://dx.doi.org/10.1016/j.cognition.2022.105038

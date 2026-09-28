@@ -1,0 +1,6 @@
+:properties:
+:id: Mandelbaum2018Troubles
+:end:
+#+title: Mandelbaum2018Troubles
+
+/Mandelbaum, Eric/ (2018). Troubles with Bayesianism: An introduction to the psychological immune system /Mind & Language/ /34./ https://dx.doi.org/10.1111/mila.12205

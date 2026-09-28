@@ -1,0 +1,8 @@
+:properties:
+:id: Multi-object tracking
+:end:
+#+title: Multi-object tracking
+
+*References*
+
+- [[id:Luo2021MOTReview][Multiple Object Tracking: A Literature Review]]

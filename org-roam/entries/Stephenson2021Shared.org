@@ -1,0 +1,7 @@
+:properties:
+:id: Stephenson2021Shared
+:end:
+#+title: Stephenson2021Shared
+
+/Stephenson, Lisa J. and Edwards, S. Gareth and Bayliss, Andrew P./ (2021). From Gaze Perception to Social Cognition: The Shared-Attention System
+ /Perspectives on Psychological Science/ /16./ https://doi.org/10.1177/1745691620953773

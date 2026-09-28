@@ -1,0 +1,6 @@
+:properties:
+:id: Lucas2014Differences
+:end:
+#+title: Lucas2014Differences
+
+/Lucas, Christopher G. and Bridgers, Sophie and Griffiths, Thomas L. and Gopnik, Alison/ (2014). When children are better (or at least more open-minded) learners than adults: Developmental differences in learning the forms of causal relationships /Cognition/ /131./ https://doi.org/10.1016/j.cognition.2013.12.010

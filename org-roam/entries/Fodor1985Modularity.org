@@ -1,0 +1,6 @@
+:properties:
+:id: Fodor1985Modularity
+:end:
+#+title: Fodor1985Modularity
+
+/Fodor, Jerry A./ (1985). Précis of The Modularity of Mind /Behavioral and Brain Sciences/ /8./ https://doi.org/10.1017/S0140525X0001921X

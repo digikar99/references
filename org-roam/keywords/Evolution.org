@@ -1,0 +1,11 @@
+:properties:
+:id: Evolution
+:end:
+#+title: Evolution
+
+*References*
+
+- [[id:selective-attention-no-neocortex][Selective Attention without a Neocortex]]
+- [[id:Grdenfors2022Teaching][Teaching as evolutionary precursor to language]]
+- [[id:Gardenfors2017Pantomime][Demonstration and Pantomime in the Evolution of Teaching]]
+- [[id:Bickerton2011Scavenging][Confrontational scavenging as a possible source for language and cooperation]]

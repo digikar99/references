@@ -1,0 +1,6 @@
+:properties:
+:id: Kuhlmann2017Measurement
+:end:
+#+title: Kuhlmann2017Measurement
+
+/Kuhlmann, Tim and Dantlgraber, Michael and Reips, Ulf-Dietrich/ (2017). Investigating measurement equivalence of visual analogue scales and Likert-type scales in Internet-based personality questionnaires /Behavior Research Methods/ /49./ https://dx.doi.org/10.3758/s13428-016-0850-x

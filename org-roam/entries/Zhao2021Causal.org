@@ -1,0 +1,6 @@
+:properties:
+:id: Zhao2021Causal
+:end:
+#+title: Zhao2021Causal
+
+/Zhao, Bonan and Lucas, Christopher G. and Bramley, Neil R./ (2021). Building Object-based Causal Programs for Human-like Generalization // https://arxiv.org/abs/2111.12560

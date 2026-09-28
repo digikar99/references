@@ -1,0 +1,30 @@
+:properties:
+:id: Statistical Learning
+:end:
+#+title: Statistical Learning
+
+*References*
+
+- [[id:Batterink2019Neural][Understanding the Neural Bases of Implicit and Statistical Learning]]
+- [[id:Perruchet2018Chunks][What Mechanisms Underlie Implicit Statistical Learning? Transitional Probabilities Versus Chunks in Language Learning]]
+- [[id:Garber2024Transfer][Structure transfer and consolidation in visual implicit learning]]
+- [[id:vanMoorselaar2024Transfer][Transfer of statistical learning between tasks.]]
+- [[id:Chetverikov2022Building][Probabilistic representations as building blocks for higher-level vision]]
+- [[id:Saffran1996Statistical][Statistical Learning by 8-Month-Old Infants]]
+- [[id:Emberson2013Lower][Is statistical learning constrained by lower level perceptual organization?]]
+- [[id:Fiser2001Spatial][Unsupervised Statistical Learning of Higher-Order Spatial Structures from Visual Scenes]]
+- [[id:Fiser2002Temporal][Statistical learning of higher-order temporal structure from visual shape sequences.]]
+- [[id:Fiser2005Hierarchies][Encoding Multielement Scenes: Statistical Learning of Visual Feature Hierarchies.]]
+- [[id:Fiser2010Optimal][Statistically optimal perception and learning: from behavior to neural representations]]
+- [[id:Fiser2022Vision][Statistical Learning in Vision]]
+- [[id:Gopnik2001Causal][Causal learning mechanisms in very young children: Two-, three-, and four-year-olds infer causal relations from patterns of variation and covariation.]]
+- [[id:Jusczyk1995Words][Infants′ Detection of the Sound Patterns of Words in Fluent Speech]]
+- [[id:Lengyel2019Statistical][Unimodal statistical learning produces multimodal object-like representations]]
+- [[id:Lengyel2021Object][Statistically defined visual chunks engage object-based attention]]
+- [[id:Orban2008Bayesian][Bayesian learning of visual chunks by human observers]]
+- [[id:Roth2019Ensembles][Representing color and orientation ensembles: Can observers learn multiple feature distributions?]]
+- [[id:Saffran2018Statistical][Infant Statistical Learning]]
+- [[id:Sobel2007Interactions][Interactions Between Causal and Statistical Learning]]
+- [[id:LaviRotbain2022Learnability][The learnability consequences of Zipfian distributions in language]]
+- [[id:Mcdonald2022Causation][In search of uncertainty: Representations of uncertainty across various levels of perception and cognition]]
+- [[id:TurkBrowne2012Statistical][Statistical Learning and Its Consequences]]

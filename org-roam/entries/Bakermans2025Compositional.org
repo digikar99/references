@@ -1,0 +1,6 @@
+:properties:
+:id: Bakermans2025Compositional
+:end:
+#+title: Bakermans2025Compositional
+
+/Bakermans, Jacob J. W. and Tano, Pablo and Riveland, Reidar and Findling, Charles and Pouget, Alexandre/ (2025). Compositional meta-learning through probabilistic task inference // https://arxiv.org/abs/2510.01858

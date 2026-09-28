@@ -1,0 +1,6 @@
+:properties:
+:id: Frisch2014Causal
+:end:
+#+title: Frisch2014Causal
+
+/Frisch, Mathias/ (2014). Causal reasoning in physics //

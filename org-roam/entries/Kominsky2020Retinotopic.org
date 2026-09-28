@@ -1,0 +1,6 @@
+:properties:
+:id: Kominsky2020Retinotopic
+:end:
+#+title: Kominsky2020Retinotopic
+
+/Kominsky, Jonathan F. and Scholl, Brian J./ (2020). Retinotopic adaptation reveals distinct categories of causal perception /Cognition/ /203./ https://doi.org/10.1016/j.cognition.2020.104339

@@ -1,0 +1,8 @@
+:properties:
+:id: Responsibility
+:end:
+#+title: Responsibility
+
+*References*
+
+- [[id:Kovacevic2024Responsibility][The importance of epistemic intentions in ascription of responsibility]]

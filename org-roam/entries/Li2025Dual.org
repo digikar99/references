@@ -1,0 +1,6 @@
+:properties:
+:id: Li2025Dual
+:end:
+#+title: Li2025Dual
+
+/Li, Shiqian and Ma, Yuxi and Yan, Jiajun and Dai, Bo and Peng, Yujia and Zhang, Chi and Zhu, Yixin/ (2025). A simulation-heuristics dual-process model for intuitive physics // https://arxiv.org/abs/2504.09546

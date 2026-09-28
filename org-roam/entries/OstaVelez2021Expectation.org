@@ -1,0 +1,6 @@
+:properties:
+:id: OstaVelez2021Expectation
+:end:
+#+title: OstaVelez2021Expectation
+
+/Osta-Vélez, Matías and Gärdenfors, Peter/ (2021). Nonmonotonic Reasoning, Expectations Orderings, and Conceptual Spaces /Journal of Logic, Language and Information/ /31./ https://dx.doi.org/10.1007/s10849-021-09347-6

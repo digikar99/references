@@ -1,0 +1,6 @@
+:properties:
+:id: Rouder2014Hierarchical
+:end:
+#+title: Rouder2014Hierarchical
+
+/Rouder, Jeffrey N and Morey, Richard D and Pratte, Michael S/ (2014). Bayesian hierarchical models /New handbook of mathematical psychology/ /1./

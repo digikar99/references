@@ -1,0 +1,6 @@
+:properties:
+:id: Egan2010Individuation
+:end:
+#+title: Egan2010Individuation
+
+/Egan, Frances/ (2010). Computational models: a modest role for content /Studies in History and Philosophy of Science Part A/ /41./ https://doi.org/10.1016/j.shpsa.2010.07.009

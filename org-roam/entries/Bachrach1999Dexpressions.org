@@ -1,0 +1,6 @@
+:properties:
+:id: Bachrach1999Dexpressions
+:end:
+#+title: Bachrach1999Dexpressions
+
+/Bachrach, Jonathan and Playford, Keith and Street, C/ (1999). D-expressions: Lisp power, Dylan style /Style DeKalb IL/

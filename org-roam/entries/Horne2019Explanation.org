@@ -1,0 +1,6 @@
+:properties:
+:id: Horne2019Explanation
+:end:
+#+title: Horne2019Explanation
+
+/Horne, Zachary and Muradoglu, Melis and Cimpian, Andrei/ (2019). Explanation as a Cognitive Process /Trends in Cognitive Sciences/ /23./ https://doi.org/10.1016/j.tics.2018.12.004

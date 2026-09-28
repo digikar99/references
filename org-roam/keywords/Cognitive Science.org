@@ -1,0 +1,10 @@
+:properties:
+:id: Cognitive Science
+:end:
+#+title: Cognitive Science
+
+*References*
+
+- [[id:Dreyfus2007Heidegger][Why Heideggerian AI Failed and How Fixing It Would Require Making It More Heideggerian]]
+- [[id:Tversky1981Framing][The framing of decisions and the psychology of choice]]
+- [[id:Clark1998Being][Being there: Putting brain, body, and world together again]]

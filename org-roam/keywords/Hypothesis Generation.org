@@ -1,0 +1,8 @@
+:properties:
+:id: Hypothesis Generation
+:end:
+#+title: Hypothesis Generation
+
+*References*
+
+- [[id:Ruggeri2020Hypothesis][How the hypothesis space is represented. Evidence from young children’s active search and predictions in a multiple-cue inference task]]

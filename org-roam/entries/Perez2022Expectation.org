@@ -1,0 +1,6 @@
+:properties:
+:id: Perez2022Expectation
+:end:
+#+title: Perez2022Expectation
+
+/Perez, Jasmin and Feigenson, Lisa/ (2022). Violations of expectation trigger infants to search for explanations /Cognition/ /218./ https://doi.org/10.1016/j.cognition.2021.104942

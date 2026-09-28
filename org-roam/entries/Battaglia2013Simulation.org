@@ -1,0 +1,6 @@
+:properties:
+:id: Battaglia2013Simulation
+:end:
+#+title: Battaglia2013Simulation
+
+/Battaglia, Peter W. and Hamrick, Jessica B. and Tenenbaum, Joshua B./ (2013). Simulation as an engine of physical scene understanding /Proceedings of the National Academy of Sciences/ /110./ https://dx.doi.org/10.1073/pnas.1306572110

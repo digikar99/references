@@ -1,0 +1,6 @@
+:properties:
+:id: Gopnik2022Causal
+:end:
+#+title: Gopnik2022Causal
+
+/Gopnik, Alison/ (2022). Causal Models and Cognitive Development /Probabilistic and Causal Inference/ https://doi.org/10.1145/3501714.3501746

@@ -1,0 +1,8 @@
+:properties:
+:id: Double Prevention
+:end:
+#+title: Double Prevention
+
+*References*
+
+- [[id:Quillien2024Counterfactual][A counterfactual explanation for recency effects in double prevention scenarios: commentary on Thanawala & Erb (2024)]]

@@ -1,0 +1,15 @@
+:properties:
+:id: Language
+:end:
+#+title: Language
+
+*References*
+
+- [[id:Berthet2022Animal][Animal linguistics: a primer]]
+- [[id:Bonawitz2010Do][Just do it? Investigating the gap between prediction and action in toddlers’ causal inferences]]
+- [[id:Boroditsky2011Language][How Language Shapes Thought]]
+- [[id:Lupyan2020Language][Effects of Language on Visual Perception]]
+- [[id:Nedergaard2022Language][Verbal interference paradigms: A systematic review investigating the role of language in cognition]]
+- [[id:Grdenfors2022Teaching][Teaching as evolutionary precursor to language]]
+- [[id:Gardenfors2017Pantomime][Demonstration and Pantomime in the Evolution of Teaching]]
+- [[id:Bickerton2011Scavenging][Confrontational scavenging as a possible source for language and cooperation]]

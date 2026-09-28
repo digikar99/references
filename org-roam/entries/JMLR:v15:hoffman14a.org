@@ -1,0 +1,6 @@
+:properties:
+:id: JMLR:v15:hoffman14a
+:end:
+#+title: JMLR:v15:hoffman14a
+
+/Matthew D. Hoffman and Andrew Gelman/ (2014). The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo /Journal of Machine Learning Research/ /15./ http://jmlr.org/papers/v15/hoffman14a.html

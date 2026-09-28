@@ -1,0 +1,6 @@
+:properties:
+:id: Hernik2015Enduring
+:end:
+#+title: Hernik2015Enduring
+
+/Hernik, Mikołaj and Csibra, Gergely/ (2015). Infants learn enduring functions of novel tools from action demonstrations /Journal of Experimental Child Psychology/ /130./ https://doi.org/10.1016/j.jecp.2014.10.004

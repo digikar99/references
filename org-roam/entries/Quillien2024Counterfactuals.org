@@ -1,0 +1,6 @@
+:properties:
+:id: Quillien2024Counterfactuals
+:end:
+#+title: Quillien2024Counterfactuals
+
+/Quillien, Tadeg and Lucas, Christopher G./ (2024). Counterfactuals and the logic of causal selection. /Psychological Review/ /131./ https://dx.doi.org/10.1037/rev0000428

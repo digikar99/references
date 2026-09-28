@@ -1,0 +1,6 @@
+:properties:
+:id: Gallow2021Variance
+:end:
+#+title: Gallow2021Variance
+
+/Dmitri Gallow, J./ (nil). Model-Variance in Theories of Token Causation //

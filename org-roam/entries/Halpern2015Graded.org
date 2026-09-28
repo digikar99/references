@@ -1,0 +1,6 @@
+:properties:
+:id: Halpern2015Graded
+:end:
+#+title: Halpern2015Graded
+
+/Halpern, Joseph Y. and Hitchcock, Christopher/ (2015). Graded Causation and Defaults /The British Journal for the Philosophy of Science/ /66./ https://dx.doi.org/10.1093/bjps/axt050

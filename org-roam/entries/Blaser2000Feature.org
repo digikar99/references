@@ -1,0 +1,6 @@
+:properties:
+:id: Blaser2000Feature
+:end:
+#+title: Blaser2000Feature
+
+/Blaser, Erik and Pylyshyn, Zenon W. and Holcombe, Alex O./ (2000). Tracking an Object through Feature Space /Nature/ /408./ https://doi.org/10.1038/35041567

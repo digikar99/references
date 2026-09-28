@@ -1,0 +1,6 @@
+:properties:
+:id: Kubricht2017Physics
+:end:
+#+title: Kubricht2017Physics
+
+/Kubricht, James R. and Holyoak, Keith J. and Lu, Hongjing/ (2017). Intuitive Physics: Current Research and Controversies /Trends in Cognitive Sciences/ /21./ https://dx.doi.org/10.1016/j.tics.2017.06.002

@@ -1,0 +1,6 @@
+:properties:
+:id: Rehder2001Abstract
+:end:
+#+title: Rehder2001Abstract
+
+/Rehder, Bob and Ross, Brian H./ (2001). Abstract coherent categories. /Journal of Experimental Psychology: Learning, Memory, and Cognition/ /27./ https://dx.doi.org/10.1037/0278-7393.27.5.1261

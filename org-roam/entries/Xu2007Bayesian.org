@@ -1,0 +1,6 @@
+:properties:
+:id: Xu2007Bayesian
+:end:
+#+title: Xu2007Bayesian
+
+/Xu, Fei and Tenenbaum, Joshua B./ (2007). Word learning as Bayesian inference. /Psychological Review/ /114./ https://doi.org/10.1037/0033-295X.114.2.245

@@ -1,0 +1,6 @@
+:properties:
+:id: Sobel2014Causal
+:end:
+#+title: Sobel2014Causal
+
+/Sobel, David M. and Legare, Cristine H./ (2014). Causal learning in children /WIREs Cognitive Science/ /5./ https://doi.org/10.1002/wcs.1291

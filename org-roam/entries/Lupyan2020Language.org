@@ -1,0 +1,6 @@
+:properties:
+:id: Lupyan2020Language
+:end:
+#+title: Lupyan2020Language
+
+/Lupyan,  Gary and Abdel Rahman,  Rasha and Boroditsky,  Lera and Clark,  Andy/ (2020). Effects of Language on Visual Perception /Trends in Cognitive Sciences/ /24./ https://doi.org/10.1016/j.tics.2020.08.005

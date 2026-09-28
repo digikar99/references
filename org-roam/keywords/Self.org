@@ -1,0 +1,8 @@
+:properties:
+:id: Self
+:end:
+#+title: Self
+
+*References*
+
+- [[id:wittmann-2015-self-and-time][Modulations of the Experience of Self and Time]]

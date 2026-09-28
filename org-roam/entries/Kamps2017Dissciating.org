@@ -1,0 +1,6 @@
+:properties:
+:id: Kamps2017Dissciating
+:end:
+#+title: Kamps2017Dissciating
+
+/Kamps, Frederik S. and Julian, Joshua B. and Battaglia, Peter and Landau, Barbara and Kanwisher, Nancy and Dilks, Daniel D./ (2017). Dissociating intuitive physics from intuitive psychology: Evidence from Williams syndrome /Cognition/ /168./ https://doi.org/10.1016/j.cognition.2017.06.027

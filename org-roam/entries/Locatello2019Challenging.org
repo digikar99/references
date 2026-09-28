@@ -1,0 +1,6 @@
+:properties:
+:id: Locatello2019Challenging
+:end:
+#+title: Locatello2019Challenging
+
+/Locatello, Francesco and Bauer, Stefan and Lucic, Mario and Raetsch, Gunnar and Gelly, Sylvain and Schölkopf, Bernhard and Bachem, Olivier/ (2019). Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations /Proceedings of the 36th International Conference on Machine Learning/ /97./ https://proceedings.mlr.press/v97/locatello19a.html

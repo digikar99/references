@@ -1,0 +1,6 @@
+:properties:
+:id: Heck2023Bayes
+:end:
+#+title: Heck2023Bayes
+
+/Heck, Daniel W. and Boehm, Udo and Böing-Messing, Florian and Bürkner, Paul-Christian and Derks, Koen and Dienes, Zoltan and Fu, Qianrao and Gu, Xin and Karimova, Diana and Kiers, Henk A. L. and Klugkist, Irene and Kuiper, Rebecca M. and Lee, Michael D. and Leenders, Roger and Leplaa, Hidde J. and Linde, Maximilian and Ly, Alexander and Meijerink-Bosman, Marlyne and Moerbeek, Mirjam and Mulder, Joris and Palfi, Bence and Schönbrodt, Felix D. and Tendeiro, Jorge N. and van den Bergh, Don and Van Lissa, Caspar J. and van Ravenzwaaij, Don and Vanpaemel, Wolf and Wagenmakers, Eric-Jan and Williams, Donald R. and Zondervan-Zwijnenburg, Mariëlle and Hoijtink, Herbert/ (2023). A review of applications of the Bayes factor in psychological research. /Psychological Methods/ /28./ https://dx.doi.org/10.1037/met0000454

@@ -1,0 +1,8 @@
+:properties:
+:id: Intuitive Theories
+:end:
+#+title: Intuitive Theories
+
+*References*
+
+- [[id:Gerstenberg2017Intuitive][Intuitive Theories]]

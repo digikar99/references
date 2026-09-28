@@ -1,0 +1,6 @@
+:properties:
+:id: Revencu2024Shapes
+:end:
+#+title: Revencu2024Shapes
+
+/Revencu, Barbu and Pomiechowska, Barbara and Brody, Gabor and Csibra, Gergely/ (2024). Fifteen-month-olds accept arbitrary shapes as symbols of familiar kind tokens /Proceedings of the Annual Meeting of the Cognitive Science Society/ /46./

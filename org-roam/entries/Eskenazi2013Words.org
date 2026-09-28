@@ -1,0 +1,6 @@
+:properties:
+:id: Eskenazi2013Words
+:end:
+#+title: Eskenazi2013Words
+
+/Eskenazi,  Terry and Doerrfeld,  Adam and Logan,  Gordon D. and Knoblich,  Guenther and Sebanz,  Natalie/ (2013). Your words are my words: Effects of acting together on encoding /Quarterly Journal of Experimental Psychology/ /66./ https://doi.org/10.1080/17470218.2012.725058

@@ -1,0 +1,6 @@
+:properties:
+:id: Sprenger2018Strength
+:end:
+#+title: Sprenger2018Strength
+
+/Sprenger, Jan/ (2018). Foundations of a probabilistic theory of causal strength /Philosophical Review/ /127./

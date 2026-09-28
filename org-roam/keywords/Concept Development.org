@@ -1,0 +1,8 @@
+:properties:
+:id: Concept Development
+:end:
+#+title: Concept Development
+
+*References*
+
+- [[id:Sloutsky2010Develop][From Perceptual Categories to Concepts: What Develops?]]

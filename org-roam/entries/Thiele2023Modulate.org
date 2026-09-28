@@ -1,0 +1,6 @@
+:properties:
+:id: Thiele2023Modulate
+:end:
+#+title: Thiele2023Modulate
+
+/Thiele, Maleen and Kalinke, Steven and Michel, Christine and Haun, Daniel B. M./ (2023). Direct and Observed Joint Attention Modulate 9-Month-Old Infants’ Object Encoding /Open Mind/ /7./ https://doi.org/10.1162/opmi_a_00114

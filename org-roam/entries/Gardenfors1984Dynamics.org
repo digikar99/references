@@ -1,0 +1,6 @@
+:properties:
+:id: Gardenfors1984Dynamics
+:end:
+#+title: Gardenfors1984Dynamics
+
+/Gärdenfors, Peter/ (1984). The Dynamics of Belief as a Basis for Logic /The British Journal for the Philosophy of Science/ /35./ https://dx.doi.org/10.1093/bjps/35.1.1

@@ -1,0 +1,11 @@
+:properties:
+:id: Review
+:end:
+#+title: Review
+
+*References*
+
+- [[id:Anderson2011Attention][There is no Such Thing as Attention]]
+- [[id:Bibal2022][Is Attention Explanation? An Introduction to the Debate]]
+- [[id:Hommel2019Attention][No one knows what attention is]]
+- [[id:Lindsay2020Attention][Attention in Psychology, Neuroscience, and Machine Learning]]

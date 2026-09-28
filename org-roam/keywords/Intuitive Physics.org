@@ -1,0 +1,29 @@
+:properties:
+:id: Intuitive Physics
+:end:
+#+title: Intuitive Physics
+
+*References*
+
+- [[id:Davis2016Limits][The scope and limits of simulation in automated reasoning]]
+- [[id:Gerstenberg2021Physical][A counterfactual simulation model of causal judgments for physical events.]]
+- [[id:LudwinPeery2021Simulation][Limits on simulation approaches in intuitive physics]]
+- [[id:Ullman2017Games][Mind Games: Game Engines as an Architecture for Intuitive Physics]]
+- [[id:Gerstenberg2020Expectations][Expectations affect physical causation judgments.]]
+- [[id:Battaglia2013Simulation][Simulation as an engine of physical scene understanding]]
+- [[id:Ullman2015Thesis][On the nature and origin of intuitive theories: learning, physics and psychology]]
+- [[id:Bonawitz2012Balance][Children balance theories and evidence in exploration, explanation, and learning]]
+- [[id:Carroll2015Inverse][Evaluating the inverse reasoning account of object discovery]]
+- [[id:Ullman2018Parameters][Learning physical parameters from dynamic scenes]]
+- [[id:Kubricht2017Physics][Intuitive Physics: Current Research and Controversies]]
+- [[id:Smith2024Intuitive][Intuitive Physics as Probabilistic Inference]]
+- [[id:Mitko2020Relationship][When it all falls down: the relationship between intuitive physics and spatial cognition]]
+- [[id:Wilkening2010Intuitive][Children's Intuitive Physics]]
+- [[id:Balaban2025Dichotomy][Physics versus graphics as an organizing dichotomy in cognition]]
+- [[id:Xu2021Bayesian][A bayesian-symbolic approach to reasoning and learning in intuitive physics]]
+- [[id:Smith2013Uncertainty][Sources of Uncertainty in Intuitive Physics]]
+- [[id:Chen2023just]["Just In Time" Representations for Mental Simulation in Intuitive Physics]]
+- [[id:Sanborn2013Newtonian][Reconciling intuitive physics and Newtonian mechanics for colliding objects.]]
+- [[id:Kaiser1986Physics][Intuitive reasoning about abstract and familiar physics problems]]
+- [[id:diSessa1993Physics][Toward an Epistemology of Physics]]
+- [[id:Hubbard2010Momentum][Approaches to representational momentum: Theories and models]]

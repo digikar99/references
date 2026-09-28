@@ -1,0 +1,6 @@
+:properties:
+:id: Mcdonald2022Thesis
+:end:
+#+title: Mcdonald2022Thesis
+
+/Jennifer Mcdonald/ (2022). Actual Causation: Apt Causal Models and Causal Relativism // https://philpapers.org/rec/MCDACA-4

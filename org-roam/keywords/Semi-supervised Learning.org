@@ -1,0 +1,8 @@
+:properties:
+:id: Semi-supervised Learning
+:end:
+#+title: Semi-supervised Learning
+
+*References*
+
+- [[id:Kemp2003Semisupervised][Semi-Supervised Learning with Trees]]

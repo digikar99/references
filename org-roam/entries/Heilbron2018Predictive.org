@@ -1,0 +1,6 @@
+:properties:
+:id: Heilbron2018Predictive
+:end:
+#+title: Heilbron2018Predictive
+
+/Heilbron, Micha and Chait, Maria/ (2018). Great Expectations: Is there Evidence for Predictive Coding in Auditory Cortex? /Neuroscience/ /389./ https://dx.doi.org/10.1016/j.neuroscience.2017.07.061

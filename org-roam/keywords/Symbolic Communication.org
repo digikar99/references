@@ -1,0 +1,11 @@
+:properties:
+:id: Symbolic Communication
+:end:
+#+title: Symbolic Communication
+
+*References*
+
+- [[id:DeLoache1995Symbols][Early Understanding and Use of Symbols: The Model Model]]
+- [[id:DeLoache2004Symbol][Becoming symbol-minded]]
+- [[id:Revencu2024Shapes][Fifteen-month-olds accept arbitrary shapes as symbols of familiar kind tokens]]
+- [[id:WinklerRhoades2013Children][Two‐year‐old children interpret abstract, purely geometric maps]]

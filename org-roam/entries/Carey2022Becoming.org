@@ -1,0 +1,6 @@
+:properties:
+:id: Carey2022Becoming
+:end:
+#+title: Carey2022Becoming
+
+/Carey, Susan E./ (2022). Becoming a Cognitive Scientist /Annual Review of Developmental Psychology/ /4./ https://dx.doi.org/10.1146/annurev-devpsych-040622-091723

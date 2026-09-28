@@ -1,0 +1,6 @@
+:properties:
+:id: Kieslich2019Mouse
+:end:
+#+title: Kieslich2019Mouse
+
+/Kieslich, Pascal J and Henninger, Felix and Wulff, Dirk U and Haslbeck, Jonas MB and Schulte-Mecklenbeck, Michael/ (2019). Mouse-tracking: A practical guide to implementation and analysis 1 /A handbook of process tracing methods/

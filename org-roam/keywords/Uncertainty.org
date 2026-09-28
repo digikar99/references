@@ -1,0 +1,8 @@
+:properties:
+:id: Uncertainty
+:end:
+#+title: Uncertainty
+
+*References*
+
+- [[id:Gardenfors1984Dynamics][The Dynamics of Belief as a Basis for Logic]]

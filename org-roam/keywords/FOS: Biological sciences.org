@@ -1,0 +1,11 @@
+:properties:
+:id: FOS: Biological sciences
+:end:
+#+title: FOS: Biological sciences
+
+*References*
+
+- [[id:Straub2024Inverse][Inverse decision-making using neural amortized Bayesian actors]]
+- [[id:Straub2024Inverse][Inverse decision-making using neural amortized Bayesian actors]]
+- [[id:Bakermans2025Compositional][Compositional meta-learning through probabilistic task inference]]
+- [[id:Bakermans2025Compositional][Compositional meta-learning through probabilistic task inference]]

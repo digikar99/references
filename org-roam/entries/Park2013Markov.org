@@ -1,0 +1,6 @@
+:properties:
+:id: Park2013Markov
+:end:
+#+title: Park2013Markov
+
+/Park, Juhwa and Sloman, Steven A./ (2013). Mechanistic beliefs determine adherence to the Markov property in causal reasoning /Cognitive Psychology/ /67./ https://doi.org/10.1016/j.cogpsych.2013.09.002

@@ -1,0 +1,6 @@
+:properties:
+:id: Friston2021Model
+:end:
+#+title: Friston2021Model
+
+/Friston, Karl and Moran, Rosalyn J. and Nagai, Yukie and Taniguchi, Tadahiro and Gomi, Hiroaki and Tenenbaum, Josh/ (2021). World model learning and inference /Neural Networks/ /144./ https://doi.org/10.1016/j.neunet.2021.09.011

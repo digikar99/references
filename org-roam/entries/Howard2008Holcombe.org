@@ -1,0 +1,6 @@
+:properties:
+:id: Howard2008Holcombe
+:end:
+#+title: Howard2008Holcombe
+
+/Howard, Christina J. and Holcombe, Alex O./ (2008). Tracking the Changing Features of Multiple Objects: Progressively Poorer Perceptual Precision and Progressively Greater Perceptual Lag /Vision Research/ /48./ https://doi.org/10.1016/j.visres.2008.01.023

@@ -1,0 +1,6 @@
+:properties:
+:id: Wang2022Causal
+:end:
+#+title: Wang2022Causal
+
+/Wang, Wenjie and Lin, Xinyu and Feng, Fuli and He, Xiangnan and Lin, Min and Chua, Tat-Seng/ (2022). Causal Representation Learning for Out-of-Distribution Recommendation /Proceedings of the ACM Web Conference 2022/ https://doi.org/10.1145/3485447.3512251

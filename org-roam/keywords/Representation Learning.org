@@ -1,0 +1,12 @@
+:properties:
+:id: Representation Learning
+:end:
+#+title: Representation Learning
+
+*References*
+
+- [[id:Brehmer2022Weakly][Weakly supervised causal representation learning]]
+- [[id:Liu2022Visual][Causal Reasoning Meets Visual Representation Learning: A Prospective Study]]
+- [[id:Scholkopf2021Causal][Toward Causal Representation Learning]]
+- [[id:Schott2021Visual][Visual representation learning does not generalize strongly within the same domain]]
+- [[id:Wang2022Causal][Causal Representation Learning for Out-of-Distribution Recommendation]]

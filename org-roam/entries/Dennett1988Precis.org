@@ -1,0 +1,6 @@
+:properties:
+:id: Dennett1988Precis
+:end:
+#+title: Dennett1988Precis
+
+/Dennett, Daniel C./ (1988). Précis of The Intentional Stance /Behavioral and Brain Sciences/ /11./ https://doi.org/10.1017/S0140525X00058611

@@ -1,0 +1,23 @@
+:properties:
+:id: Linguistics
+:end:
+#+title: Linguistics
+
+*References*
+
+- [[id:Ammon1984Causal][Causal Understanding and Expression in the Preschool Years]]
+- [[id:Perruchet2018Chunks][What Mechanisms Underlie Implicit Statistical Learning? Transitional Probabilities Versus Chunks in Language Learning]]
+- [[id:Beller2020Causation][The language of causation]]
+- [[id:Berthet2022Animal][Animal linguistics: a primer]]
+- [[id:Casasola2000Infants][Infants' association of linguistic labels with causal actions.]]
+- [[id:Saffran1996Statistical][Statistical Learning by 8-Month-Old Infants]]
+- [[id:Copley2015Causation][Causation in Grammatical Structures]]
+- [[id:Dautriche2022Compositionality][Evidence for compositionality in baboons (Papio papio) through the test case of negation]]
+- [[id:Jusczyk1995Words][Infants′ Detection of the Sound Patterns of Words in Fluent Speech]]
+- [[id:Kuperberg2016PredLang][What do we mean by prediction in language comprehension?]]
+- [[id:Mussavifard2023Ostensive][Ostensive Marking as a Distinctive Feature of Human Communication]]
+- [[id:Naigles1993First][First Contact in Verb Acquisition: Defining a Role for Syntax]]
+- [[id:Winawer2007Color][Russian blues reveal effects of language on color discrimination]]
+- [[id:Fedorenko2024Language][Language is primarily a tool for communication rather than thought]]
+- [[id:Gardenforsa2024Event][Event structure, force dynamics and verb semantics]]
+- [[id:Arehalli2021Filler][Experimental filler design influences error correction rates in a word restoration paradigm]]

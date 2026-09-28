@@ -1,0 +1,6 @@
+:properties:
+:id: Series2013Expect
+:end:
+#+title: Series2013Expect
+
+/Seriès, Peggy and Seitz, Aaron R./ (2013). Learning what to expect (in visual perception) /Frontiers in Human Neuroscience/ /7./ https://dx.doi.org/10.3389/fnhum.2013.00668

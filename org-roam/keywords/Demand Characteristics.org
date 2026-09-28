@@ -1,0 +1,9 @@
+:properties:
+:id: Demand Characteristics
+:end:
+#+title: Demand Characteristics
+
+*References*
+
+- [[id:Nichols2008Good][The Good-Subject Effect: Investigating Participant Demand Characteristics]]
+- [[id:Orne1996Demand][Demand Characteristics]]

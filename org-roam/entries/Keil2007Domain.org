@@ -1,0 +1,6 @@
+:properties:
+:id: Keil2007Domain
+:end:
+#+title: Keil2007Domain
+
+/Keil, Frank C./ (2007). Biology and Beyond: Domain Specificity in a Broader Developmental Context /Human Development/ /50./ https://doi.org/10.1159/000097682

@@ -1,0 +1,37 @@
+:properties:
+:id: Psychology
+:end:
+#+title: Psychology
+
+*References*
+
+- [[id:Butlin2023Consciousness][Consciousness in Artificial Intelligence: Insights from the Science of Consciousness]]
+- [[id:Lindsay2020Attention][Attention in Psychology, Neuroscience, and Machine Learning]]
+- [[id:Shadish2012Causation][Theories of causation in psychological science]]
+- [[id:Tversky1981Framing][The framing of decisions and the psychology of choice]]
+- [[id:Daw2011Model][Model-Based Influences on Humans’ Choices and Striatal Prediction Errors]]
+- [[id:Glascher2010Model][States versus Rewards: Dissociable Neural Prediction Error Signals Underlying Model-Based and Model-Free Reinforcement Learning]]
+- [[id:Nichols2008Good][The Good-Subject Effect: Investigating Participant Demand Characteristics]]
+- [[id:Orne1996Demand][Demand Characteristics]]
+- [[id:Schmidt2011Priming][Dos and don’ts in response priming research]]
+- [[id:Jenkins1965Contingency][Judgment of contingency between responses and outcomes.]]
+- [[id:Perales2007Review][Models of covariation-based causal judgment: A review and synthesis]]
+- [[id:Mercier2011Humans][Why do humans reason? Arguments for an argumentative theory]]
+- [[id:Waldmann2017Reasoning][The Oxford Handbook of Causal Reasoning]]
+- [[id:Erb2025Together][Process and dependency are better together: A reply to Quillien et al. (2025]]
+- [[id:Gershman2018Never][How to never be wrong]]
+- [[id:Mandelbaum2018Troubles][Troubles with Bayesianism: An introduction to the psychological immune system]]
+- [[id:Kaiser1986Physics][Intuitive reasoning about abstract and familiar physics problems]]
+- [[id:diSessa1993Physics][Toward an Epistemology of Physics]]
+- [[id:Hubbard2010Momentum][Approaches to representational momentum: Theories and models]]
+- [[id:Ratcliff1998TwoChoice][Modeling Response Times for Two-Choice Decisions]]
+- [[id:Vandekerckhove2007Diffusion][Fitting the ratcliff diffusion model to experimental data]]
+- [[id:Vandekerckhove2011Diffusion][Hierarchical diffusion models for two-choice response times.]]
+- [[id:Toepoel2018Formats][Sliders, visual analogue scales, or buttons: Influence of formats and scales in mobile and desktop surveys]]
+- [[id:Funke2015Negative][A Web Experiment Showing Negative Effects of Slider Scales Compared to Visual Analogue Scales and Radio Button Scales]]
+- [[id:Kuhlmann2017Measurement][Investigating measurement equivalence of visual analogue scales and Likert-type scales in Internet-based personality questionnaires]]
+- [[id:Gullickson1997Survey][Review of Thinking About Answers: The Application of Cognitive Processes to Survey Methodology.]]
+- [[id:Liu2018Default][Where Should I Start? On Default Values for Slider Questions in Web Surveys]]
+- [[id:Maineri2019Slider][Slider Bars in Multi-Device Web Surveys]]
+- [[id:Krosnick1991Satisficing][Response strategies for coping with the cognitive demands of attitude measures in surveys]]
+- [[id:Podsakoff2024][Common Method Bias: It’s Bad, It’s Complex, It’s Widespread, and It’s Not Easy to Fix]]

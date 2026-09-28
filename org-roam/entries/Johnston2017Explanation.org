@@ -1,0 +1,6 @@
+:properties:
+:id: Johnston2017Explanation
+:end:
+#+title: Johnston2017Explanation
+
+/Johnston, Angie M. and Sheskin, Mark and Johnson, Samuel G. B. and Keil, Frank C./ (2017). Preferences for Explanation Generality Develop Early in Biology But Not Physics /Child Development/ /89./ https://doi.org/10.1111/cdev.12804

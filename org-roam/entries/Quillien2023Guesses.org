@@ -1,0 +1,6 @@
+:properties:
+:id: Quillien2023Guesses
+:end:
+#+title: Quillien2023Guesses
+
+/Quillien, Tadeg and Bramley, Neil and Lucas, Christopher/ (nil). Guesses as compressed probability distributions // https://osf.io/preprints/psyarxiv/gy2fv/download

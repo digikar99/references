@@ -1,0 +1,25 @@
+:properties:
+:id: Social Cognition
+:end:
+#+title: Social Cognition
+
+*References*
+
+- [[id:Csibra2006Social][Social learning and social cognition: The case for pedagogy]]
+- [[id:Jaswal2010Trust][Young Children Have a Specific, Highly Robust Bias to Trust Testimony]]
+- [[id:Atzil2018Social][Growing a social brain]]
+- [[id:Csibra2009Natural][Natural pedagogy]]
+- [[id:Forgcs2018Comprehension][Fourteen-month-old infants track the language comprehension of communicative partners]]
+- [[id:Kiraly2023Attributed][Can 18-Month-Olds Revise Attributed Beliefs?]]
+- [[id:Kovacs2021Attributed][Can infants adopt underspecified contents into attributed beliefs? Representational prerequisites of theory of mind]]
+- [[id:Lockwood2020Social][Is There a ‘Social’ Brain? Implementations and Algorithms]]
+- [[id:Epstein2024Ontology][Social Ontology]]
+- [[id:Liebal2012Common][Young children’s understanding of cultural common ground]]
+- [[id:Lakoff1987Dangerous][Women, fire and dangerous things]]
+- [[id:Burdett2018Interaction][The interaction of social and perceivable causal factors in shaping ‘over-imitation’]]
+- [[id:Stephenson2021Shared][From Gaze Perception to Social Cognition: The Shared-Attention System
+]]
+- [[id:Tomasello2016Redux][Cultural Learning Redux]]
+- [[id:Barrett2004Children][Children’s Understanding of Society]]
+- [[id:Webley2004Economics][Children’s Understanding of Economics]]
+- [[id:Wentura2014Priming][Priming is not Priming is not Priming]]

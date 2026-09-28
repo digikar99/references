@@ -1,0 +1,6 @@
+:properties:
+:id: Bonawitz2024Bayesian
+:end:
+#+title: Bonawitz2024Bayesian
+
+/Bonawitz, Elizabeth and Ullman, Tomer/ (2024). Bayesian models of cognitive development /Bayesian Models of Cognition: Reverse Engineering the Mind/

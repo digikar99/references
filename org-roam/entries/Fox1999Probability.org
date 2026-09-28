@@ -1,0 +1,6 @@
+:properties:
+:id: Fox1999Probability
+:end:
+#+title: Fox1999Probability
+
+/Fox, Craig R./ (1999). Strength of Evidence, Judged Probability, and Choice Under Uncertainty /Cognitive Psychology/ /38./ https://dx.doi.org/10.1006/cogp.1998.0711

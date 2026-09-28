@@ -1,0 +1,6 @@
+:properties:
+:id: Schulz2007Fun
+:end:
+#+title: Schulz2007Fun
+
+/Schulz, Laura E. and Bonawitz, Elizabeth Baraff/ (2007). Serious fun: Preschoolers engage in more exploratory play when evidence is confounded. /Developmental Psychology/ /43./ https://doi.org/10.1037/0012-1649.43.4.1045

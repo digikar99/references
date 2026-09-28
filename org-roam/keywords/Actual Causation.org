@@ -1,0 +1,11 @@
+:properties:
+:id: Actual Causation
+:end:
+#+title: Actual Causation
+
+*References*
+
+- [[id:Morris2018Judgments][Judgments of actual causation approximate the effectiveness of interventions]]
+- [[id:Quillien2020Cause][When do we think that X caused Y?]]
+- [[id:Kominsky2025Actual][Actual Norm Violations]]
+- [[id:Glymour2009Soup][Actual causation: a stone soup essay]]

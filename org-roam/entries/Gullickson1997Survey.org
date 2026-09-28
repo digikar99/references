@@ -1,0 +1,6 @@
+:properties:
+:id: Gullickson1997Survey
+:end:
+#+title: Gullickson1997Survey
+
+/Gullickson, Terri/ (1997). Review of Thinking About Answers: The Application of Cognitive Processes to Survey Methodology. /Contemporary Psychology: A Journal of Reviews/ /42./ https://dx.doi.org/10.1037/000266

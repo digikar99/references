@@ -1,0 +1,8 @@
+:properties:
+:id: Robotics
+:end:
+#+title: Robotics
+
+*References*
+
+- [[id:Wheeler2008Context][Cognition in Context: Phenomenology, Situated Robotics and the Frame Problem]]

@@ -1,0 +1,8 @@
+:properties:
+:id: Relevant Theory
+:end:
+#+title: Relevant Theory
+
+*References*
+
+- [[id:Sperber1995Selection][Relevance theory explains the selection task]]

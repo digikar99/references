@@ -1,0 +1,6 @@
+:properties:
+:id: Chater2006Probabilistic
+:end:
+#+title: Chater2006Probabilistic
+
+/Chater, Nick and Tenenbaum, Joshua B. and Yuille, Alan/ (2006). Probabilistic models of cognition: Conceptual foundations /Trends in Cognitive Sciences/ /10./ https://doi.org/10.1016/j.tics.2006.05.007

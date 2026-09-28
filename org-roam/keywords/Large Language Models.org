@@ -1,0 +1,8 @@
+:properties:
+:id: Large Language Models
+:end:
+#+title: Large Language Models
+
+*References*
+
+- [[id:Gendron2024Counterfactual][Counterfactual Causal Inference in Natural Language with Large Language Models]]

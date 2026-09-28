@@ -1,0 +1,6 @@
+:properties:
+:id: Tauzin2019Variability
+:end:
+#+title: Tauzin2019Variability
+
+/Tauzin,  Tibor and Gergely,  Gy\"orgy/ (2019). Variability of signal sequences in turn-taking exchanges induces agency attribution in 10.5-mo-olds /Proceedings of the National Academy of Sciences/ /116./ https://doi.org/10.1073/pnas.1816709116

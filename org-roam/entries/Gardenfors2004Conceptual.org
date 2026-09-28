@@ -1,0 +1,6 @@
+:properties:
+:id: Gardenfors2004Conceptual
+:end:
+#+title: Gardenfors2004Conceptual
+
+/Gardenfors, Peter/ (2004). Conceptual spaces: The geometry of thought //

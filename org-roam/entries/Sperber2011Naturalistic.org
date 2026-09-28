@@ -1,0 +1,6 @@
+:properties:
+:id: Sperber2011Naturalistic
+:end:
+#+title: Sperber2011Naturalistic
+
+/Sperber, Dan/ (2011). A naturalistic ontology for mechanistic explanations in the social sciences /Analytical Sociology and Social Mechanisms/

@@ -1,0 +1,6 @@
+:properties:
+:id: Carpenter2013Joint
+:end:
+#+title: Carpenter2013Joint
+
+/Carpenter, Malinda and Call, Josep/ (2013). How Joint Is the Joint Attention of Apes and Human Infants? /Agency and Joint Attention/ https://doi.org/10.1093/acprof:oso/9780199988341.003.0003

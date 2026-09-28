@@ -1,0 +1,8 @@
+:properties:
+:id: Number Cognition
+:end:
+#+title: Number Cognition
+
+*References*
+
+- [[id:Dehaene2025Origins][Origins of numbers: a shared language-of-thought for arithmetic and geometry?]]

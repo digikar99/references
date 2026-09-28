@@ -1,0 +1,6 @@
+:properties:
+:id: Farrell2018Book
+:end:
+#+title: Farrell2018Book
+
+/Farrell, Simon and Lewandowsky, Stephan/ (2018). Computational Modeling of Cognition and Behavior // https://doi.org/10.1017/CBO9781316272503

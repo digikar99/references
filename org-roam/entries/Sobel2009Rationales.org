@@ -1,0 +1,6 @@
+:properties:
+:id: Sobel2009Rationales
+:end:
+#+title: Sobel2009Rationales
+
+/Sobel, David M. and Sommerville, Jessica A./ (2009). Rationales in children’s causal learning from others’ actions /Cognitive Development/ /24./ https://doi.org/10.1016/j.cogdev.2008.08.003

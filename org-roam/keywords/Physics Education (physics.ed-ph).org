@@ -1,0 +1,8 @@
+:properties:
+:id: Physics Education (physics.ed-ph)
+:end:
+#+title: Physics Education (physics.ed-ph)
+
+*References*
+
+- [[id:Li2025Dual][A simulation-heuristics dual-process model for intuitive physics]]

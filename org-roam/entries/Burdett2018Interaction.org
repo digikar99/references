@@ -1,0 +1,6 @@
+:properties:
+:id: Burdett2018Interaction
+:end:
+#+title: Burdett2018Interaction
+
+/Burdett, Emily R.R. and McGuigan, Nicola and Harrison, Rachel and Whiten, Andrew/ (2018). The interaction of social and perceivable causal factors in shaping ‘over-imitation’ /Cognitive Development/ /47./ https://dx.doi.org/10.1016/j.cogdev.2018.02.001

@@ -1,0 +1,6 @@
+:properties:
+:id: Woodward1998Goal
+:end:
+#+title: Woodward1998Goal
+
+/Woodward, A/ (1998). Infants selectively encode the goal object of an actor’s reach /Cognition/ /69./ https://doi.org/10.1016/S0010-0277(98)00058-4

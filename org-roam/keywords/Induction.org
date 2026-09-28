@@ -1,0 +1,10 @@
+:properties:
+:id: Induction
+:end:
+#+title: Induction
+
+*References*
+
+- [[id:Griffiths2007Causal][Two Proposals for Causal Grammars]]
+- [[id:Heit2000Inductive][Properties of inductive reasoning]]
+- [[id:Tenenbaum2007Intuitive][Intuitive theories as grammars for causal inference]]

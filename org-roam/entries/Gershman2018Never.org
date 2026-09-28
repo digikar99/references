@@ -1,0 +1,6 @@
+:properties:
+:id: Gershman2018Never
+:end:
+#+title: Gershman2018Never
+
+/Gershman, Samuel J./ (2018). How to never be wrong /Psychonomic Bulletin \& Review/ /26./ https://dx.doi.org/10.3758/s13423-018-1488-8

@@ -1,0 +1,10 @@
+:properties:
+:id: Force Perception
+:end:
+#+title: Force Perception
+
+*References*
+
+- [[id:Wolff2015Forces][Causal reasoning with forces]]
+- [[id:Wolff2007Causation][Representing Causation]]
+- [[id:White2012Causal][Visual Impressions of Pushing and Pulling: The object perceived as causal is not always the one that moves first]]

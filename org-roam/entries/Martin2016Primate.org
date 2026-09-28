@@ -1,0 +1,6 @@
+:properties:
+:id: Martin2016Primate
+:end:
+#+title: Martin2016Primate
+
+/Martin, Alia and Santos, Laurie R./ (2016). What Cognitive Representations Support Primate Theory of Mind? /Trends in Cognitive Sciences/ /20./ https://doi.org/10.1016/j.tics.2016.03.005

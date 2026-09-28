@@ -1,0 +1,6 @@
+:properties:
+:id: Gardenforsa2024Event
+:end:
+#+title: Gardenforsa2024Event
+
+/Gärdenfors, Peter/ (2024). Event structure, force dynamics and verb semantics /Language Sciences/ /102./ https://dx.doi.org/10.1016/j.langsci.2023.101610

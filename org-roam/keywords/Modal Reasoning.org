@@ -1,0 +1,8 @@
+:properties:
+:id: Modal Reasoning
+:end:
+#+title: Modal Reasoning
+
+*References*
+
+- [[id:Hu2025Inconceivability][Shades of zero: Distinguishing impossibility from inconceivability]]

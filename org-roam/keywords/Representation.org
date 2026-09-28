@@ -1,0 +1,11 @@
+:properties:
+:id: Representation
+:end:
+#+title: Representation
+
+*References*
+
+- [[id:Shea2018Representation][Representation in Cognitive Science]]
+- [[id:Fiddick2000Representation][No interpretation without representation: the role of domain-specific representations and inferences in the Wason selection task]]
+- [[id:Clark1994Doing][Doing without representing?]]
+- [[id:Saigusa2008Amoebae][Amoebae Anticipate Periodic Events]]

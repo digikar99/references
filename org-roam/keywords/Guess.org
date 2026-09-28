@@ -1,0 +1,8 @@
+:properties:
+:id: Guess
+:end:
+#+title: Guess
+
+*References*
+
+- [[id:Quillien2023Guesses][Guesses as compressed probability distributions]]

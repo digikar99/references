@@ -1,0 +1,8 @@
+:properties:
+:id: Recommender System
+:end:
+#+title: Recommender System
+
+*References*
+
+- [[id:Wang2022Causal][Causal Representation Learning for Out-of-Distribution Recommendation]]

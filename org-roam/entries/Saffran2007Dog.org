@@ -1,0 +1,6 @@
+:properties:
+:id: Saffran2007Dog
+:end:
+#+title: Saffran2007Dog
+
+/Saffran, Jenny R. and Pollak, Seth D. and Seibel, Rebecca L. and Shkolnik, Anna/ (2007). Dog is a dog is a dog: Infant rule learning is not specific to language /Cognition/ /105./ https://dx.doi.org/10.1016/j.cognition.2006.11.004

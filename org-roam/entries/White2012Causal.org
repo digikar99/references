@@ -1,0 +1,6 @@
+:properties:
+:id: White2012Causal
+:end:
+#+title: White2012Causal
+
+/White, Peter A/ (2012). Visual Impressions of Pushing and Pulling: The object perceived as causal is not always the one that moves first /Perception/ /41./ https://dx.doi.org/10.1068/p7263

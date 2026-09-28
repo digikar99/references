@@ -1,0 +1,9 @@
+:properties:
+:id: Recognition Models
+:end:
+#+title: Recognition Models
+
+*References*
+
+- [[id:Dayan1995Helmholtz][The Helmholtz Machine]]
+- [[id:Hinton1993Autoencoders][Autoencoders, Minimum Description Length and Helmholtz Free Energy]]

@@ -1,0 +1,6 @@
+:properties:
+:id: Perruchet2018Chunks
+:end:
+#+title: Perruchet2018Chunks
+
+/Perruchet, Pierre/ (2018). What Mechanisms Underlie Implicit Statistical Learning? Transitional Probabilities Versus Chunks in Language Learning /Topics in Cognitive Science/ /11./ https://doi.org/10.1111/tops.12403

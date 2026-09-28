@@ -1,0 +1,6 @@
+:properties:
+:id: Mahr2017Remember
+:end:
+#+title: Mahr2017Remember
+
+/Mahr, Johannes B. and Csibra, Gergely/ (2017). Why do we remember? The communicative function of episodic memory /Behavioral and Brain Sciences/ /41./ https://doi.org/10.1017/S0140525X17000012

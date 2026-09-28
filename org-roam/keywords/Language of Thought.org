@@ -1,0 +1,9 @@
+:properties:
+:id: Language of Thought
+:end:
+#+title: Language of Thought
+
+*References*
+
+- [[id:Fodor1985Modularity][Précis of The Modularity of Mind]]
+- [[id:Dehaene2025Origins][Origins of numbers: a shared language-of-thought for arithmetic and geometry?]]

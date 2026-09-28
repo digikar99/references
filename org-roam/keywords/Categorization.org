@@ -1,0 +1,10 @@
+:properties:
+:id: Categorization
+:end:
+#+title: Categorization
+
+*References*
+
+- [[id:Osherson1990Category][Category-based induction.]]
+- [[id:Rehder2001Abstract][Abstract coherent categories.]]
+- [[id:Sloutsky2010Develop][From Perceptual Categories to Concepts: What Develops?]]

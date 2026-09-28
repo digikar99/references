@@ -1,0 +1,6 @@
+:properties:
+:id: Liebal2012Common
+:end:
+#+title: Liebal2012Common
+
+/Liebal, Kristin and Carpenter, Malinda and Tomasello, Michael/ (2012). Young children’s understanding of cultural common ground /British Journal of Developmental Psychology/ /31./ https://dx.doi.org/10.1111/j.2044-835X.2012.02080.x

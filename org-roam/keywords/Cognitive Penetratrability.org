@@ -1,0 +1,8 @@
+:properties:
+:id: Cognitive Penetratrability
+:end:
+#+title: Cognitive Penetratrability
+
+*References*
+
+- [[id:Boroditsky2011Language][How Language Shapes Thought]]

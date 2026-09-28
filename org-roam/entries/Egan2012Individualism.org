@@ -1,0 +1,6 @@
+:properties:
+:id: Egan2012Individualism
+:end:
+#+title: Egan2012Individualism
+
+/Egan, Frances/ (2012). Individualism, computation, and perceptual content /Language and Meaning in Cognitive Science/

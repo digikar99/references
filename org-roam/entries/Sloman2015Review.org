@@ -1,0 +1,6 @@
+:properties:
+:id: Sloman2015Review
+:end:
+#+title: Sloman2015Review
+
+/Sloman, Steven A. and Lagnado, David/ (2015). Causality in Thought /Annual Review of Psychology/ /66./ https://dx.doi.org/10.1146/annurev-psych-010814-015135

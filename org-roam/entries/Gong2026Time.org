@@ -1,0 +1,6 @@
+:properties:
+:id: Gong2026Time
+:end:
+#+title: Gong2026Time
+
+/Gong, Tianwei and Pacer, M and Griffiths, Thomas L. and Bramley, Neil R./ (2026). Rational causal induction from events in time. /Psychological Review/ /133./ https://dx.doi.org/10.1037/rev0000570

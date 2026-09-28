@@ -1,0 +1,6 @@
+:properties:
+:id: Smith2024Intuitive
+:end:
+#+title: Smith2024Intuitive
+
+/Smith, K. A. and Hamrick, J. B. and Sanborn, A. N. and Battaglia, P. W. and Gerstenberg, T. and Ullman, T. D. and Tenenbaum, J. B./ (2024). Intuitive Physics as Probabilistic Inference /Bayesian Models of Cognition: Reverse Engineering the Mind/

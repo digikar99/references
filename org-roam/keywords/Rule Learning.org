@@ -1,0 +1,10 @@
+:properties:
+:id: Rule Learning
+:end:
+#+title: Rule Learning
+
+*References*
+
+- [[id:Marcus1999Rule][Rule Learning by Seven-Month-Old Infants]]
+- [[id:Pena2002Signal][Signal-Driven Computations in Speech Processing]]
+- [[id:Saffran2007Dog][Dog is a dog is a dog: Infant rule learning is not specific to language]]

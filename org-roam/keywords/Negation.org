@@ -1,0 +1,8 @@
+:properties:
+:id: Negation
+:end:
+#+title: Negation
+
+*References*
+
+- [[id:Romoli2022Counterfactuals][Alternatives in Counterfactuals: What Is Right and What Is Not]]

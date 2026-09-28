@@ -1,0 +1,6 @@
+:properties:
+:id: Osherson1990Category
+:end:
+#+title: Osherson1990Category
+
+/Osherson, Daniel N. and Smith, Edward E. and Wilkie, Ormond and López, Alejandro and Shafir, Eldar/ (1990). Category-based induction. /Psychological Review/ /97./ https://doi.org/10.1037/0033-295X.97.2.185

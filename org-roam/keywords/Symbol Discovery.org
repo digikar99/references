@@ -1,0 +1,8 @@
+:properties:
+:id: Symbol Discovery
+:end:
+#+title: Symbol Discovery
+
+*References*
+
+- [[id:Alessandro2022Symbolic][Deep Symbolic Learning: Discovering Symbols and Rules from Perceptions]]

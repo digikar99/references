@@ -1,0 +1,6 @@
+:properties:
+:id: Kemp2003Semisupervised
+:end:
+#+title: Kemp2003Semisupervised
+
+/Kemp, Charles and Griffiths, Thomas and Stromsten, Sean and Tenenbaum, Joshua/ (2003). Semi-Supervised Learning with Trees /Advances in Neural Information Processing Systems/ /16./ https://proceedings.neurips.cc/paper_files/paper/2003/file/70c445ee64b1ed0583367a12a79a9ef2-Paper.pdf

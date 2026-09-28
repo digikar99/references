@@ -1,0 +1,6 @@
+:properties:
+:id: Nichols2008Good
+:end:
+#+title: Nichols2008Good
+
+/Nichols, Austin Lee and Maner, Jon K./ (2008). The Good-Subject Effect: Investigating Participant Demand Characteristics /The Journal of General Psychology/ /135./ https://dx.doi.org/10.3200/GENP.135.2.151-166

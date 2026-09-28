@@ -1,0 +1,6 @@
+:properties:
+:id: Wente2017Cultures
+:end:
+#+title: Wente2017Cultures
+
+/Wente, Adrienne O. and Kimura, Katherine and Walker, Caren M. and Banerjee, Nirajana and Fernández Flecha, María and MacDonald, Bridget and Lucas, Christopher and Gopnik, Alison/ (2017). Causal Learning Across Culture and Socioeconomic Status /Child Development/ /90./ https://doi.org/10.1111/cdev.12943

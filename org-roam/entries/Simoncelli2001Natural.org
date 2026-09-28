@@ -1,0 +1,6 @@
+:properties:
+:id: Simoncelli2001Natural
+:end:
+#+title: Simoncelli2001Natural
+
+/Simoncelli, Eero P and Olshausen, Bruno A/ (2001). Natural Image Statistics and Neural Representation /Annual Review of Neuroscience/ /24./ https://dx.doi.org/10.1146/annurev.neuro.24.1.1193

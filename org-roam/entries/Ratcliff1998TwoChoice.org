@@ -1,0 +1,6 @@
+:properties:
+:id: Ratcliff1998TwoChoice
+:end:
+#+title: Ratcliff1998TwoChoice
+
+/Ratcliff, Roger and Rouder, Jeffrey N./ (1998). Modeling Response Times for Two-Choice Decisions /Psychol. Sci./ /9./ [[https://doi.org/10.1111/1467-9280.00067][10.1111/1467-9280.00067]]

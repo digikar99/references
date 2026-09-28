@@ -1,0 +1,6 @@
+:properties:
+:id: Xia2025Kicking
+:end:
+#+title: Xia2025Kicking
+
+/Xu, Xia and Triesch, Jochen/ (2025). From Kicking to Causality: Simulating Infant Agency Detection with a Robust Intrinsic Reward // https://arxiv.org/abs/2507.15106

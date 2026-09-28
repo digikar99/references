@@ -1,0 +1,6 @@
+:properties:
+:id: Maineri2019Slider
+:end:
+#+title: Maineri2019Slider
+
+/Maineri, Angelica M. and Bison, Ivano and Luijkx, Ruud/ (2019). Slider Bars in Multi-Device Web Surveys /Social Science Computer Review/ /39./ https://dx.doi.org/10.1177/0894439319879132

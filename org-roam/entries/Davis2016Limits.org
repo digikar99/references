@@ -1,0 +1,6 @@
+:properties:
+:id: Davis2016Limits
+:end:
+#+title: Davis2016Limits
+
+/Davis, Ernest and Marcus, Gary/ (2016). The scope and limits of simulation in automated reasoning /Artificial Intelligence/ /233./ https://doi.org/10.1016/j.artint.2015.12.003

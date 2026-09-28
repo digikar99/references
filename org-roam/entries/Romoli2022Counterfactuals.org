@@ -1,0 +1,6 @@
+:properties:
+:id: Romoli2022Counterfactuals
+:end:
+#+title: Romoli2022Counterfactuals
+
+/Romoli, Jacopo and Santorio, Paolo and Wittenberg, Eva/ (2022). Alternatives in Counterfactuals: What Is Right and What Is Not /Journal of Semantics/ /39./ https://dx.doi.org/10.1093/jos/ffab023

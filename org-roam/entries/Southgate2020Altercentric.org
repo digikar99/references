@@ -1,0 +1,6 @@
+:properties:
+:id: Southgate2020Altercentric
+:end:
+#+title: Southgate2020Altercentric
+
+/Southgate, Victoria/ (2020). Are infants altercentric? The other and the self in early social cognition. /Psychological Review/ /127./ https://doi.org/10.1037/rev0000182

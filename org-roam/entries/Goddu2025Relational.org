@@ -1,0 +1,6 @@
+:properties:
+:id: Goddu2025Relational
+:end:
+#+title: Goddu2025Relational
+
+/Goddu, Mariel K. and Yiu, Eunice and Gopnik, Alison/ (2025). Causal relational problem solving in toddlers /Cognition/ /254./ https://doi.org/10.1016/j.cognition.2024.105959

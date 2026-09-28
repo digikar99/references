@@ -1,0 +1,11 @@
+:properties:
+:id: Slider Scales
+:end:
+#+title: Slider Scales
+
+*References*
+
+- [[id:Toepoel2018Formats][Sliders, visual analogue scales, or buttons: Influence of formats and scales in mobile and desktop surveys]]
+- [[id:Funke2015Negative][A Web Experiment Showing Negative Effects of Slider Scales Compared to Visual Analogue Scales and Radio Button Scales]]
+- [[id:Liu2018Default][Where Should I Start? On Default Values for Slider Questions in Web Surveys]]
+- [[id:Maineri2019Slider][Slider Bars in Multi-Device Web Surveys]]

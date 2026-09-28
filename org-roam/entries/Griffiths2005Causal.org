@@ -1,0 +1,6 @@
+:properties:
+:id: Griffiths2005Causal
+:end:
+#+title: Griffiths2005Causal
+
+/Griffiths, Thomas L. and Tenenbaum, Joshua B./ (2005). Structure and strength in causal induction /Cognitive Psychology/ /51./ https://dx.doi.org/10.1016/j.cogpsych.2005.05.004

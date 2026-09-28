@@ -1,0 +1,8 @@
+:properties:
+:id: Event Cognition
+:end:
+#+title: Event Cognition
+
+*References*
+
+- [[id:Sargent2013Segmentation][Event segmentation ability uniquely predicts event memory]]

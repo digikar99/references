@@ -1,0 +1,17 @@
+:properties:
+:id: Statistics
+:end:
+#+title: Statistics
+
+*References*
+
+- [[id:Erikgahner2021Causality][Causality models: Campbell, Rubin and Pearl \&#x2013; Erik Gahner Larsen --- erikgahner.dk]]
+- [[id:Hyvarinen1999Uniqueness][Nonlinear independent component analysis: Existence and uniqueness results]]
+- [[id:Hoijtink2019Bayes][A tutorial on testing hypotheses using the Bayes factor.]]
+- [[id:VanLissa2020Bayes][Teacher’s Corner: Evaluating Informative Hypotheses Using the Bayes Factor in Structural Equation Models]]
+- [[id:Heck2023Bayes][A review of applications of the Bayes factor in psychological research.]]
+- [[id:Douven2017Likert][A Bayesian perspective on Likert scales and central tendency]]
+- [[id:Verhagen2014Bayesian][Bayesian tests to quantify the result of a replication attempt.]]
+- [[id:Blum2013Approximate][A Comparative Review of Dimension Reduction Methods in Approximate Bayesian Computation]]
+- [[id:Vehtari2016LOO][Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC]]
+- [[id:Henrich2023Diffusion][The Seven-parameter Diffusion Model: an Implementation in Stan for Bayesian Analyses]]

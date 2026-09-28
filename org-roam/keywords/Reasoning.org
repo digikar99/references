@@ -1,0 +1,9 @@
+:properties:
+:id: Reasoning
+:end:
+#+title: Reasoning
+
+*References*
+
+- [[id:Heit2000Inductive][Properties of inductive reasoning]]
+- [[id:JohnsonLaird2019Possibilities][Possibilities as the foundation of reasoning]]

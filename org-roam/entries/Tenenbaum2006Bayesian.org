@@ -1,0 +1,6 @@
+:properties:
+:id: Tenenbaum2006Bayesian
+:end:
+#+title: Tenenbaum2006Bayesian
+
+/Tenenbaum, Joshua B. and Griffiths, Thomas L. and Kemp, Charles/ (2006). Theory-based Bayesian models of inductive learning and reasoning /Trends in Cognitive Sciences/ /10./ https://doi.org/10.1016/j.tics.2006.05.009

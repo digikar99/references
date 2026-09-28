@@ -1,0 +1,6 @@
+:properties:
+:id: Bushnell1995Spatial
+:end:
+#+title: Bushnell1995Spatial
+
+/Bushnell, Emily W. and McKenzie, Beryl E. and Lawrence, Deborah A. and Connell, Sheryl/ (1995). The Spatial Coding Strategies of One-Year-Old Infants in a Locomotor Search Task /Child Development/ /66./ https://doi.org/10.2307/1131790

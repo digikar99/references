@@ -1,0 +1,33 @@
+:properties:
+:id: Perception
+:end:
+#+title: Perception
+
+*References*
+
+- [[id:Chetverikov2022Building][Probabilistic representations as building blocks for higher-level vision]]
+- [[id:Emberson2013Lower][Is statistical learning constrained by lower level perceptual organization?]]
+- [[id:Fire2015Causality][Learning Perceptual Causality from Video]]
+- [[id:Fire2016Causality][Learning and Inferring Perceptual Causality from Video]]
+- [[id:Fiser2001Spatial][Unsupervised Statistical Learning of Higher-Order Spatial Structures from Visual Scenes]]
+- [[id:Fiser2002Temporal][Statistical learning of higher-order temporal structure from visual shape sequences.]]
+- [[id:Fiser2010Optimal][Statistically optimal perception and learning: from behavior to neural representations]]
+- [[id:Hafri2021Relations][The perception of relations]]
+- [[id:Roth2019Ensembles][Representing color and orientation ensembles: Can observers learn multiple feature distributions?]]
+- [[id:Saffran2018Statistical][Infant Statistical Learning]]
+- [[id:Schlottmann1992][Evidence for a Distinction between Judged and Perceived Causality]]
+- [[id:Winawer2007Color][Russian blues reveal effects of language on color discrimination]]
+- [[id:Sloutsky2010Develop][From Perceptual Categories to Concepts: What Develops?]]
+- [[id:Weiss2002Motion][Motion illusions as optimal percepts]]
+- [[id:Atkins2001Integration][Experience-dependent visual cue integration based on consistencies between visual and haptic percepts]]
+- [[id:Series2013Expect][Learning what to expect (in visual perception)]]
+- [[id:Clarke2020Cognition][Beyond the icon: Core cognition and the bounds of perception]]
+- [[id:Firestone2015Topdown][Cognition does not affect perception: Evaluating the evidence for “top-down” effects]]
+- [[id:Firestone2013Hills][How “Paternalistic” Is Spatial Perception? Why Wearing a Heavy Backpack Doesn’t—and Couldn’t—Make Hills Look Steeper]]
+- [[id:Ullman2015Thesis][On the nature and origin of intuitive theories: learning, physics and psychology]]
+- [[id:Balaban2024Mental][The capacity limits of mental simulation]]
+- [[id:Balaban2025Dichotomy][Physics versus graphics as an organizing dichotomy in cognition]]
+- [[id:Deneve2004Integration][Bayesian multisensory integration and cross-modal spatial links]]
+- [[id:Holden2013Real][Location memory in the real world: Category adjustment effects in 3-dimensional space]]
+- [[id:Hubbard2014Representational][Forms of momentum across space: Representational, operational, and attentional]]
+- [[id:Jiang2021Visuospatial][Errors in visuospatial working memory across space and time]]

@@ -1,0 +1,12 @@
+:properties:
+:id: Learning
+:end:
+#+title: Learning
+
+*References*
+
+- [[id:Shafto2008Teaching][Teaching Games: Statistical Sampling Assumptions for Learning in Pedagogical Situations]]
+- [[id:Herzog2025Stable][Evidence for rule versus exemplar learning strategies as stable individual differences independent from working memory]]
+- [[id:Series2013Expect][Learning what to expect (in visual perception)]]
+- [[id:Schulz2012New][Finding New Facts; Thinking New Thoughts]]
+- [[id:Bonawitz2012Balance][Children balance theories and evidence in exploration, explanation, and learning]]

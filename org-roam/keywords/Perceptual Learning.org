@@ -1,0 +1,8 @@
+:properties:
+:id: Perceptual Learning
+:end:
+#+title: Perceptual Learning
+
+*References*
+
+- [[id:Wright2024Lapse][A transient memory lapse in humans 1–3 h after training]]

@@ -1,0 +1,6 @@
+:properties:
+:id: McClelland2003Parallel
+:end:
+#+title: McClelland2003Parallel
+
+/McClelland, James L. and Rogers, Timothy T./ (2003). The parallel distributed processing approach to semantic cognition /Nature Reviews Neuroscience/ /4./ https://dx.doi.org/10.1038/nrn1076

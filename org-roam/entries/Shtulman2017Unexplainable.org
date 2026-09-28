@@ -1,0 +1,6 @@
+:properties:
+:id: Shtulman2017Unexplainable
+:end:
+#+title: Shtulman2017Unexplainable
+
+/Shtulman, Andrew and Morgan, Caitlin/ (2017). The explanatory structure of unexplainable events: Causal constraints on magical reasoning /Psychonomic Bulletin &amp; Review/ /24./ https://doi.org/10.3758/s13423-016-1206-3

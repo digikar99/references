@@ -1,0 +1,6 @@
+:properties:
+:id: Jenkins1965Contingency
+:end:
+#+title: Jenkins1965Contingency
+
+/Jenkins, Herbert M and Ward, William C/ (1965). Judgment of contingency between responses and outcomes. /Psychological monographs: General and applied/ /79./

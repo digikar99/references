@@ -1,0 +1,6 @@
+:properties:
+:id: Gardenfors2024Meaning
+:end:
+#+title: Gardenfors2024Meaning
+
+/Gärdenfors, Peter/ (2024). The Geometry and Dynamics of Meaning /Topics in Cognitive Science/ /17./ https://dx.doi.org/10.1111/tops.12767

@@ -1,0 +1,8 @@
+:properties:
+:id: Data association
+:end:
+#+title: Data association
+
+*References*
+
+- [[id:Luo2021MOTReview][Multiple Object Tracking: A Literature Review]]

@@ -1,0 +1,6 @@
+:properties:
+:id: Vriesendorp2024Genders
+:end:
+#+title: Vriesendorp2024Genders
+
+/Vriesendorp, Hielke and Wilson, Rory Thomas/ (2024). Minority genders in quantitative survey research: a data-driven approach to clear, inclusive, and accurate gender questions /Linguistics Vanguard/ /10./ https://dx.doi.org/10.1515/lingvan-2023-0025

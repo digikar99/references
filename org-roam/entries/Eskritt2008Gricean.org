@@ -1,0 +1,6 @@
+:properties:
+:id: Eskritt2008Gricean
+:end:
+#+title: Eskritt2008Gricean
+
+/Eskritt, Michelle and Whalen, Juanita and Lee, Kang/ (2008). Preschoolers can recognize violations of the Gricean maxims /British Journal of Developmental Psychology/ /26./ https://doi.org/10.1348/026151007X253260

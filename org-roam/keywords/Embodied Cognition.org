@@ -1,0 +1,8 @@
+:properties:
+:id: Embodied Cognition
+:end:
+#+title: Embodied Cognition
+
+*References*
+
+- [[id:Lakoff1999Philosophy][Philosophy in the Flesh: The Embodied Mind and its Challenge to Western Thought]]

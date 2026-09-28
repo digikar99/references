@@ -1,0 +1,6 @@
+:properties:
+:id: Gendron2024Counterfactual
+:end:
+#+title: Gendron2024Counterfactual
+
+/Gendron, Ga\"el and Ro\vzanec, Jo\vze M and Witbrock, Michael and Dobbie, Gillian/ (2024). Counterfactual Causal Inference in Natural Language with Large Language Models /arXiv preprint arXiv:2410.06392/ https://doi.org/10.48550/arXiv.2410.06392

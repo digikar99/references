@@ -1,0 +1,6 @@
+:properties:
+:id: Vandekerckhove2007Diffusion
+:end:
+#+title: Vandekerckhove2007Diffusion
+
+/Vandekerckhove, Joachim and Tuerlinckx, Francis/ (2007). Fitting the ratcliff diffusion model to experimental data /Psychonomic Bulletin \& Review/ /14./ [[https://doi.org/10.3758/BF03193087][10.3758/BF03193087]]

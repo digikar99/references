@@ -1,0 +1,12 @@
+:properties:
+:id: Artificial Intelligence
+:end:
+#+title: Artificial Intelligence
+
+*References*
+
+- [[id:Hofstadter1999Godel][Gödel, Escher, Bach: an eternal golden braid]]
+- [[id:Schulte2024Causal][Why Online Reinforcement Learning is Causal]]
+- [[id:Xu2024Causal][Causal Inference in NARS]]
+- [[id:Dreyfus2007Heidegger][Why Heideggerian AI Failed and How Fixing It Would Require Making It More Heideggerian]]
+- [[id:Lieto2019Description][A description logic framework for commonsense conceptual combination integrating typicality, probabilities and cognitive heuristics]]

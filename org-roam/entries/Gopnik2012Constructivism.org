@@ -1,0 +1,6 @@
+:properties:
+:id: Gopnik2012Constructivism
+:end:
+#+title: Gopnik2012Constructivism
+
+/Gopnik, Alison and Wellman, Henry M./ (2012). Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory. /Psychological Bulletin/ /138./ https://doi.org/10.1037/a0028044

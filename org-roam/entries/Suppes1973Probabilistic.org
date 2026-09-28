@@ -1,0 +1,6 @@
+:properties:
+:id: Suppes1973Probabilistic
+:end:
+#+title: Suppes1973Probabilistic
+
+/Patrick Suppes/ (1973). A Probabilistic Theory of Causality /British Journal for the Philosophy of Science/ /24./

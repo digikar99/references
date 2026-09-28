@@ -1,0 +1,8 @@
+:properties:
+:id: Rationality
+:end:
+#+title: Rationality
+
+*References*
+
+- [[id:Xu2009Constructivism][Induction, overhypotheses, and the shape bias: Some arguments and evidence for rational constructivism]]

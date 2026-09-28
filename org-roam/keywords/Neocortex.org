@@ -1,0 +1,8 @@
+:properties:
+:id: Neocortex
+:end:
+#+title: Neocortex
+
+*References*
+
+- [[id:selective-attention-no-neocortex][Selective Attention without a Neocortex]]

@@ -1,0 +1,6 @@
+:properties:
+:id: Lakoff1999Philosophy
+:end:
+#+title: Lakoff1999Philosophy
+
+/George Lakoff, Mark Johnson/ (1999). Philosophy in the Flesh: The Embodied Mind and its Challenge to Western Thought //

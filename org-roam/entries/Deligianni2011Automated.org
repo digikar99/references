@@ -1,0 +1,6 @@
+:properties:
+:id: Deligianni2011Automated
+:end:
+#+title: Deligianni2011Automated
+
+/Deligianni,  Fani and Senju,  Atsushi and Gergely,  Gy\"orgy and Csibra,  Gergely/ (2011). Automated gaze-contingent objects elicit orientation following in 8-month-old infants. /Developmental Psychology/ /47./ https://doi.org/10.1037/a0025659

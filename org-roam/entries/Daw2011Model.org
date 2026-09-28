@@ -1,0 +1,6 @@
+:properties:
+:id: Daw2011Model
+:end:
+#+title: Daw2011Model
+
+/Daw, Nathaniel D. and Gershman, Samuel J. and Seymour, Ben and Dayan, Peter and Dolan, Raymond J./ (2011). Model-Based Influences on Humans’ Choices and Striatal Prediction Errors /Neuron/ /69./ https://dx.doi.org/10.1016/j.neuron.2011.02.027

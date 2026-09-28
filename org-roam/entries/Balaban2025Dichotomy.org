@@ -1,0 +1,6 @@
+:properties:
+:id: Balaban2025Dichotomy
+:end:
+#+title: Balaban2025Dichotomy
+
+/Balaban, Halely and Ullman, Tomer D./ (2025). Physics versus graphics as an organizing dichotomy in cognition /Trends in Cognitive Sciences/ /29./ https://dx.doi.org/10.1016/j.tics.2025.05.003

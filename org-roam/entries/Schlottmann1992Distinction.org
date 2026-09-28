@@ -1,0 +1,6 @@
+:properties:
+:id: Schlottmann1992Distinction
+:end:
+#+title: Schlottmann1992Distinction
+
+/Schlottmann, Anne and Shanks, David R/ (1992). Evidence for a distinction between judged and perceived causality /The Quarterly Journal of Experimental Psychology/ /44./

@@ -1,0 +1,8 @@
+:properties:
+:id: Law
+:end:
+#+title: Law
+
+*References*
+
+- [[id:Alicke2021Reasonable][The Reasonable Person Standard: Psychological and Legal Perspectives]]

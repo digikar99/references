@@ -1,0 +1,8 @@
+:properties:
+:id: Nonmonotonic Reasoning
+:end:
+#+title: Nonmonotonic Reasoning
+
+*References*
+
+- [[id:Lieto2019Description][A description logic framework for commonsense conceptual combination integrating typicality, probabilities and cognitive heuristics]]

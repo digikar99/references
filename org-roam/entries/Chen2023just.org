@@ -1,0 +1,6 @@
+:properties:
+:id: Chen2023just
+:end:
+#+title: Chen2023just
+
+/Chen, Tony and Allen, Kelsey R and Cheyette, Samuel J and Tenenbaum, Josh and Smith, Kevin A/ (2023). "Just In Time" Representations for Mental Simulation in Intuitive Physics /Proceedings of the annual meeting of the cognitive science society/ /45./

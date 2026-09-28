@@ -1,0 +1,9 @@
+:properties:
+:id: Education
+:end:
+#+title: Education
+
+*References*
+
+- [[id:Blair2007Pedagogical][Pedagogical agents for learning by teaching: Teachable agents]]
+- [[id:Deibl2024Myths][Overcoming the Myths: Interactive Learning Environments as Myth Busters in Teaching and Learning]]

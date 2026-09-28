@@ -1,0 +1,6 @@
+:properties:
+:id: Beckers2019Causal
+:end:
+#+title: Beckers2019Causal
+
+/Beckers, Sander and Halpern, Joseph Y./ (2019). Abstracting Causal Models /Proceedings of the AAAI Conference on Artificial Intelligence/ /33./ https://doi.org/10.1609/aaai.v33i01.33012678

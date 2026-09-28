@@ -1,0 +1,6 @@
+:properties:
+:id: Herzog2025Stable
+:end:
+#+title: Herzog2025Stable
+
+/Herzog, Samuel A. and Goldwater, Micah B./ (2025). Evidence for rule versus exemplar learning strategies as stable individual differences independent from working memory /Memory & Cognition/ https://dx.doi.org/10.3758/s13421-025-01752-7

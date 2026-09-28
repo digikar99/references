@@ -1,0 +1,6 @@
+:properties:
+:id: Pruthi2020Structure
+:end:
+#+title: Pruthi2020Structure
+
+/Pruthi, Purva and González, Javier and Lu, Xiaoyu and Fiterau, Madalina/ (2020). Structure Mapping for Transferability of Causal Models // https://arxiv.org/abs/2007.09445

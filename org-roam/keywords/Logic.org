@@ -1,0 +1,11 @@
+:properties:
+:id: Logic
+:end:
+#+title: Logic
+
+*References*
+
+- [[id:Wang2019Everyday][Toward a Logic of Everyday Reasoning]]
+- [[id:Schnieder2011Because][A logic for ‘because’]]
+- [[id:Gardenfors1984Dynamics][The Dynamics of Belief as a Basis for Logic]]
+- [[id:Priest2008Nonclassical][An introduction to non-classical logic: From if to is]]

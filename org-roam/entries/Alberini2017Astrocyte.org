@@ -1,0 +1,6 @@
+:properties:
+:id: Alberini2017Astrocyte
+:end:
+#+title: Alberini2017Astrocyte
+
+/Alberini, Cristina M. and Cruz, Emmanuel and Descalzi, Giannina and Bessi\`eres, Benjamin and Gao, Virginia/ (2017). Astrocyte Glycogen and Lactate: New Insights into Learning and Memory Mechanisms /Glia/ /66./ https://doi.org/10.1002/glia.23250

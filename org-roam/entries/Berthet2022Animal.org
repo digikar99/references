@@ -1,0 +1,6 @@
+:properties:
+:id: Berthet2022Animal
+:end:
+#+title: Berthet2022Animal
+
+/Berthet, Mélissa and Coye, Camille and Dezecache, Guillaume and Kuhn, Jeremy/ (2022). Animal linguistics: a primer /Biological Reviews/ /98./ https://doi.org/10.1111/brv.12897

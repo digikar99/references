@@ -1,0 +1,6 @@
+:properties:
+:id: Adams2020CCMs
+:end:
+#+title: Adams2020CCMs
+
+/Blom, Tineke and Bongers, Stephan and Mooij, Joris M./ (2020). Beyond Structural Causal Models: Causal Constraints Models /Proceedings of The 35th Uncertainty in Artificial Intelligence Conference/ /115./ https://proceedings.mlr.press/v115/blom20a.html

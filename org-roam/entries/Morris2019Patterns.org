@@ -1,0 +1,6 @@
+:properties:
+:id: Morris2019Patterns
+:end:
+#+title: Morris2019Patterns
+
+/Morris, Adam and Phillips, Jonathan and Gerstenberg, Tobias and Cushman, Fiery/ (2019). Quantitative causal selection patterns in token causation /PLOS ONE/ /14./ https://dx.doi.org/10.1371/journal.pone.0219704

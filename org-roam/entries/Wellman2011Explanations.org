@@ -1,0 +1,7 @@
+:properties:
+:id: Wellman2011Explanations
+:end:
+#+title: Wellman2011Explanations
+
+/Wellman, Henry M./ (2011). Reinvigorating Explanations for the Study of Early Cognitive
+                  Development: Explanations /Child Development Perspectives/ /5./ https://doi.org/10.1111/j.1750-8606.2010.00154.x

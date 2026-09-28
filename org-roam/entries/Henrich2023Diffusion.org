@@ -1,0 +1,6 @@
+:properties:
+:id: Henrich2023Diffusion
+:end:
+#+title: Henrich2023Diffusion
+
+/Henrich, Franziska and Hartmann, Raphael and Pratz, Valentin and Voss, Andreas and Klauer, Karl Christoph/ (2023). The Seven-parameter Diffusion Model: an Implementation in Stan for Bayesian Analyses /Behavior Research Methods/ /56./ https://dx.doi.org/10.3758/s13428-023-02179-1

@@ -1,0 +1,8 @@
+:properties:
+:id: Transfer Learning
+:end:
+#+title: Transfer Learning
+
+*References*
+
+- [[id:Garber2024Transfer][Structure transfer and consolidation in visual implicit learning]]

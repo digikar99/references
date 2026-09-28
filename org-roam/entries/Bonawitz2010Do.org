@@ -1,0 +1,6 @@
+:properties:
+:id: Bonawitz2010Do
+:end:
+#+title: Bonawitz2010Do
+
+/Bonawitz,  Elizabeth Baraff and Ferranti,  Darlene and Saxe,  Rebecca and Gopnik,  Alison and Meltzoff,  Andrew N. and Woodward,  James and Schulz,  Laura E./ (2010). Just do it? Investigating the gap between prediction and action in toddlers’ causal inferences /Cognition/ /115./ https://doi.org/10.1016/j.cognition.2009.12.001

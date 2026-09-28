@@ -1,0 +1,6 @@
+:properties:
+:id: Spelke2022Babies
+:end:
+#+title: Spelke2022Babies
+
+/Spelke, E./ (2022). What Babies Know: Core Knowledge and Composition Volume 1 // https://books.google.at/books?id=E6B1EAAAQBAJ

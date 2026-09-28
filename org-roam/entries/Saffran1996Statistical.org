@@ -1,0 +1,6 @@
+:properties:
+:id: Saffran1996Statistical
+:end:
+#+title: Saffran1996Statistical
+
+/Saffran, Jenny R. and Aslin, Richard N. and Newport, Elissa L./ (1996). Statistical Learning by 8-Month-Old Infants /Science/ /274./ https://dx.doi.org/10.1126/science.274.5294.1926

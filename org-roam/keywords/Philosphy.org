@@ -1,0 +1,10 @@
+:properties:
+:id: Philosphy
+:end:
+#+title: Philosphy
+
+*References*
+
+- [[id:Gershman2018Never][How to never be wrong]]
+- [[id:Mandelbaum2018Troubles][Troubles with Bayesianism: An introduction to the psychological immune system]]
+- [[id:diSessa1993Physics][Toward an Epistemology of Physics]]

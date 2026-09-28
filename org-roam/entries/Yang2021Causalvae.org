@@ -1,0 +1,6 @@
+:properties:
+:id: Yang2021Causalvae
+:end:
+#+title: Yang2021Causalvae
+
+/Yang, Mengyue and Liu, Furui and Chen, Zhitang and Shen, Xinwei and Hao, Jianye and Wang, Jun/ (2021). CausalVAE: Disentangled representation learning via neural structural causal models /Proceedings of the IEEE/CVF conference on computer vision and pattern recognition/

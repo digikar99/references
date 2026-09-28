@@ -1,0 +1,6 @@
+:properties:
+:id: Kemp2003Theory
+:end:
+#+title: Kemp2003Theory
+
+/Kemp, Charles and Tenenbaum, Joshua B/ (2003). Theory-Based induction /Proceedings of the Annual Meeting of the Cognitive Science Society/ /25./
