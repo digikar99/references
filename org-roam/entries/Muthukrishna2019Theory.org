@@ -1,0 +1,6 @@
+:properties:
+:id: Muthukrishna2019Theory
+:end:
+#+title: Muthukrishna2019Theory
+
+/Muthukrishna, Michael and Henrich, Joseph/ (2019). A problem in theory /Nature Human Behaviour/ /3./ https://dx.doi.org/10.1038/s41562-018-0522-1

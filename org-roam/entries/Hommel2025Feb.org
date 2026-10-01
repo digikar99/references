@@ -1,0 +1,6 @@
+:properties:
+:id: Hommel2025Feb
+:end:
+#+title: Hommel2025Feb
+
+/Hommel, Bernhard/ (2025). Why psychology is not (yet) a science /Taylor \& Francis/ [[https://doi.org/10.4324/9781003360896-7][10.4324/9781003360896-7]]

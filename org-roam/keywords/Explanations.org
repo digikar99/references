@@ -28,3 +28,6 @@
 - [[id:Gijsbers2017Reconciling][Reconciling Contrastive and Non-contrastive Explanation]]
 - [[id:Kirfel2022Inference][Inference from explanation.]]
 - [[id:Besch2026][Inferring Why Someone Asked 'Why': Foil Inference in Human and LLM Question Interpretation]]
+- [[id:Hommel2025Feb][Why psychology is not (yet) a science]]
+- [[id:Hommel2019Explanations][Pseudo‐mechanistic Explanations in Psychology and Cognitive Neuroscience]]
+- [[id:Povich2025][Mechanistic Explanation in Psychology]]

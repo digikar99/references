@@ -1,0 +1,6 @@
+:properties:
+:id: Eronen2021Forward
+:end:
+#+title: Eronen2021Forward
+
+/Eronen, Markus I. and Bringmann, Laura F./ (2021). The Theory Crisis in Psychology: How to Move Forward /Perspectives on Psychological Science/ /16./ https://dx.doi.org/10.1177/1745691620970586

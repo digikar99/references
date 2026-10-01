@@ -1,0 +1,6 @@
+:properties:
+:id: Yarkoni2020Generalizability
+:end:
+#+title: Yarkoni2020Generalizability
+
+/Yarkoni, Tal/ (2020). The generalizability crisis /Behavioral and Brain Sciences/ /45./ https://dx.doi.org/10.1017/S0140525X20001685

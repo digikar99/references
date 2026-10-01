@@ -1,0 +1,6 @@
+:properties:
+:id: Machado2007Conceptual
+:end:
+#+title: Machado2007Conceptual
+
+/Machado, Armando and Silva, Francisco J./ (2007). Toward a richer view of the scientific method: The role of conceptual analysis. /American Psychologist/ /62./ https://dx.doi.org/10.1037/0003-066X.62.7.671

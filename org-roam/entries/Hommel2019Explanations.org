@@ -1,0 +1,6 @@
+:properties:
+:id: Hommel2019Explanations
+:end:
+#+title: Hommel2019Explanations
+
+/Hommel, Bernhard/ (2019). Pseudo‐mechanistic Explanations in Psychology and Cognitive Neuroscience /Topics in Cognitive Science/ /12./ https://dx.doi.org/10.1111/tops.12448

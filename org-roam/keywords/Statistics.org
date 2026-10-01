@@ -15,3 +15,4 @@
 - [[id:Blum2013Approximate][A Comparative Review of Dimension Reduction Methods in Approximate Bayesian Computation]]
 - [[id:Vehtari2016LOO][Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC]]
 - [[id:Henrich2023Diffusion][The Seven-parameter Diffusion Model: an Implementation in Stan for Bayesian Analyses]]
+- [[id:Yarkoni2020Generalizability][The generalizability crisis]]

@@ -21,3 +21,5 @@
 - [[id:OstaVelez2021Expectation][Nonmonotonic Reasoning, Expectations Orderings, and Conceptual Spaces]]
 - [[id:Gardenfors2012Empirical][Theory change as dimensional change: conceptual spaces applied to the dynamics of empirical theories]]
 - [[id:Gardenfors2018Learning][From Sensations to Concepts: a Proposal for Two Learning Processes]]
+- [[id:Eronen2021Forward][The Theory Crisis in Psychology: How to Move Forward]]
+- [[id:Machado2007Conceptual][Toward a richer view of the scientific method: The role of conceptual analysis.]]

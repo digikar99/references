@@ -90,3 +90,4 @@
 - [[id:Ratcliff1998TwoChoice][Modeling Response Times for Two-Choice Decisions]]
 - [[id:Vandekerckhove2007Diffusion][Fitting the ratcliff diffusion model to experimental data]]
 - [[id:Vandekerckhove2011Diffusion][Hierarchical diffusion models for two-choice response times.]]
+- [[id:Muthukrishna2019Theory][A problem in theory]]
