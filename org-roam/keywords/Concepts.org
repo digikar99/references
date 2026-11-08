@@ -23,3 +23,5 @@
 - [[id:Gardenfors2018Learning][From Sensations to Concepts: a Proposal for Two Learning Processes]]
 - [[id:Eronen2021Forward][The Theory Crisis in Psychology: How to Move Forward]]
 - [[id:Machado2007Conceptual][Toward a richer view of the scientific method: The role of conceptual analysis.]]
+- [[id:Haig2013Phenomena][Detecting Psychological Phenomena: Taking Bottom-Up Research Seriously]]
+- [[id:Tenenbaum2001Representativeness][The Rational Basis of Representativeness]]

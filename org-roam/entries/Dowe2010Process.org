@@ -1,0 +1,6 @@
+:properties:
+:id: Dowe2010Process
+:end:
+#+title: Dowe2010Process
+
+/Dowe, Phil/ (2010). Causal Process Theories /The Oxford Handbook of Causation/ https://dx.doi.org/10.1093/oxfordhb/9780199279739.003.0011

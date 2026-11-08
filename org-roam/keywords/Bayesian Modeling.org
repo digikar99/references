@@ -17,6 +17,7 @@
 - [[id:Kemp2008Discovery][The discovery of structural form]]
 - [[id:Koblinger2021Uncertainty][Representations of uncertainty: where art thou?]]
 - [[id:Kononenko1989Bayesian][Bayesian neural networks]]
+- [[id:Lu2008Generic][Bayesian generic priors for causal learning.]]
 - [[id:Ong2024Probabilistic][Probabilistic programming versus meta-learning as models of cognition]]
 - [[id:Tenenbaum2000Advances][Structure Learning in Human Causal Induction]]
 - [[id:Tenenbaum2006Bayesian][Theory-based Bayesian models of inductive learning and reasoning]]
@@ -52,3 +53,5 @@
 - [[id:Holden2013Real][Location memory in the real world: Category adjustment effects in 3-dimensional space]]
 - [[id:Henrich2023Diffusion][The Seven-parameter Diffusion Model: an Implementation in Stan for Bayesian Analyses]]
 - [[id:JMLR:v15:hoffman14a][The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo]]
+- [[id:Tenenbaum2001Representativeness][The Rational Basis of Representativeness]]
+- [[id:Zhao2015Integration][How You Get There From Here: Interaction of Visual Landmarks and Path Integration in Human Navigation]]

@@ -1,0 +1,11 @@
+:properties:
+:id: Legal Concepts
+:end:
+#+title: Legal Concepts
+
+*References*
+
+- [[id:Taylor2004Law][Concepts of Intention in German Criminal Law]]
+- [[id:Kneer2017Ascription][Mens rea ascription, expertise and outcome effects: Professional judges surveyed]]
+- [[id:Prochownik2020Ascription][Not as Bad as Painted? Legal Expertise, Intentionality Ascription, and Outcome Effects Revisited]]
+- [[id:Pochownik2025Ascription][How much harm does it take?: an experimental study on legal expertise, the severity effect, and intentionality ascriptions]]

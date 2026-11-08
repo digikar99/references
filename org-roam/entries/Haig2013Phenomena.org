@@ -1,0 +1,6 @@
+:properties:
+:id: Haig2013Phenomena
+:end:
+#+title: Haig2013Phenomena
+
+/Haig, Brian D./ (2013). Detecting Psychological Phenomena: Taking Bottom-Up Research Seriously /Am. J. Psychol./ /126./ [[https://doi.org/10.5406/amerjpsyc.126.2.0135][10.5406/amerjpsyc.126.2.0135]]

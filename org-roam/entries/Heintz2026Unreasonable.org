@@ -1,0 +1,6 @@
+:properties:
+:id: Heintz2026Unreasonable
+:end:
+#+title: Heintz2026Unreasonable
+
+/Heintz, Christophe and Blancke, Stefaan/ (2026). The unreasonable effectiveness of reasoning in the sciences // https://philpapers.org/rec/HEITUE

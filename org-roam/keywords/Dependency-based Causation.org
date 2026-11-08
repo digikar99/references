@@ -1,0 +1,8 @@
+:properties:
+:id: Dependency-based Causation
+:end:
+#+title: Dependency-based Causation
+
+*References*
+
+- [[id:GodfreySmith2010Pluralism][Causal Pluralism]]

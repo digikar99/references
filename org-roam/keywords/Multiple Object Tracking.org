@@ -14,3 +14,4 @@
 - [[id:Pylyshyn2004Puzzling][Some Puzzling Findings in Multiple Object Tracking: I. Tracking without Keeping Track of Object Identities]]
 - [[id:Pylyshyn2007Book][Things and Places: How the Mind Connects with the World]]
 - [[id:Pylyshyn2009Perception][Perception, Representation, and the World: The FINST That Binds]]
+- [[id:Bai2026Change][The tiger moving through the tall grass: Spontaneous perception and tracking of change-defined objects from second-order features]]

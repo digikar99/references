@@ -1,0 +1,6 @@
+:properties:
+:id: Cartwright2004Many
+:end:
+#+title: Cartwright2004Many
+
+/Cartwright, Nancy/ (2004). Causation: One Word, Many Things /Philosophy of Science/ /71./ https://dx.doi.org/10.1086/426771

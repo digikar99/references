@@ -7,3 +7,4 @@
 
 - [[id:Shtulman2017Unexplainable][The explanatory structure of unexplainable events: Causal constraints on magical reasoning]]
 - [[id:Cleland2011Prediction][Prediction and Explanation in Historical Natural Science]]
+- [[id:Heintz2026Unreasonable][The unreasonable effectiveness of reasoning in the sciences]]

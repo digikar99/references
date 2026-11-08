@@ -6,6 +6,7 @@
 *References*
 
 - [[id:Davis2016Limits][The scope and limits of simulation in automated reasoning]]
+- [[id:Gerstenberg2012Unifying][Noisy Newtons: Unifying process and dependency accounts of causal attribution]]
 - [[id:Gerstenberg2021Physical][A counterfactual simulation model of causal judgments for physical events.]]
 - [[id:LudwinPeery2021Simulation][Limits on simulation approaches in intuitive physics]]
 - [[id:Ullman2017Games][Mind Games: Game Engines as an Architecture for Intuitive Physics]]

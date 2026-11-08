@@ -8,3 +8,4 @@
 - [[id:Eronen2021Forward][The Theory Crisis in Psychology: How to Move Forward]]
 - [[id:Machado2007Conceptual][Toward a richer view of the scientific method: The role of conceptual analysis.]]
 - [[id:Hommel2025Feb][Why psychology is not (yet) a science]]
+- [[id:Haig2013Phenomena][Detecting Psychological Phenomena: Taking Bottom-Up Research Seriously]]

@@ -17,3 +17,7 @@
 - [[id:Haward2021Kind][The Formal Structure of Kind Representations]]
 - [[id:QuiltyDunn2022LOT][The best game in town: The reemergence of the language-of-thought hypothesis across the cognitive sciences]]
 - [[id:Chen2023just]["Just In Time" Representations for Mental Simulation in Intuitive Physics]]
+- [[id:Taylor2004Law][Concepts of Intention in German Criminal Law]]
+- [[id:Kneer2017Ascription][Mens rea ascription, expertise and outcome effects: Professional judges surveyed]]
+- [[id:Prochownik2020Ascription][Not as Bad as Painted? Legal Expertise, Intentionality Ascription, and Outcome Effects Revisited]]
+- [[id:Pochownik2025Ascription][How much harm does it take?: an experimental study on legal expertise, the severity effect, and intentionality ascriptions]]

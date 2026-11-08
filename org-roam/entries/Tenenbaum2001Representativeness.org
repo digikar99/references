@@ -1,0 +1,6 @@
+:properties:
+:id: Tenenbaum2001Representativeness
+:end:
+#+title: Tenenbaum2001Representativeness
+
+/Tenenbaum, Joshua B. & Griffiths, Thomas L./ (2001). The Rational Basis of Representativeness /Proceedings of the Annual Meeting of the Cognitive Science Society/ /23./ https://escholarship.org/uc/item/2733v7rp

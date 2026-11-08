@@ -1,0 +1,6 @@
+:properties:
+:id: Bai2026Change
+:end:
+#+title: Bai2026Change
+
+/Bai, Dawei and Scholl, Brian J./ (2026). The tiger moving through the tall grass: Spontaneous perception and tracking of change-defined objects from second-order features /Cognition/ /276./ [[https://doi.org/10.1016/j.cognition.2026.106657][10.1016/j.cognition.2026.106657]]

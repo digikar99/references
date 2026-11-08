@@ -14,3 +14,4 @@
 - [[id:Fitelson2011Causality][Probabilistic Measures of Causal Strength]]
 - [[id:Morris2018Judgments][Judgments of actual causation approximate the effectiveness of interventions]]
 - [[id:Lewis1973Causation][Causation]]
+- [[id:Cartwright2004Many][Causation: One Word, Many Things]]

@@ -1,0 +1,9 @@
+:properties:
+:id: Process-based Causation
+:end:
+#+title: Process-based Causation
+
+*References*
+
+- [[id:GodfreySmith2010Pluralism][Causal Pluralism]]
+- [[id:Dowe2010Process][Causal Process Theories]]

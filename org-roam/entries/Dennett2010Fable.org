@@ -1,0 +1,6 @@
+:properties:
+:id: Dennett2010Fable
+:end:
+#+title: Dennett2010Fable
+
+/Dennett, Daniel/ (2010). Two Black Boxes: a Fable /Act. Nerv. Super./ /52./ [[https://doi.org/10.1007/BF03379570][10.1007/BF03379570]]

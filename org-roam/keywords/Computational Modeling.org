@@ -12,6 +12,7 @@
 - [[id:Dewhurst2018Individuation][Individuation without Representation]]
 - [[id:Egan2010Individuation][Computational models: a modest role for content]]
 - [[id:Fiser2022Vision][Statistical Learning in Vision]]
+- [[id:Gerstenberg2012Unifying][Noisy Newtons: Unifying process and dependency accounts of causal attribution]]
 - [[id:Goodman2011Learning][Learning a theory of causality.]]
 - [[id:Gopnik2004Causal][A Theory of Causal Learning in Children: Causal Maps and Bayes Nets.]]
 - [[id:Gopnik2012Constructivism][Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory.]]

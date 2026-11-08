@@ -12,3 +12,4 @@
 - [[id:Daw2005Uncertainty][Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control]]
 - [[id:Daw2011Model][Model-Based Influences on Humans’ Choices and Striatal Prediction Errors]]
 - [[id:Glascher2010Model][States versus Rewards: Dissociable Neural Prediction Error Signals Underlying Model-Based and Model-Free Reinforcement Learning]]
+- [[id:Kaplan2011And][Explanation and description in computational neuroscience]]

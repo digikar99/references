@@ -1,0 +1,6 @@
+:properties:
+:id: Hall2004Two
+:end:
+#+title: Hall2004Two
+
+/Hall, Ned and Collins, John and Paul, Laurie/ (2004). Two concepts of causation /Metaphysics: An anthology/

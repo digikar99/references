@@ -1,0 +1,6 @@
+:properties:
+:id: Zhao2015Integration
+:end:
+#+title: Zhao2015Integration
+
+/Zhao, Mintao and Warren, William H./ (2015). How You Get There From Here: Interaction of Visual Landmarks and Path Integration in Human Navigation /Psychological Science/ /26./ https://dx.doi.org/10.1177/0956797615574952

@@ -1,0 +1,6 @@
+:properties:
+:id: Gerstenberg2012Unifying
+:end:
+#+title: Gerstenberg2012Unifying
+
+/Gerstenberg, Tobias and Goodman, Noah and Lagnado, David and Tenenbaum, Joshua/ (2012). Noisy Newtons: Unifying process and dependency accounts of causal attribution /Proceedings of the Annual Meeting of the Cognitive Science Society/ /34./ https://escholarship.org/uc/item/1496k860
